@@ -1,0 +1,322 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHSA-2006:0582",
+	"modified": "2024-09-15T16:07:57Z",
+	"published": "2024-09-15T16:07:57Z",
+	"related": [
+		"CVE-2005-2494"
+	],
+	"summary": "Red Hat Security Advisory: kdebase security fix",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "kdebase",
+				"purl": "pkg:rpm/redhat/kdebase"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6:3.3.1-5.13"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "kdebase-debuginfo",
+				"purl": "pkg:rpm/redhat/kdebase-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6:3.3.1-5.13"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "kdebase-devel",
+				"purl": "pkg:rpm/redhat/kdebase-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6:3.3.1-5.13"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "kdebase",
+				"purl": "pkg:rpm/redhat/kdebase"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6:3.3.1-5.13"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "kdebase-debuginfo",
+				"purl": "pkg:rpm/redhat/kdebase-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6:3.3.1-5.13"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "kdebase-devel",
+				"purl": "pkg:rpm/redhat/kdebase-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6:3.3.1-5.13"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "kdebase",
+				"purl": "pkg:rpm/redhat/kdebase"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6:3.3.1-5.13"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "kdebase-debuginfo",
+				"purl": "pkg:rpm/redhat/kdebase-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6:3.3.1-5.13"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "kdebase-devel",
+				"purl": "pkg:rpm/redhat/kdebase-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6:3.3.1-5.13"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "kdebase",
+				"purl": "pkg:rpm/redhat/kdebase"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6:3.3.1-5.13"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "kdebase-debuginfo",
+				"purl": "pkg:rpm/redhat/kdebase-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6:3.3.1-5.13"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "kdebase-devel",
+				"purl": "pkg:rpm/redhat/kdebase-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "6:3.3.1-5.13"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0582.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHSA-2006:0582"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "http://www.redhat.com/security/updates/classification/#low"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=166995"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2006/rhsa-2006_0582.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2005-2494"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1617726"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2005-2494"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2005-2494"
+		}
+	]
+}

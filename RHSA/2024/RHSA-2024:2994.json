@@ -1,0 +1,286 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHSA-2024:2994",
+	"modified": "2024-09-16T11:20:28Z",
+	"published": "2024-09-16T11:20:28Z",
+	"related": [
+		"CVE-2021-32142"
+	],
+	"summary": "Red Hat Security Advisory: LibRaw security update",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L"
+		}
+	],
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "LibRaw",
+				"purl": "pkg:rpm/redhat/LibRaw"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.19.5-4.el8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:2994.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "LibRaw-debuginfo",
+				"purl": "pkg:rpm/redhat/LibRaw-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.19.5-4.el8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:2994.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "LibRaw-debugsource",
+				"purl": "pkg:rpm/redhat/LibRaw-debugsource"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.19.5-4.el8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:2994.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "LibRaw-devel",
+				"purl": "pkg:rpm/redhat/LibRaw-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.19.5-4.el8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:2994.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "LibRaw-samples-debuginfo",
+				"purl": "pkg:rpm/redhat/LibRaw-samples-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.19.5-4.el8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:2994.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::crb",
+				"name": "LibRaw",
+				"purl": "pkg:rpm/redhat/LibRaw"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.19.5-4.el8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:2994.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::crb",
+				"name": "LibRaw-debuginfo",
+				"purl": "pkg:rpm/redhat/LibRaw-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.19.5-4.el8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:2994.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::crb",
+				"name": "LibRaw-debugsource",
+				"purl": "pkg:rpm/redhat/LibRaw-debugsource"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.19.5-4.el8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:2994.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::crb",
+				"name": "LibRaw-devel",
+				"purl": "pkg:rpm/redhat/LibRaw-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.19.5-4.el8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:2994.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::crb",
+				"name": "LibRaw-samples-debuginfo",
+				"purl": "pkg:rpm/redhat/LibRaw-samples-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.19.5-4.el8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:2994.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHSA-2024:2994"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#moderate"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/8.10_release_notes/index"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172004"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_2994.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2021-32142"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2021-32142"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-32142"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://github.com/LibRaw/LibRaw/issues/400"
+		}
+	]
+}

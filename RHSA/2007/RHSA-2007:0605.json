@@ -1,0 +1,226 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHSA-2007:0605",
+	"modified": "2024-09-13T06:23:02Z",
+	"published": "2024-09-13T06:23:02Z",
+	"related": [
+		"CVE-2007-3410"
+	],
+	"summary": "Red Hat Security Advisory: HelixPlayer security update",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "HelixPlayer",
+				"purl": "pkg:rpm/redhat/HelixPlayer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.0.6-0.EL4.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "HelixPlayer-debuginfo",
+				"purl": "pkg:rpm/redhat/HelixPlayer-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.0.6-0.EL4.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "HelixPlayer",
+				"purl": "pkg:rpm/redhat/HelixPlayer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.0.6-0.EL4.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "HelixPlayer-debuginfo",
+				"purl": "pkg:rpm/redhat/HelixPlayer-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.0.6-0.EL4.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "HelixPlayer",
+				"purl": "pkg:rpm/redhat/HelixPlayer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.0.6-0.EL4.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "HelixPlayer-debuginfo",
+				"purl": "pkg:rpm/redhat/HelixPlayer-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.0.6-0.EL4.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "HelixPlayer",
+				"purl": "pkg:rpm/redhat/HelixPlayer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.0.6-0.EL4.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "HelixPlayer-debuginfo",
+				"purl": "pkg:rpm/redhat/HelixPlayer-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.0.6-0.EL4.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0605.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHSA-2007:0605"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "http://www.redhat.com/security/updates/classification/#critical"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=245836"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_0605.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2007-3410"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2007-3410"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2007-3410"
+		}
+	]
+}

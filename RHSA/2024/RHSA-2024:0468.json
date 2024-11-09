@@ -1,0 +1,581 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHSA-2024:0468",
+	"modified": "2024-09-16T16:51:11Z",
+	"published": "2024-09-16T16:51:11Z",
+	"related": [
+		"CVE-2023-4001"
+	],
+	"summary": "Red Hat Security Advisory: grub2 security update",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+		}
+	],
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2",
+				"purl": "pkg:rpm/redhat/grub2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-common",
+				"purl": "pkg:rpm/redhat/grub2-common"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-debuginfo",
+				"purl": "pkg:rpm/redhat/grub2-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-debugsource",
+				"purl": "pkg:rpm/redhat/grub2-debugsource"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-efi-aa64",
+				"purl": "pkg:rpm/redhat/grub2-efi-aa64"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-efi-aa64-cdboot",
+				"purl": "pkg:rpm/redhat/grub2-efi-aa64-cdboot"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-efi-aa64-modules",
+				"purl": "pkg:rpm/redhat/grub2-efi-aa64-modules"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-efi-x64",
+				"purl": "pkg:rpm/redhat/grub2-efi-x64"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-efi-x64-cdboot",
+				"purl": "pkg:rpm/redhat/grub2-efi-x64-cdboot"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-efi-x64-modules",
+				"purl": "pkg:rpm/redhat/grub2-efi-x64-modules"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-emu-debuginfo",
+				"purl": "pkg:rpm/redhat/grub2-emu-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-pc",
+				"purl": "pkg:rpm/redhat/grub2-pc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-pc-modules",
+				"purl": "pkg:rpm/redhat/grub2-pc-modules"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-ppc64le",
+				"purl": "pkg:rpm/redhat/grub2-ppc64le"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-ppc64le-modules",
+				"purl": "pkg:rpm/redhat/grub2-ppc64le-modules"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-tools",
+				"purl": "pkg:rpm/redhat/grub2-tools"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-tools-debuginfo",
+				"purl": "pkg:rpm/redhat/grub2-tools-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-tools-efi",
+				"purl": "pkg:rpm/redhat/grub2-tools-efi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-tools-efi-debuginfo",
+				"purl": "pkg:rpm/redhat/grub2-tools-efi-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-tools-extra",
+				"purl": "pkg:rpm/redhat/grub2-tools-extra"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-tools-extra-debuginfo",
+				"purl": "pkg:rpm/redhat/grub2-tools-extra-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-tools-minimal",
+				"purl": "pkg:rpm/redhat/grub2-tools-minimal"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:9::baseos",
+				"name": "grub2-tools-minimal-debuginfo",
+				"purl": "pkg:rpm/redhat/grub2-tools-minimal-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.06-70.el9_3.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:0468.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHSA-2024:0468"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#moderate"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2224951"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_0468.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2023-4001"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2023-4001"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-4001"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://dfir.ru/2024/01/15/cve-2023-4001-a-vulnerability-in-the-downstream-grub-boot-manager/"
+		}
+	]
+}

@@ -1,0 +1,1195 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHSA-2021:4743",
+	"modified": "2024-09-13T17:29:23Z",
+	"published": "2024-09-13T17:29:23Z",
+	"related": [
+		"CVE-2021-42574"
+	],
+	"summary": "Red Hat Security Advisory: llvm-toolset:rhel8 security update",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H"
+		}
+	],
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "clang",
+				"purl": "pkg:rpm/redhat/clang"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-4.module+el8.5.0+13246+cefb5d4c"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "clang-analyzer",
+				"purl": "pkg:rpm/redhat/clang-analyzer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-4.module+el8.5.0+13246+cefb5d4c"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "clang-debuginfo",
+				"purl": "pkg:rpm/redhat/clang-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-4.module+el8.5.0+13246+cefb5d4c"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "clang-debugsource",
+				"purl": "pkg:rpm/redhat/clang-debugsource"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-4.module+el8.5.0+13246+cefb5d4c"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "clang-devel",
+				"purl": "pkg:rpm/redhat/clang-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-4.module+el8.5.0+13246+cefb5d4c"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "clang-libs",
+				"purl": "pkg:rpm/redhat/clang-libs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-4.module+el8.5.0+13246+cefb5d4c"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "clang-libs-debuginfo",
+				"purl": "pkg:rpm/redhat/clang-libs-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-4.module+el8.5.0+13246+cefb5d4c"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "clang-resource-filesystem",
+				"purl": "pkg:rpm/redhat/clang-resource-filesystem"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-4.module+el8.5.0+13246+cefb5d4c"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "clang-tools-extra",
+				"purl": "pkg:rpm/redhat/clang-tools-extra"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-4.module+el8.5.0+13246+cefb5d4c"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "clang-tools-extra-debuginfo",
+				"purl": "pkg:rpm/redhat/clang-tools-extra-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-4.module+el8.5.0+13246+cefb5d4c"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "compiler-rt",
+				"purl": "pkg:rpm/redhat/compiler-rt"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "compiler-rt-debuginfo",
+				"purl": "pkg:rpm/redhat/compiler-rt-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "compiler-rt-debugsource",
+				"purl": "pkg:rpm/redhat/compiler-rt-debugsource"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "git-clang-format",
+				"purl": "pkg:rpm/redhat/git-clang-format"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-4.module+el8.5.0+13246+cefb5d4c"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "libomp",
+				"purl": "pkg:rpm/redhat/libomp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "libomp-debuginfo",
+				"purl": "pkg:rpm/redhat/libomp-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "libomp-debugsource",
+				"purl": "pkg:rpm/redhat/libomp-debugsource"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "libomp-devel",
+				"purl": "pkg:rpm/redhat/libomp-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "libomp-test",
+				"purl": "pkg:rpm/redhat/libomp-test"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "libomp-test-debuginfo",
+				"purl": "pkg:rpm/redhat/libomp-test-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "lld",
+				"purl": "pkg:rpm/redhat/lld"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "lld-debuginfo",
+				"purl": "pkg:rpm/redhat/lld-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "lld-debugsource",
+				"purl": "pkg:rpm/redhat/lld-debugsource"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "lld-devel",
+				"purl": "pkg:rpm/redhat/lld-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "lld-libs",
+				"purl": "pkg:rpm/redhat/lld-libs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "lld-libs-debuginfo",
+				"purl": "pkg:rpm/redhat/lld-libs-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "lld-test",
+				"purl": "pkg:rpm/redhat/lld-test"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "lld-test-debuginfo",
+				"purl": "pkg:rpm/redhat/lld-test-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "lldb",
+				"purl": "pkg:rpm/redhat/lldb"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "lldb-debuginfo",
+				"purl": "pkg:rpm/redhat/lldb-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "lldb-debugsource",
+				"purl": "pkg:rpm/redhat/lldb-debugsource"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "lldb-devel",
+				"purl": "pkg:rpm/redhat/lldb-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "llvm",
+				"purl": "pkg:rpm/redhat/llvm"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-2.module+el8.5.0+12488+254d2a07"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "llvm-debuginfo",
+				"purl": "pkg:rpm/redhat/llvm-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-2.module+el8.5.0+12488+254d2a07"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "llvm-debugsource",
+				"purl": "pkg:rpm/redhat/llvm-debugsource"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-2.module+el8.5.0+12488+254d2a07"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "llvm-devel",
+				"purl": "pkg:rpm/redhat/llvm-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-2.module+el8.5.0+12488+254d2a07"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "llvm-devel-debuginfo",
+				"purl": "pkg:rpm/redhat/llvm-devel-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-2.module+el8.5.0+12488+254d2a07"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "llvm-doc",
+				"purl": "pkg:rpm/redhat/llvm-doc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-2.module+el8.5.0+12488+254d2a07"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "llvm-googletest",
+				"purl": "pkg:rpm/redhat/llvm-googletest"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-2.module+el8.5.0+12488+254d2a07"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "llvm-libs",
+				"purl": "pkg:rpm/redhat/llvm-libs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-2.module+el8.5.0+12488+254d2a07"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "llvm-libs-debuginfo",
+				"purl": "pkg:rpm/redhat/llvm-libs-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-2.module+el8.5.0+12488+254d2a07"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "llvm-static",
+				"purl": "pkg:rpm/redhat/llvm-static"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-2.module+el8.5.0+12488+254d2a07"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "llvm-test",
+				"purl": "pkg:rpm/redhat/llvm-test"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-2.module+el8.5.0+12488+254d2a07"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "llvm-test-debuginfo",
+				"purl": "pkg:rpm/redhat/llvm-test-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-2.module+el8.5.0+12488+254d2a07"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "llvm-toolset",
+				"purl": "pkg:rpm/redhat/llvm-toolset"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "python-lit",
+				"purl": "pkg:rpm/redhat/python-lit"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "python3-clang",
+				"purl": "pkg:rpm/redhat/python3-clang"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-4.module+el8.5.0+13246+cefb5d4c"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "python3-lit",
+				"purl": "pkg:rpm/redhat/python3-lit"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "python3-lldb",
+				"purl": "pkg:rpm/redhat/python3-lldb"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.0.1-1.module+el8.5.0+11871+08d0eab5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2021:4743.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHSA-2021:4743"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#moderate"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/vulnerabilities/RHSB-2021-007"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2005819"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_4743.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2021-42574"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2021-42574"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-42574"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://trojansource.codes/"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.unicode.org/reports/tr36/#Bidirectional_Text_Spoofing"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.unicode.org/reports/tr39/"
+		}
+	]
+}

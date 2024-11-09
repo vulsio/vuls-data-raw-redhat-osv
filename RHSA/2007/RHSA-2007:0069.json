@@ -1,0 +1,3517 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHSA-2007:0069",
+	"modified": "2024-09-15T16:33:58Z",
+	"published": "2024-09-15T16:33:58Z",
+	"related": [
+		"CVE-2007-0238",
+		"CVE-2007-0239"
+	],
+	"summary": "Red Hat Security Advisory: openoffice.org security update",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org",
+				"purl": "pkg:rpm/redhat/openoffice.org"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-base",
+				"purl": "pkg:rpm/redhat/openoffice.org-base"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-calc",
+				"purl": "pkg:rpm/redhat/openoffice.org-calc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-core",
+				"purl": "pkg:rpm/redhat/openoffice.org-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-debuginfo",
+				"purl": "pkg:rpm/redhat/openoffice.org-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-draw",
+				"purl": "pkg:rpm/redhat/openoffice.org-draw"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-emailmerge",
+				"purl": "pkg:rpm/redhat/openoffice.org-emailmerge"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-graphicfilter",
+				"purl": "pkg:rpm/redhat/openoffice.org-graphicfilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-impress",
+				"purl": "pkg:rpm/redhat/openoffice.org-impress"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-javafilter",
+				"purl": "pkg:rpm/redhat/openoffice.org-javafilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-af_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-af_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-ar",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ar"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-as_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-as_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-bg_BG",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-bg_BG"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-bn",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-bn"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-ca_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ca_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-cs_CZ",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-cs_CZ"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-cy_GB",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-cy_GB"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-da_DK",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-da_DK"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-de",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-de"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-el_GR",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-el_GR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-es",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-es"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-et_EE",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-et_EE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-eu_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-eu_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-fi_FI",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-fi_FI"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-fr",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-fr"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-ga_IE",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ga_IE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-gl_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-gl_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-gu_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-gu_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-he_IL",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-he_IL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-hi_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-hi_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-hr_HR",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-hr_HR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-hu_HU",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-hu_HU"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-it",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-it"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-ja_JP",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ja_JP"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-kn_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-kn_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-ko_KR",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ko_KR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-lt_LT",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-lt_LT"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-ml_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ml_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-mr_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-mr_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-ms_MY",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ms_MY"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-nb_NO",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-nb_NO"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-nl",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-nl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-nn_NO",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-nn_NO"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-nr_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-nr_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-nso_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-nso_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-or_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-or_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-pa_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-pa_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-pl_PL",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-pl_PL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-pt_BR",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-pt_BR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-pt_PT",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-pt_PT"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-ru",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ru"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-sk_SK",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-sk_SK"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-sl_SI",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-sl_SI"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-sr_CS",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-sr_CS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-ss_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ss_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-st_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-st_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-sv",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-sv"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-ta_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ta_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-te_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-te_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-th_TH",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-th_TH"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-tn_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-tn_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-tr_TR",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-tr_TR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-ts_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ts_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-ur",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ur"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-ve_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ve_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-xh_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-xh_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-zh_CN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-zh_CN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-zh_TW",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-zh_TW"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-langpack-zu_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-zu_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-math",
+				"purl": "pkg:rpm/redhat/openoffice.org-math"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-pyuno",
+				"purl": "pkg:rpm/redhat/openoffice.org-pyuno"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-testtools",
+				"purl": "pkg:rpm/redhat/openoffice.org-testtools"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-writer",
+				"purl": "pkg:rpm/redhat/openoffice.org-writer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:5::client",
+				"name": "openoffice.org-xsltfilter",
+				"purl": "pkg:rpm/redhat/openoffice.org-xsltfilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org",
+				"purl": "pkg:rpm/redhat/openoffice.org"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-base",
+				"purl": "pkg:rpm/redhat/openoffice.org-base"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-calc",
+				"purl": "pkg:rpm/redhat/openoffice.org-calc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-core",
+				"purl": "pkg:rpm/redhat/openoffice.org-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-debuginfo",
+				"purl": "pkg:rpm/redhat/openoffice.org-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-draw",
+				"purl": "pkg:rpm/redhat/openoffice.org-draw"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-emailmerge",
+				"purl": "pkg:rpm/redhat/openoffice.org-emailmerge"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-graphicfilter",
+				"purl": "pkg:rpm/redhat/openoffice.org-graphicfilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-impress",
+				"purl": "pkg:rpm/redhat/openoffice.org-impress"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-javafilter",
+				"purl": "pkg:rpm/redhat/openoffice.org-javafilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-af_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-af_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-ar",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ar"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-as_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-as_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-bg_BG",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-bg_BG"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-bn",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-bn"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-ca_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ca_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-cs_CZ",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-cs_CZ"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-cy_GB",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-cy_GB"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-da_DK",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-da_DK"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-de",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-de"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-el_GR",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-el_GR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-es",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-es"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-et_EE",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-et_EE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-eu_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-eu_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-fi_FI",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-fi_FI"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-fr",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-fr"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-ga_IE",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ga_IE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-gl_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-gl_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-gu_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-gu_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-he_IL",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-he_IL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-hi_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-hi_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-hr_HR",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-hr_HR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-hu_HU",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-hu_HU"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-it",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-it"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-ja_JP",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ja_JP"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-kn_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-kn_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-ko_KR",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ko_KR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-lt_LT",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-lt_LT"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-ml_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ml_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-mr_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-mr_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-ms_MY",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ms_MY"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-nb_NO",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-nb_NO"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-nl",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-nl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-nn_NO",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-nn_NO"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-nr_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-nr_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-nso_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-nso_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-or_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-or_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-pa_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-pa_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-pl_PL",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-pl_PL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-pt_BR",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-pt_BR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-pt_PT",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-pt_PT"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-ru",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ru"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-sk_SK",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-sk_SK"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-sl_SI",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-sl_SI"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-sr_CS",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-sr_CS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-ss_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ss_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-st_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-st_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-sv",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-sv"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-ta_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ta_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-te_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-te_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-th_TH",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-th_TH"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-tn_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-tn_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-tr_TR",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-tr_TR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-ts_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ts_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-ur",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ur"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-ve_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-ve_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-xh_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-xh_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-zh_CN",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-zh_CN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-zh_TW",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-zh_TW"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-langpack-zu_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org-langpack-zu_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-math",
+				"purl": "pkg:rpm/redhat/openoffice.org-math"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-pyuno",
+				"purl": "pkg:rpm/redhat/openoffice.org-pyuno"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-testtools",
+				"purl": "pkg:rpm/redhat/openoffice.org-testtools"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-writer",
+				"purl": "pkg:rpm/redhat/openoffice.org-writer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_productivity:5",
+				"name": "openoffice.org-xsltfilter",
+				"purl": "pkg:rpm/redhat/openoffice.org-xsltfilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.4.17.1"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:0069.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHSA-2007:0069"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#important"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=226967"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=228002"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_0069.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2007-0238"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1618265"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2007-0238"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2007-0238"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2007-0239"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1618266"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2007-0239"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2007-0239"
+		}
+	]
+}

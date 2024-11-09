@@ -1,0 +1,151 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHSA-2007:1031",
+	"modified": "2024-09-15T17:01:36Z",
+	"published": "2024-09-15T17:01:36Z",
+	"related": [
+		"CVE-2007-4033",
+		"CVE-2007-5393"
+	],
+	"summary": "Red Hat Security Advisory: xpdf security update",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:2.1::as",
+				"name": "xpdf",
+				"purl": "pkg:rpm/redhat/xpdf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.92-19.el2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:1031.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:2.1::aw",
+				"name": "xpdf",
+				"purl": "pkg:rpm/redhat/xpdf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.92-19.el2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:1031.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:2.1::es",
+				"name": "xpdf",
+				"purl": "pkg:rpm/redhat/xpdf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.92-19.el2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:1031.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:2.1::ws",
+				"name": "xpdf",
+				"purl": "pkg:rpm/redhat/xpdf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.92-19.el2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2007:1031.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHSA-2007:1031"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "http://www.redhat.com/security/updates/classification/#important"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=345121"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=352271"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_1031.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2007-4033"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2007-4033"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2007-4033"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2007-5393"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2007-5393"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2007-5393"
+		}
+	]
+}

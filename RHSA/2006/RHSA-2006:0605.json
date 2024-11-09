@@ -1,0 +1,326 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHSA-2006:0605",
+	"modified": "2024-09-15T16:19:42Z",
+	"published": "2024-09-15T16:19:42Z",
+	"related": [
+		"CVE-2006-3813"
+	],
+	"summary": "Red Hat Security Advisory: perl security update",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "perl",
+				"purl": "pkg:rpm/redhat/perl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3:5.8.5-36.RHEL4"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "perl-debuginfo",
+				"purl": "pkg:rpm/redhat/perl-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3:5.8.5-36.RHEL4"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "perl-suidperl",
+				"purl": "pkg:rpm/redhat/perl-suidperl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3:5.8.5-36.RHEL4"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "perl",
+				"purl": "pkg:rpm/redhat/perl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3:5.8.5-36.RHEL4"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "perl-debuginfo",
+				"purl": "pkg:rpm/redhat/perl-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3:5.8.5-36.RHEL4"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "perl-suidperl",
+				"purl": "pkg:rpm/redhat/perl-suidperl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3:5.8.5-36.RHEL4"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "perl",
+				"purl": "pkg:rpm/redhat/perl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3:5.8.5-36.RHEL4"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "perl-debuginfo",
+				"purl": "pkg:rpm/redhat/perl-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3:5.8.5-36.RHEL4"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "perl-suidperl",
+				"purl": "pkg:rpm/redhat/perl-suidperl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3:5.8.5-36.RHEL4"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "perl",
+				"purl": "pkg:rpm/redhat/perl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3:5.8.5-36.RHEL4"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "perl-debuginfo",
+				"purl": "pkg:rpm/redhat/perl-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3:5.8.5-36.RHEL4"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0605.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "perl-suidperl",
+				"purl": "pkg:rpm/redhat/perl-suidperl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3:5.8.5-36.RHEL4"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2006:0605.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHSA-2006:0605"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "http://rhn.redhat.com/errata/RHSA-2005-105.html"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2005-0155"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "http://www.redhat.com/security/updates/classification/#important"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2006/rhsa-2006_0605.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2006-3813"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1618172"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2006-3813"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2006-3813"
+		}
+	]
+}

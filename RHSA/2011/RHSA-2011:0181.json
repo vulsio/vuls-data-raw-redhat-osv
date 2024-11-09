@@ -1,0 +1,6107 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHSA-2011:0181",
+	"modified": "2024-09-15T18:43:16Z",
+	"published": "2024-09-15T18:43:16Z",
+	"related": [
+		"CVE-2010-3450",
+		"CVE-2010-3451",
+		"CVE-2010-3452",
+		"CVE-2010-3453",
+		"CVE-2010-3454",
+		"CVE-2010-4643"
+	],
+	"summary": "Red Hat Security Advisory: openoffice.org and openoffice.org2 security update",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org",
+				"purl": "pkg:rpm/redhat/openoffice.org"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org-debuginfo",
+				"purl": "pkg:rpm/redhat/openoffice.org-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org-i18n",
+				"purl": "pkg:rpm/redhat/openoffice.org-i18n"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org-kde",
+				"purl": "pkg:rpm/redhat/openoffice.org-kde"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org-libs",
+				"purl": "pkg:rpm/redhat/openoffice.org-libs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2",
+				"purl": "pkg:rpm/redhat/openoffice.org2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-base",
+				"purl": "pkg:rpm/redhat/openoffice.org2-base"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-calc",
+				"purl": "pkg:rpm/redhat/openoffice.org2-calc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-core",
+				"purl": "pkg:rpm/redhat/openoffice.org2-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-debuginfo",
+				"purl": "pkg:rpm/redhat/openoffice.org2-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-draw",
+				"purl": "pkg:rpm/redhat/openoffice.org2-draw"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-emailmerge",
+				"purl": "pkg:rpm/redhat/openoffice.org2-emailmerge"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-graphicfilter",
+				"purl": "pkg:rpm/redhat/openoffice.org2-graphicfilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-impress",
+				"purl": "pkg:rpm/redhat/openoffice.org2-impress"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-javafilter",
+				"purl": "pkg:rpm/redhat/openoffice.org2-javafilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-af_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-af_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-ar",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ar"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-bg_BG",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-bg_BG"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-bn",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-bn"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-ca_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ca_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-cs_CZ",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-cs_CZ"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-cy_GB",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-cy_GB"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-da_DK",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-da_DK"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-de",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-de"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-el_GR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-el_GR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-es",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-es"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-et_EE",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-et_EE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-eu_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-eu_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-fi_FI",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-fi_FI"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-fr",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-fr"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-ga_IE",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ga_IE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-gl_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-gl_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-gu_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-gu_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-he_IL",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-he_IL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-hi_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-hi_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-hr_HR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-hr_HR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-hu_HU",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-hu_HU"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-it",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-it"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-ja_JP",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ja_JP"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-ko_KR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ko_KR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-lt_LT",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-lt_LT"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-ms_MY",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ms_MY"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-nb_NO",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-nb_NO"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-nl",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-nl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-nn_NO",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-nn_NO"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-pa_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pa_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-pl_PL",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pl_PL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-pt_BR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pt_BR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-pt_PT",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pt_PT"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-ru",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ru"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-sk_SK",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sk_SK"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-sl_SI",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sl_SI"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-sr_CS",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sr_CS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-sv",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sv"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-ta_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ta_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-th_TH",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-th_TH"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-tr_TR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-tr_TR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-zh_CN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-zh_CN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-zh_TW",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-zh_TW"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-langpack-zu_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-zu_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-math",
+				"purl": "pkg:rpm/redhat/openoffice.org2-math"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-pyuno",
+				"purl": "pkg:rpm/redhat/openoffice.org2-pyuno"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-testtools",
+				"purl": "pkg:rpm/redhat/openoffice.org2-testtools"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-writer",
+				"purl": "pkg:rpm/redhat/openoffice.org2-writer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::as",
+				"name": "openoffice.org2-xsltfilter",
+				"purl": "pkg:rpm/redhat/openoffice.org2-xsltfilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org",
+				"purl": "pkg:rpm/redhat/openoffice.org"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org-debuginfo",
+				"purl": "pkg:rpm/redhat/openoffice.org-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org-i18n",
+				"purl": "pkg:rpm/redhat/openoffice.org-i18n"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org-kde",
+				"purl": "pkg:rpm/redhat/openoffice.org-kde"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org-libs",
+				"purl": "pkg:rpm/redhat/openoffice.org-libs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2",
+				"purl": "pkg:rpm/redhat/openoffice.org2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-base",
+				"purl": "pkg:rpm/redhat/openoffice.org2-base"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-calc",
+				"purl": "pkg:rpm/redhat/openoffice.org2-calc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-core",
+				"purl": "pkg:rpm/redhat/openoffice.org2-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-debuginfo",
+				"purl": "pkg:rpm/redhat/openoffice.org2-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-draw",
+				"purl": "pkg:rpm/redhat/openoffice.org2-draw"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-emailmerge",
+				"purl": "pkg:rpm/redhat/openoffice.org2-emailmerge"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-graphicfilter",
+				"purl": "pkg:rpm/redhat/openoffice.org2-graphicfilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-impress",
+				"purl": "pkg:rpm/redhat/openoffice.org2-impress"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-javafilter",
+				"purl": "pkg:rpm/redhat/openoffice.org2-javafilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-af_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-af_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-ar",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ar"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-bg_BG",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-bg_BG"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-bn",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-bn"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-ca_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ca_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-cs_CZ",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-cs_CZ"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-cy_GB",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-cy_GB"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-da_DK",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-da_DK"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-de",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-de"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-el_GR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-el_GR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-es",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-es"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-et_EE",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-et_EE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-eu_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-eu_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-fi_FI",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-fi_FI"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-fr",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-fr"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-ga_IE",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ga_IE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-gl_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-gl_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-gu_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-gu_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-he_IL",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-he_IL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-hi_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-hi_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-hr_HR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-hr_HR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-hu_HU",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-hu_HU"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-it",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-it"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-ja_JP",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ja_JP"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-ko_KR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ko_KR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-lt_LT",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-lt_LT"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-ms_MY",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ms_MY"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-nb_NO",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-nb_NO"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-nl",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-nl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-nn_NO",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-nn_NO"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-pa_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pa_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-pl_PL",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pl_PL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-pt_BR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pt_BR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-pt_PT",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pt_PT"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-ru",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ru"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-sk_SK",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sk_SK"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-sl_SI",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sl_SI"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-sr_CS",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sr_CS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-sv",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sv"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-ta_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ta_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-th_TH",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-th_TH"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-tr_TR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-tr_TR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-zh_CN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-zh_CN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-zh_TW",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-zh_TW"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-langpack-zu_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-zu_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-math",
+				"purl": "pkg:rpm/redhat/openoffice.org2-math"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-pyuno",
+				"purl": "pkg:rpm/redhat/openoffice.org2-pyuno"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-testtools",
+				"purl": "pkg:rpm/redhat/openoffice.org2-testtools"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-writer",
+				"purl": "pkg:rpm/redhat/openoffice.org2-writer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::desktop",
+				"name": "openoffice.org2-xsltfilter",
+				"purl": "pkg:rpm/redhat/openoffice.org2-xsltfilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org",
+				"purl": "pkg:rpm/redhat/openoffice.org"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org-debuginfo",
+				"purl": "pkg:rpm/redhat/openoffice.org-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org-i18n",
+				"purl": "pkg:rpm/redhat/openoffice.org-i18n"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org-kde",
+				"purl": "pkg:rpm/redhat/openoffice.org-kde"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org-libs",
+				"purl": "pkg:rpm/redhat/openoffice.org-libs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2",
+				"purl": "pkg:rpm/redhat/openoffice.org2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-base",
+				"purl": "pkg:rpm/redhat/openoffice.org2-base"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-calc",
+				"purl": "pkg:rpm/redhat/openoffice.org2-calc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-core",
+				"purl": "pkg:rpm/redhat/openoffice.org2-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-debuginfo",
+				"purl": "pkg:rpm/redhat/openoffice.org2-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-draw",
+				"purl": "pkg:rpm/redhat/openoffice.org2-draw"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-emailmerge",
+				"purl": "pkg:rpm/redhat/openoffice.org2-emailmerge"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-graphicfilter",
+				"purl": "pkg:rpm/redhat/openoffice.org2-graphicfilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-impress",
+				"purl": "pkg:rpm/redhat/openoffice.org2-impress"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-javafilter",
+				"purl": "pkg:rpm/redhat/openoffice.org2-javafilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-af_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-af_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-ar",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ar"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-bg_BG",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-bg_BG"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-bn",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-bn"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-ca_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ca_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-cs_CZ",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-cs_CZ"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-cy_GB",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-cy_GB"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-da_DK",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-da_DK"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-de",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-de"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-el_GR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-el_GR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-es",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-es"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-et_EE",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-et_EE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-eu_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-eu_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-fi_FI",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-fi_FI"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-fr",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-fr"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-ga_IE",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ga_IE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-gl_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-gl_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-gu_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-gu_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-he_IL",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-he_IL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-hi_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-hi_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-hr_HR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-hr_HR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-hu_HU",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-hu_HU"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-it",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-it"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-ja_JP",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ja_JP"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-ko_KR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ko_KR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-lt_LT",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-lt_LT"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-ms_MY",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ms_MY"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-nb_NO",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-nb_NO"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-nl",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-nl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-nn_NO",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-nn_NO"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-pa_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pa_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-pl_PL",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pl_PL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-pt_BR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pt_BR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-pt_PT",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pt_PT"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-ru",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ru"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-sk_SK",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sk_SK"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-sl_SI",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sl_SI"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-sr_CS",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sr_CS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-sv",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sv"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-ta_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ta_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-th_TH",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-th_TH"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-tr_TR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-tr_TR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-zh_CN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-zh_CN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-zh_TW",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-zh_TW"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-langpack-zu_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-zu_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-math",
+				"purl": "pkg:rpm/redhat/openoffice.org2-math"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-pyuno",
+				"purl": "pkg:rpm/redhat/openoffice.org2-pyuno"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-testtools",
+				"purl": "pkg:rpm/redhat/openoffice.org2-testtools"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-writer",
+				"purl": "pkg:rpm/redhat/openoffice.org2-writer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::es",
+				"name": "openoffice.org2-xsltfilter",
+				"purl": "pkg:rpm/redhat/openoffice.org2-xsltfilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org",
+				"purl": "pkg:rpm/redhat/openoffice.org"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org-debuginfo",
+				"purl": "pkg:rpm/redhat/openoffice.org-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org-i18n",
+				"purl": "pkg:rpm/redhat/openoffice.org-i18n"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org-kde",
+				"purl": "pkg:rpm/redhat/openoffice.org-kde"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org-libs",
+				"purl": "pkg:rpm/redhat/openoffice.org-libs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.5-10.7.el4_8.10"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2",
+				"purl": "pkg:rpm/redhat/openoffice.org2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-base",
+				"purl": "pkg:rpm/redhat/openoffice.org2-base"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-calc",
+				"purl": "pkg:rpm/redhat/openoffice.org2-calc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-core",
+				"purl": "pkg:rpm/redhat/openoffice.org2-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-debuginfo",
+				"purl": "pkg:rpm/redhat/openoffice.org2-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-draw",
+				"purl": "pkg:rpm/redhat/openoffice.org2-draw"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-emailmerge",
+				"purl": "pkg:rpm/redhat/openoffice.org2-emailmerge"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-graphicfilter",
+				"purl": "pkg:rpm/redhat/openoffice.org2-graphicfilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-impress",
+				"purl": "pkg:rpm/redhat/openoffice.org2-impress"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-javafilter",
+				"purl": "pkg:rpm/redhat/openoffice.org2-javafilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-af_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-af_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-ar",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ar"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-bg_BG",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-bg_BG"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-bn",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-bn"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-ca_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ca_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-cs_CZ",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-cs_CZ"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-cy_GB",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-cy_GB"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-da_DK",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-da_DK"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-de",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-de"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-el_GR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-el_GR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-es",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-es"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-et_EE",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-et_EE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-eu_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-eu_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-fi_FI",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-fi_FI"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-fr",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-fr"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-ga_IE",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ga_IE"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-gl_ES",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-gl_ES"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-gu_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-gu_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-he_IL",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-he_IL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-hi_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-hi_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-hr_HR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-hr_HR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-hu_HU",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-hu_HU"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-it",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-it"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-ja_JP",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ja_JP"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-ko_KR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ko_KR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-lt_LT",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-lt_LT"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-ms_MY",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ms_MY"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-nb_NO",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-nb_NO"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-nl",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-nl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-nn_NO",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-nn_NO"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-pa_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pa_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-pl_PL",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pl_PL"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-pt_BR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pt_BR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-pt_PT",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-pt_PT"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-ru",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ru"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-sk_SK",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sk_SK"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-sl_SI",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sl_SI"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-sr_CS",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sr_CS"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-sv",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-sv"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-ta_IN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-ta_IN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-th_TH",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-th_TH"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-tr_TR",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-tr_TR"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-zh_CN",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-zh_CN"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-zh_TW",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-zh_TW"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-langpack-zu_ZA",
+				"purl": "pkg:rpm/redhat/openoffice.org2-langpack-zu_ZA"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-math",
+				"purl": "pkg:rpm/redhat/openoffice.org2-math"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-pyuno",
+				"purl": "pkg:rpm/redhat/openoffice.org2-pyuno"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-testtools",
+				"purl": "pkg:rpm/redhat/openoffice.org2-testtools"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-writer",
+				"purl": "pkg:rpm/redhat/openoffice.org2-writer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:4::ws",
+				"name": "openoffice.org2-xsltfilter",
+				"purl": "pkg:rpm/redhat/openoffice.org2-xsltfilter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.4-5.7.0.6.1.el4_8.8"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2011:0181.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHSA-2011:0181"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#important"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=602324"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=640241"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=640950"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=640954"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=641282"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=667588"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_0181.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2010-3450"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2010-3450"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2010-3450"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2010-3451"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2010-3451"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2010-3451"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2010-3452"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2010-3452"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2010-3452"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2010-3453"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2010-3453"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2010-3453"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2010-3454"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2010-3454"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2010-3454"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2010-4643"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2010-4643"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2010-4643"
+		}
+	]
+}

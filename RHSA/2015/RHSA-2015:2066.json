@@ -1,0 +1,2874 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHSA-2015:2066",
+	"modified": "2024-09-13T10:38:56Z",
+	"published": "2024-09-13T10:38:56Z",
+	"related": [
+		"CVE-2015-5245"
+	],
+	"summary": "Red Hat Security Advisory: Red Hat Ceph Storage 1.3.1 security, bug fix, and enhancement update",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "babeltrace",
+				"purl": "pkg:rpm/redhat/babeltrace"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.2.4-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "babeltrace-debuginfo",
+				"purl": "pkg:rpm/redhat/babeltrace-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.2.4-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ceph",
+				"purl": "pkg:rpm/redhat/ceph"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.94.3-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ceph-common",
+				"purl": "pkg:rpm/redhat/ceph-common"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.94.3-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ceph-debuginfo",
+				"purl": "pkg:rpm/redhat/ceph-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.94.3-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ceph-mon",
+				"purl": "pkg:rpm/redhat/ceph-mon"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.94.3-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ceph-osd",
+				"purl": "pkg:rpm/redhat/ceph-osd"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.94.3-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ceph-radosgw",
+				"purl": "pkg:rpm/redhat/ceph-radosgw"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.94.3-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ceph-test",
+				"purl": "pkg:rpm/redhat/ceph-test"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.94.3-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "libbabeltrace",
+				"purl": "pkg:rpm/redhat/libbabeltrace"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.2.4-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "librados2",
+				"purl": "pkg:rpm/redhat/librados2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.94.3-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "librados2-devel",
+				"purl": "pkg:rpm/redhat/librados2-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.94.3-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "librbd1",
+				"purl": "pkg:rpm/redhat/librbd1"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.94.3-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "librbd1-devel",
+				"purl": "pkg:rpm/redhat/librbd1-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.94.3-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "lttng-tools",
+				"purl": "pkg:rpm/redhat/lttng-tools"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.4.1-1.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "lttng-tools-debuginfo",
+				"purl": "pkg:rpm/redhat/lttng-tools-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.4.1-1.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "lttng-ust",
+				"purl": "pkg:rpm/redhat/lttng-ust"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.4.1-1.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "lttng-ust-debuginfo",
+				"purl": "pkg:rpm/redhat/lttng-ust-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.4.1-1.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "python-rados",
+				"purl": "pkg:rpm/redhat/python-rados"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.94.3-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "python-rbd",
+				"purl": "pkg:rpm/redhat/python-rbd"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.94.3-3.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "radosgw-agent",
+				"purl": "pkg:rpm/redhat/radosgw-agent"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.2.3-1.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "userspace-rcu",
+				"purl": "pkg:rpm/redhat/userspace-rcu"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.9-2.el7rhgs"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "userspace-rcu-debuginfo",
+				"purl": "pkg:rpm/redhat/userspace-rcu-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.9-2.el7rhgs"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "calamari-server",
+				"purl": "pkg:rpm/redhat/calamari-server"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3-11.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ceph-deploy",
+				"purl": "pkg:rpm/redhat/ceph-deploy"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.5.27.3-1.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ceph-puppet-modules",
+				"purl": "pkg:rpm/redhat/ceph-puppet-modules"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.1-1.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "facter",
+				"purl": "pkg:rpm/redhat/facter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.7.6-2.1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "facter-debuginfo",
+				"purl": "pkg:rpm/redhat/facter-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.7.6-2.1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "foreman",
+				"purl": "pkg:rpm/redhat/foreman"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.7.2.33-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "foreman-debug",
+				"purl": "pkg:rpm/redhat/foreman-debug"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.7.2.33-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "foreman-installer",
+				"purl": "pkg:rpm/redhat/foreman-installer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.7.5-2.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "foreman-postgresql",
+				"purl": "pkg:rpm/redhat/foreman-postgresql"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.7.2.33-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "foreman-proxy",
+				"purl": "pkg:rpm/redhat/foreman-proxy"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.7.2.5-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "foreman-release",
+				"purl": "pkg:rpm/redhat/foreman-release"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.7.2.33-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "foreman-selinux",
+				"purl": "pkg:rpm/redhat/foreman-selinux"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.7.2.13-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "foreman-sqlite",
+				"purl": "pkg:rpm/redhat/foreman-sqlite"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.7.2.33-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "hiera",
+				"purl": "pkg:rpm/redhat/hiera"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.1-2.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ipxe",
+				"purl": "pkg:rpm/redhat/ipxe"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:20130517-7.1fm.gitc4bce43.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ipxe-bootimgs",
+				"purl": "pkg:rpm/redhat/ipxe-bootimgs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:20130517-7.1fm.gitc4bce43.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ipxe-roms",
+				"purl": "pkg:rpm/redhat/ipxe-roms"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:20130517-7.1fm.gitc4bce43.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ipxe-roms-qemu",
+				"purl": "pkg:rpm/redhat/ipxe-roms-qemu"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:20130517-7.1fm.gitc4bce43.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "mod_passenger",
+				"purl": "pkg:rpm/redhat/mod_passenger"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-19.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "puppet",
+				"purl": "pkg:rpm/redhat/puppet"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.6.2-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "puppet-server",
+				"purl": "pkg:rpm/redhat/puppet-server"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.6.2-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rhcs-installer",
+				"purl": "pkg:rpm/redhat/rhcs-installer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.0-1.el7cp"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby-augeas",
+				"purl": "pkg:rpm/redhat/ruby-augeas"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.0-1.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby-augeas-debuginfo",
+				"purl": "pkg:rpm/redhat/ruby-augeas-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.0-1.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby-rgen",
+				"purl": "pkg:rpm/redhat/ruby-rgen"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.6.5-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby-shadow",
+				"purl": "pkg:rpm/redhat/ruby-shadow"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.1-21.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby-shadow-debuginfo",
+				"purl": "pkg:rpm/redhat/ruby-shadow-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.1-21.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-facter",
+				"purl": "pkg:rpm/redhat/ruby193-facter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.6.18-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-ruby-wrapper",
+				"purl": "pkg:rpm/redhat/ruby193-ruby-wrapper"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.0.2-6.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-ancestry",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-ancestry"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.0.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-apipie-rails",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-apipie-rails"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.2.5-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-audited",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-audited"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.0-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-audited-activerecord",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-audited-activerecord"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.0-8.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-bundler_ext",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-bundler_ext"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.3.0-6.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-deep_cloneable",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-deep_cloneable"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.0.0-4.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-fast_gettext",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-fast_gettext"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.8.0-13.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-foreigner",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-foreigner"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.2-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-foreman_bootdisk",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-foreman_bootdisk"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.2.13-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-friendly_id",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-friendly_id"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.10.1-1.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-gettext_i18n_rails",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-gettext_i18n_rails"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.10.0-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-gettext_i18n_rails_js",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-gettext_i18n_rails_js"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.0.8-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-i18n_data",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-i18n_data"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.2.7-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-ldap_fluff",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-ldap_fluff"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.3.2-1.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-multi_json",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-multi_json"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.8.2-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-net-ldap",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-net-ldap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.3.1-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-oauth",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-oauth"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.4.7-8.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-passenger",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-passenger"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-19.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-passenger-debuginfo",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-passenger-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-19.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-passenger-native",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-passenger-native"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-19.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-passenger-native-libs",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-passenger-native-libs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-19.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-pg",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-pg"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.12.2-10.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-pg-debuginfo",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-pg-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.12.2-10.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-po_to_json",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-po_to_json"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.0.7-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-rabl",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-rabl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-rest-client",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-rest-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.6.7-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-ruby2ruby",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-ruby2ruby"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.0.1-9.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-ruby_parser",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-ruby_parser"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.1.1-15.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-safemode",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-safemode"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.2.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-scoped_search",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-scoped_search"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.7.1-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-secure_headers",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-secure_headers"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.3-1.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-sexp_processor",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-sexp_processor"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.1.3-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-sprockets",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-sprockets"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.10.1-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-uuidtools",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-uuidtools"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.3-6.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-validates_lengths_from_database",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-validates_lengths_from_database"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.2.0-1.3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "ruby193-rubygem-will_paginate",
+				"purl": "pkg:rpm/redhat/ruby193-rubygem-will_paginate"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.2-10.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-ansi",
+				"purl": "pkg:rpm/redhat/rubygem-ansi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.3-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-apipie-bindings",
+				"purl": "pkg:rpm/redhat/rubygem-apipie-bindings"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.0.11-1.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-awesome_print",
+				"purl": "pkg:rpm/redhat/rubygem-awesome_print"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.2-12.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-bundler_ext",
+				"purl": "pkg:rpm/redhat/rubygem-bundler_ext"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.3.0-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-clamp",
+				"purl": "pkg:rpm/redhat/rubygem-clamp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.6.2-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-ffi",
+				"purl": "pkg:rpm/redhat/rubygem-ffi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.0-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-ffi-debuginfo",
+				"purl": "pkg:rpm/redhat/rubygem-ffi-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.0-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-gssapi",
+				"purl": "pkg:rpm/redhat/rubygem-gssapi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.2-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-hashie",
+				"purl": "pkg:rpm/redhat/rubygem-hashie"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.0.5-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-highline",
+				"purl": "pkg:rpm/redhat/rubygem-highline"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.6.21-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-kafo",
+				"purl": "pkg:rpm/redhat/rubygem-kafo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.6.5.9-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-kafo_parsers",
+				"purl": "pkg:rpm/redhat/rubygem-kafo_parsers"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.0.4.4-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-little-plugger",
+				"purl": "pkg:rpm/redhat/rubygem-little-plugger"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.3-17.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-logging",
+				"purl": "pkg:rpm/redhat/rubygem-logging"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.8.1-26.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-mime-types",
+				"purl": "pkg:rpm/redhat/rubygem-mime-types"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.19-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-multi_json",
+				"purl": "pkg:rpm/redhat/rubygem-multi_json"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.8.2-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-oauth",
+				"purl": "pkg:rpm/redhat/rubygem-oauth"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.4.7-8.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-passenger",
+				"purl": "pkg:rpm/redhat/rubygem-passenger"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-19.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-passenger-debuginfo",
+				"purl": "pkg:rpm/redhat/rubygem-passenger-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-19.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-passenger-native",
+				"purl": "pkg:rpm/redhat/rubygem-passenger-native"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-19.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-passenger-native-libs",
+				"purl": "pkg:rpm/redhat/rubygem-passenger-native-libs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-19.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-powerbar",
+				"purl": "pkg:rpm/redhat/rubygem-powerbar"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.11-8.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-rack",
+				"purl": "pkg:rpm/redhat/rubygem-rack"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.4.1-13.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-rack-protection",
+				"purl": "pkg:rpm/redhat/rubygem-rack-protection"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.5.0-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-rake",
+				"purl": "pkg:rpm/redhat/rubygem-rake"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.2.2-41.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-rest-client",
+				"purl": "pkg:rpm/redhat/rubygem-rest-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.6.7-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-rkerberos",
+				"purl": "pkg:rpm/redhat/rubygem-rkerberos"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.2-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-rkerberos-debuginfo",
+				"purl": "pkg:rpm/redhat/rubygem-rkerberos-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.2-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-rubyipmi",
+				"purl": "pkg:rpm/redhat/rubygem-rubyipmi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.10.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-sinatra",
+				"purl": "pkg:rpm/redhat/rubygem-sinatra"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.3.6-27.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-smart_proxy_discovery",
+				"purl": "pkg:rpm/redhat/rubygem-smart_proxy_discovery"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.2.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:ceph_storage:1.3::el7",
+				"name": "rubygem-tilt",
+				"purl": "pkg:rpm/redhat/rubygem-tilt"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.3-18.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2015:2066.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHSA-2015:2066"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#moderate"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/support/offerings/techpreview/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1210825"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1219040"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1220961"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1223532"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1223941"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1224174"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1224877"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1228842"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1235845"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1238415"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1253766"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1254814"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1255830"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1258618"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1258621"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1261606"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1265973"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1277393"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhsa-2015_2066.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2015-5245"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2015-5245"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5245"
+		}
+	]
+}

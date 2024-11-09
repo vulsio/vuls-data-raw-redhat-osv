@@ -1,0 +1,171 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHSA-2019:2582",
+	"modified": "2024-09-16T02:50:44Z",
+	"published": "2024-09-16T02:50:44Z",
+	"related": [
+		"CVE-2019-1010238"
+	],
+	"summary": "Red Hat Security Advisory: pango security update",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+		}
+	],
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "pango",
+				"purl": "pkg:rpm/redhat/pango"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.42.4-5.el8_0"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2019:2582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "pango-debuginfo",
+				"purl": "pkg:rpm/redhat/pango-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.42.4-5.el8_0"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2019:2582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "pango-debugsource",
+				"purl": "pkg:rpm/redhat/pango-debugsource"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.42.4-5.el8_0"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2019:2582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "pango-devel",
+				"purl": "pkg:rpm/redhat/pango-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.42.4-5.el8_0"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2019:2582.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:8::appstream",
+				"name": "pango-tests-debuginfo",
+				"purl": "pkg:rpm/redhat/pango-tests-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.42.4-5.el8_0"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2019:2582.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHSA-2019:2582"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#important"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1737785"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhsa-2019_2582.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2019-1010238"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2019-1010238"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-1010238"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://gitlab.gnome.org/GNOME/pango/issues/342"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://packetstormsecurity.com/files/153838/USN-4081-1.txt"
+		}
+	]
+}

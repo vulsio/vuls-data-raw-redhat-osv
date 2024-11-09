@@ -1,0 +1,1798 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHSA-2017:0171",
+	"modified": "2024-10-13T16:50:07Z",
+	"published": "2024-09-13T14:38:20Z",
+	"related": [
+		"CVE-2016-7061",
+		"CVE-2016-8627"
+	],
+	"summary": "Red Hat Security Advisory: JBoss Enterprise Application Platform 7.0.4 for RHEL 7",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:L"
+		}
+	],
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-apache-cxf",
+				"purl": "pkg:rpm/redhat/eap7-apache-cxf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.1.8-3.redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-apache-cxf-rt",
+				"purl": "pkg:rpm/redhat/eap7-apache-cxf-rt"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.1.8-3.redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-apache-cxf-services",
+				"purl": "pkg:rpm/redhat/eap7-apache-cxf-services"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.1.8-3.redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-apache-cxf-tools",
+				"purl": "pkg:rpm/redhat/eap7-apache-cxf-tools"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.1.8-3.redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-infinispan",
+				"purl": "pkg:rpm/redhat/eap7-infinispan"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:8.1.6-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-infinispan-cachestore-jdbc",
+				"purl": "pkg:rpm/redhat/eap7-infinispan-cachestore-jdbc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:8.1.6-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-infinispan-cachestore-remote",
+				"purl": "pkg:rpm/redhat/eap7-infinispan-cachestore-remote"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:8.1.6-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-infinispan-client-hotrod",
+				"purl": "pkg:rpm/redhat/eap7-infinispan-client-hotrod"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:8.1.6-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-infinispan-commons",
+				"purl": "pkg:rpm/redhat/eap7-infinispan-commons"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:8.1.6-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-infinispan-core",
+				"purl": "pkg:rpm/redhat/eap7-infinispan-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:8.1.6-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-ironjacamar",
+				"purl": "pkg:rpm/redhat/eap7-ironjacamar"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.5-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-ironjacamar-common-api",
+				"purl": "pkg:rpm/redhat/eap7-ironjacamar-common-api"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.5-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-ironjacamar-common-impl",
+				"purl": "pkg:rpm/redhat/eap7-ironjacamar-common-impl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.5-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-ironjacamar-common-spi",
+				"purl": "pkg:rpm/redhat/eap7-ironjacamar-common-spi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.5-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-ironjacamar-core-api",
+				"purl": "pkg:rpm/redhat/eap7-ironjacamar-core-api"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.5-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-ironjacamar-core-impl",
+				"purl": "pkg:rpm/redhat/eap7-ironjacamar-core-impl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.5-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-ironjacamar-deployers-common",
+				"purl": "pkg:rpm/redhat/eap7-ironjacamar-deployers-common"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.5-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-ironjacamar-jdbc",
+				"purl": "pkg:rpm/redhat/eap7-ironjacamar-jdbc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.5-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-ironjacamar-validator",
+				"purl": "pkg:rpm/redhat/eap7-ironjacamar-validator"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.5-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-jboss-aesh",
+				"purl": "pkg:rpm/redhat/eap7-jboss-aesh"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.66.12-1.redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-jboss-ejb-client",
+				"purl": "pkg:rpm/redhat/eap7-jboss-ejb-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.7-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-jboss-genericjms",
+				"purl": "pkg:rpm/redhat/eap7-jboss-genericjms"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.8-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-jboss-transaction-spi",
+				"purl": "pkg:rpm/redhat/eap7-jboss-transaction-spi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.3.0-2.SP1_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-jboss-xnio-base",
+				"purl": "pkg:rpm/redhat/eap7-jboss-xnio-base"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.4.1-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-narayana",
+				"purl": "pkg:rpm/redhat/eap7-narayana"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.2.21-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-narayana-compensations",
+				"purl": "pkg:rpm/redhat/eap7-narayana-compensations"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.2.21-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-narayana-jbosstxbridge",
+				"purl": "pkg:rpm/redhat/eap7-narayana-jbosstxbridge"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.2.21-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-narayana-jbossxts",
+				"purl": "pkg:rpm/redhat/eap7-narayana-jbossxts"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.2.21-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-narayana-jts-idlj",
+				"purl": "pkg:rpm/redhat/eap7-narayana-jts-idlj"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.2.21-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-narayana-jts-integration",
+				"purl": "pkg:rpm/redhat/eap7-narayana-jts-integration"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.2.21-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-narayana-restat-api",
+				"purl": "pkg:rpm/redhat/eap7-narayana-restat-api"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.2.21-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-narayana-restat-bridge",
+				"purl": "pkg:rpm/redhat/eap7-narayana-restat-bridge"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.2.21-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-narayana-restat-integration",
+				"purl": "pkg:rpm/redhat/eap7-narayana-restat-integration"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.2.21-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-narayana-restat-util",
+				"purl": "pkg:rpm/redhat/eap7-narayana-restat-util"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.2.21-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-narayana-txframework",
+				"purl": "pkg:rpm/redhat/eap7-narayana-txframework"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.2.21-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-picketlink-api",
+				"purl": "pkg:rpm/redhat/eap7-picketlink-api"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.5.5-4.SP4_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-picketlink-bindings",
+				"purl": "pkg:rpm/redhat/eap7-picketlink-bindings"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.5.5-4.SP4_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-picketlink-common",
+				"purl": "pkg:rpm/redhat/eap7-picketlink-common"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.5.5-4.SP4_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-picketlink-config",
+				"purl": "pkg:rpm/redhat/eap7-picketlink-config"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.5.5-4.SP4_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-picketlink-federation",
+				"purl": "pkg:rpm/redhat/eap7-picketlink-federation"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.5.5-4.SP4_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-picketlink-idm-api",
+				"purl": "pkg:rpm/redhat/eap7-picketlink-idm-api"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.5.5-4.SP4_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-picketlink-idm-impl",
+				"purl": "pkg:rpm/redhat/eap7-picketlink-idm-impl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.5.5-4.SP4_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-picketlink-idm-simple-schema",
+				"purl": "pkg:rpm/redhat/eap7-picketlink-idm-simple-schema"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.5.5-4.SP4_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-picketlink-impl",
+				"purl": "pkg:rpm/redhat/eap7-picketlink-impl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.5.5-4.SP4_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-picketlink-wildfly8",
+				"purl": "pkg:rpm/redhat/eap7-picketlink-wildfly8"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.5.5-4.SP4_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy",
+				"purl": "pkg:rpm/redhat/eap7-resteasy"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-async-http-servlet-3.0",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-async-http-servlet-3.0"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-atom-provider",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-atom-provider"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-cdi",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-cdi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-client",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-crypto",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-crypto"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-jackson-provider",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-jackson-provider"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-jackson2-provider",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-jackson2-provider"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-jaxb-provider",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-jaxb-provider"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-jaxrs",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-jaxrs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-jettison-provider",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-jettison-provider"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-jose-jwt",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-jose-jwt"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-jsapi",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-jsapi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-json-p-provider",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-json-p-provider"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-multipart-provider",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-multipart-provider"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-spring",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-spring"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-validator-provider-11",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-validator-provider-11"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-resteasy-yaml-provider",
+				"purl": "pkg:rpm/redhat/eap7-resteasy-yaml-provider"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.19-2.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-wildfly",
+				"purl": "pkg:rpm/redhat/eap7-wildfly"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.0.4-4.GA_redhat_2.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-wildfly-javadocs",
+				"purl": "pkg:rpm/redhat/eap7-wildfly-javadocs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.0.4-2.GA_redhat_3.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-wildfly-modules",
+				"purl": "pkg:rpm/redhat/eap7-wildfly-modules"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.0.4-4.GA_redhat_2.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-wildfly-web-console-eap",
+				"purl": "pkg:rpm/redhat/eap7-wildfly-web-console-eap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.8.28-1.Final_redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-wss4j",
+				"purl": "pkg:rpm/redhat/eap7-wss4j"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.7-2.redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-wss4j-bindings",
+				"purl": "pkg:rpm/redhat/eap7-wss4j-bindings"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.7-2.redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-wss4j-policy",
+				"purl": "pkg:rpm/redhat/eap7-wss4j-policy"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.7-2.redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-wss4j-ws-security-common",
+				"purl": "pkg:rpm/redhat/eap7-wss4j-ws-security-common"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.7-2.redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-wss4j-ws-security-dom",
+				"purl": "pkg:rpm/redhat/eap7-wss4j-ws-security-dom"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.7-2.redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-wss4j-ws-security-policy-stax",
+				"purl": "pkg:rpm/redhat/eap7-wss4j-ws-security-policy-stax"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.7-2.redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-wss4j-ws-security-stax",
+				"purl": "pkg:rpm/redhat/eap7-wss4j-ws-security-stax"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.7-2.redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:7::el7",
+				"name": "eap7-xml-security",
+				"purl": "pkg:rpm/redhat/eap7-xml-security"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.0.7-2.redhat_1.1.ep7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:0171.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHSA-2017:0171"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#moderate"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/documentation/en/red-hat-jboss-enterprise-application-platform/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1380852"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1388240"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/JBEAP-5961"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_0171.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2016-7061"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2016-7061"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2016-7061"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2016-8627"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2016-8627"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2016-8627"
+		}
+	]
+}

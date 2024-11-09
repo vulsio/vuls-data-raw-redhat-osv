@@ -1,0 +1,140 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHBA-2021:0625",
+	"modified": "2024-09-16T05:00:41Z",
+	"published": "2024-09-16T05:00:41Z",
+	"related": [
+		"CVE-2020-8696"
+	],
+	"summary": "Red Hat Bug Fix Advisory: microcode_ctl bug fix and enhancement update",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:L/I:N/A:N"
+		}
+	],
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_eus:7.7::computenode",
+				"name": "microcode_ctl",
+				"purl": "pkg:rpm/redhat/microcode_ctl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2:2.1-53.15.el7_7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2021:0625.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_eus:7.7::computenode",
+				"name": "microcode_ctl-debuginfo",
+				"purl": "pkg:rpm/redhat/microcode_ctl-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2:2.1-53.15.el7_7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2021:0625.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_eus:7.7::server",
+				"name": "microcode_ctl",
+				"purl": "pkg:rpm/redhat/microcode_ctl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2:2.1-53.15.el7_7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2021:0625.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_eus:7.7::server",
+				"name": "microcode_ctl-debuginfo",
+				"purl": "pkg:rpm/redhat/microcode_ctl-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2:2.1-53.15.el7_7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2021:0625.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHBA-2021:0625"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhba-2021_0625.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2020-8696"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1890355"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2020-8696"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-8696"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00381.html"
+		}
+	]
+}

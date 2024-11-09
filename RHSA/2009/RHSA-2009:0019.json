@@ -1,0 +1,134 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHSA-2009:0019",
+	"modified": "2024-09-15T17:40:53Z",
+	"published": "2024-09-15T17:40:53Z",
+	"related": [
+		"CVE-2008-2383"
+	],
+	"summary": "Red Hat Security Advisory: hanterm-xf security update",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:2.1::as",
+				"name": "hanterm-xf",
+				"purl": "pkg:rpm/redhat/hanterm-xf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.5-5.AS21.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2009:0019.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:2.1::aw",
+				"name": "hanterm-xf",
+				"purl": "pkg:rpm/redhat/hanterm-xf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.5-5.AS21.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2009:0019.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:2.1::es",
+				"name": "hanterm-xf",
+				"purl": "pkg:rpm/redhat/hanterm-xf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.5-5.AS21.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2009:0019.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:enterprise_linux:2.1::ws",
+				"name": "hanterm-xf",
+				"purl": "pkg:rpm/redhat/hanterm-xf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.0.5-5.AS21.2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2009:0019.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHSA-2009:0019"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "http://www.redhat.com/security/updates/classification/#important"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=478888"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhsa-2009_0019.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2008-2383"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2008-2383"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2008-2383"
+		}
+	]
+}

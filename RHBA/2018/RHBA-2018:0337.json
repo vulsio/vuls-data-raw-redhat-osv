@@ -1,0 +1,9211 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHBA-2018:0337",
+	"modified": "2024-09-15T22:38:18Z",
+	"published": "2024-09-15T22:38:18Z",
+	"related": [
+		"CVE-2013-6668",
+		"CVE-2015-3225",
+		"CVE-2016-2166"
+	],
+	"summary": "Red Hat Bug Fix Advisory: Red Hat Satellite 6.3 Base Libraries",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "puppet-agent",
+				"purl": "pkg:rpm/redhat/puppet-agent"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.10.9-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "puppet-agent-oauth",
+				"purl": "pkg:rpm/redhat/puppet-agent-oauth"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.1-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "puppetserver",
+				"purl": "pkg:rpm/redhat/puppetserver"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.8.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "SOAPpy",
+				"purl": "pkg:rpm/redhat/SOAPpy"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.11.6-17.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "createrepo_c",
+				"purl": "pkg:rpm/redhat/createrepo_c"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.4-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "createrepo_c-debuginfo",
+				"purl": "pkg:rpm/redhat/createrepo_c-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.4-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "createrepo_c-libs",
+				"purl": "pkg:rpm/redhat/createrepo_c-libs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.4-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "facter",
+				"purl": "pkg:rpm/redhat/facter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.4.6-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "gofer",
+				"purl": "pkg:rpm/redhat/gofer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.7.7-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "hiera",
+				"purl": "pkg:rpm/redhat/hiera"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.1-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "kobo",
+				"purl": "pkg:rpm/redhat/kobo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "libstemmer",
+				"purl": "pkg:rpm/redhat/libstemmer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0-2.585svn.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "libstemmer-debuginfo",
+				"purl": "pkg:rpm/redhat/libstemmer-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0-2.585svn.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "libwebsockets",
+				"purl": "pkg:rpm/redhat/libwebsockets"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.0-3.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "libwebsockets-debuginfo",
+				"purl": "pkg:rpm/redhat/libwebsockets-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.0-3.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "mod_passenger",
+				"purl": "pkg:rpm/redhat/mod_passenger"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-23.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "mod_xsendfile",
+				"purl": "pkg:rpm/redhat/mod_xsendfile"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.12-10.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "mod_xsendfile-debuginfo",
+				"purl": "pkg:rpm/redhat/mod_xsendfile-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.12-10.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "mongodb",
+				"purl": "pkg:rpm/redhat/mongodb"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.6.11-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "mongodb-debuginfo",
+				"purl": "pkg:rpm/redhat/mongodb-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.6.11-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "mongodb-server",
+				"purl": "pkg:rpm/redhat/mongodb-server"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.6.11-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "ostree",
+				"purl": "pkg:rpm/redhat/ostree"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2017.1-2.atomic.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "ostree-debuginfo",
+				"purl": "pkg:rpm/redhat/ostree-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2017.1-2.atomic.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "puppet",
+				"purl": "pkg:rpm/redhat/puppet"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.8.6-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "puppet-server",
+				"purl": "pkg:rpm/redhat/puppet-server"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.8.6-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "puppetlabs-stdlib",
+				"purl": "pkg:rpm/redhat/puppetlabs-stdlib"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.2.1-1.20140510git08b00d9.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-amqp",
+				"purl": "pkg:rpm/redhat/python-amqp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.9-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-anyjson",
+				"purl": "pkg:rpm/redhat/python-anyjson"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.3.3-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-billiard",
+				"purl": "pkg:rpm/redhat/python-billiard"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:3.3.0.20-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-billiard-debuginfo",
+				"purl": "pkg:rpm/redhat/python-billiard-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:3.3.0.20-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-blinker",
+				"purl": "pkg:rpm/redhat/python-blinker"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-bson",
+				"purl": "pkg:rpm/redhat/python-bson"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-celery",
+				"purl": "pkg:rpm/redhat/python-celery"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.1.17-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-crane",
+				"purl": "pkg:rpm/redhat/python-crane"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-django",
+				"purl": "pkg:rpm/redhat/python-django"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.6.11-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-django-bash-completion",
+				"purl": "pkg:rpm/redhat/python-django-bash-completion"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.6.11-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-flask",
+				"purl": "pkg:rpm/redhat/python-flask"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.10.1-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-fpconst",
+				"purl": "pkg:rpm/redhat/python-fpconst"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.3-12.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-gnupg",
+				"purl": "pkg:rpm/redhat/python-gnupg"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.3.7-1.el7ui"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-gofer",
+				"purl": "pkg:rpm/redhat/python-gofer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.7.7-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-gofer-qpid",
+				"purl": "pkg:rpm/redhat/python-gofer-qpid"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.7.7-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-httplib2",
+				"purl": "pkg:rpm/redhat/python-httplib2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.6.0-6.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-isodate",
+				"purl": "pkg:rpm/redhat/python-isodate"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.0-5.pulp.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-itsdangerous",
+				"purl": "pkg:rpm/redhat/python-itsdangerous"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.23-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-jinja2",
+				"purl": "pkg:rpm/redhat/python-jinja2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.7.2-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-kid",
+				"purl": "pkg:rpm/redhat/python-kid"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.6-11.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-kombu",
+				"purl": "pkg:rpm/redhat/python-kombu"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:3.0.33-8.pulp.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-mongoengine",
+				"purl": "pkg:rpm/redhat/python-mongoengine"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.10.5-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-nectar",
+				"purl": "pkg:rpm/redhat/python-nectar"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.5.4-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-oauth2",
+				"purl": "pkg:rpm/redhat/python-oauth2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.5.211-8.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-okaara",
+				"purl": "pkg:rpm/redhat/python-okaara"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.32-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-pymongo",
+				"purl": "pkg:rpm/redhat/python-pymongo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-pymongo-debuginfo",
+				"purl": "pkg:rpm/redhat/python-pymongo-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-pymongo-gridfs",
+				"purl": "pkg:rpm/redhat/python-pymongo-gridfs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-qpid",
+				"purl": "pkg:rpm/redhat/python-qpid"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.35.0-5.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-qpid-proton",
+				"purl": "pkg:rpm/redhat/python-qpid-proton"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.16.0-7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-qpid-qmf",
+				"purl": "pkg:rpm/redhat/python-qpid-qmf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-saslwrapper",
+				"purl": "pkg:rpm/redhat/python-saslwrapper"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.22-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-semantic_version",
+				"purl": "pkg:rpm/redhat/python-semantic_version"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.2.0-6.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-simplejson",
+				"purl": "pkg:rpm/redhat/python-simplejson"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-simplejson-debuginfo",
+				"purl": "pkg:rpm/redhat/python-simplejson-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-twisted-core",
+				"purl": "pkg:rpm/redhat/python-twisted-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.2.0-4.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-twisted-core-debuginfo",
+				"purl": "pkg:rpm/redhat/python-twisted-core-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.2.0-4.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-twisted-web",
+				"purl": "pkg:rpm/redhat/python-twisted-web"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.1.0-5.el7_2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-werkzeug",
+				"purl": "pkg:rpm/redhat/python-werkzeug"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-zope-interface",
+				"purl": "pkg:rpm/redhat/python-zope-interface"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.5-4.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "python-zope-interface-debuginfo",
+				"purl": "pkg:rpm/redhat/python-zope-interface-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.5-4.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-cpp",
+				"purl": "pkg:rpm/redhat/qpid-cpp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-cpp-client",
+				"purl": "pkg:rpm/redhat/qpid-cpp-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-cpp-client-devel",
+				"purl": "pkg:rpm/redhat/qpid-cpp-client-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-cpp-debuginfo",
+				"purl": "pkg:rpm/redhat/qpid-cpp-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-cpp-server",
+				"purl": "pkg:rpm/redhat/qpid-cpp-server"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-cpp-server-linearstore",
+				"purl": "pkg:rpm/redhat/qpid-cpp-server-linearstore"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-dispatch",
+				"purl": "pkg:rpm/redhat/qpid-dispatch"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.8.0-16.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-dispatch-debuginfo",
+				"purl": "pkg:rpm/redhat/qpid-dispatch-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.8.0-16.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-dispatch-router",
+				"purl": "pkg:rpm/redhat/qpid-dispatch-router"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.8.0-16.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-dispatch-tools",
+				"purl": "pkg:rpm/redhat/qpid-dispatch-tools"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.8.0-16.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-proton",
+				"purl": "pkg:rpm/redhat/qpid-proton"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.16.0-7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-proton-c",
+				"purl": "pkg:rpm/redhat/qpid-proton-c"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.16.0-7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-proton-debuginfo",
+				"purl": "pkg:rpm/redhat/qpid-proton-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.16.0-7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-qmf",
+				"purl": "pkg:rpm/redhat/qpid-qmf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "qpid-tools",
+				"purl": "pkg:rpm/redhat/qpid-tools"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "redhat-access-insights-puppet",
+				"purl": "pkg:rpm/redhat/redhat-access-insights-puppet"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.0.9-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "repoview",
+				"purl": "pkg:rpm/redhat/repoview"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.6.6-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "ruby-augeas",
+				"purl": "pkg:rpm/redhat/ruby-augeas"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.0-1.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "ruby-augeas-debuginfo",
+				"purl": "pkg:rpm/redhat/ruby-augeas-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.0-1.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "ruby-rgen",
+				"purl": "pkg:rpm/redhat/ruby-rgen"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.6.5-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "ruby-shadow",
+				"purl": "pkg:rpm/redhat/ruby-shadow"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.1-21.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "ruby-shadow-debuginfo",
+				"purl": "pkg:rpm/redhat/ruby-shadow-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.1-21.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-ansi",
+				"purl": "pkg:rpm/redhat/rubygem-ansi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.3-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-bundler_ext",
+				"purl": "pkg:rpm/redhat/rubygem-bundler_ext"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.4.1-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-clamp",
+				"purl": "pkg:rpm/redhat/rubygem-clamp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.0-8.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-concurrent-ruby",
+				"purl": "pkg:rpm/redhat/rubygem-concurrent-ruby"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.0.3-2.fm1_15.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-fast_gettext",
+				"purl": "pkg:rpm/redhat/rubygem-fast_gettext"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.0-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-ffi",
+				"purl": "pkg:rpm/redhat/rubygem-ffi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.0-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-ffi-debuginfo",
+				"purl": "pkg:rpm/redhat/rubygem-ffi-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.0-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-gssapi",
+				"purl": "pkg:rpm/redhat/rubygem-gssapi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.2-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-hashie",
+				"purl": "pkg:rpm/redhat/rubygem-hashie"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.0.5-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-highline",
+				"purl": "pkg:rpm/redhat/rubygem-highline"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.6.21-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-little-plugger",
+				"purl": "pkg:rpm/redhat/rubygem-little-plugger"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.3-21.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-logging",
+				"purl": "pkg:rpm/redhat/rubygem-logging"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.8.2-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-mime-types",
+				"purl": "pkg:rpm/redhat/rubygem-mime-types"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.19-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-multi_json",
+				"purl": "pkg:rpm/redhat/rubygem-multi_json"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.10.1-3.git.1551.b3eae6f.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-netrc",
+				"purl": "pkg:rpm/redhat/rubygem-netrc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.7-9.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-newt",
+				"purl": "pkg:rpm/redhat/rubygem-newt"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.6-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-newt-debuginfo",
+				"purl": "pkg:rpm/redhat/rubygem-newt-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.6-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-oauth",
+				"purl": "pkg:rpm/redhat/rubygem-oauth"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-openscap",
+				"purl": "pkg:rpm/redhat/rubygem-openscap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.4.7-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-passenger",
+				"purl": "pkg:rpm/redhat/rubygem-passenger"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-23.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-passenger-native",
+				"purl": "pkg:rpm/redhat/rubygem-passenger-native"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-23.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-passenger-native-libs",
+				"purl": "pkg:rpm/redhat/rubygem-passenger-native-libs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-23.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-powerbar",
+				"purl": "pkg:rpm/redhat/rubygem-powerbar"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.17-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-rack",
+				"purl": "pkg:rpm/redhat/rubygem-rack"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.6.4-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-rack-protection",
+				"purl": "pkg:rpm/redhat/rubygem-rack-protection"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.5.3-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-rake",
+				"purl": "pkg:rpm/redhat/rubygem-rake"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.2.2-41.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-rb-inotify",
+				"purl": "pkg:rpm/redhat/rubygem-rb-inotify"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.7-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-rest-client",
+				"purl": "pkg:rpm/redhat/rubygem-rest-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.6.7-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-rkerberos",
+				"purl": "pkg:rpm/redhat/rubygem-rkerberos"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.3-2.2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-rkerberos-debuginfo",
+				"purl": "pkg:rpm/redhat/rubygem-rkerberos-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.3-2.2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-rubyipmi",
+				"purl": "pkg:rpm/redhat/rubygem-rubyipmi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.10.0-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-sinatra",
+				"purl": "pkg:rpm/redhat/rubygem-sinatra"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.4.7-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "rubygem-tilt",
+				"purl": "pkg:rpm/redhat/rubygem-tilt"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.7-2.git.0.3b416c9.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "saslwrapper",
+				"purl": "pkg:rpm/redhat/saslwrapper"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.22-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "saslwrapper-debuginfo",
+				"purl": "pkg:rpm/redhat/saslwrapper-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.22-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm",
+				"purl": "pkg:rpm/redhat/tfm"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2-11.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-algebrick",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-algebrick"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.3-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-apipie-params",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-apipie-params"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.0.5-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-bundler_ext",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-bundler_ext"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.4.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-concurrent-ruby",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-concurrent-ruby"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.0.3-1.fm1_15.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-concurrent-ruby-edge",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-concurrent-ruby-edge"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.2.3-1.fm1_15.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-domain_name",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-domain_name"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.20160310-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-dynflow",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-dynflow"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.8.34-1.fm1_15.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-ffi",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-ffi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.0-10.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-ffi-debuginfo",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-ffi-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.0-10.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-gssapi",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-gssapi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.2.0-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-http-cookie",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-http-cookie"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.2-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-net-scp",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-net-scp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.0-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-net-ssh",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-net-ssh"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.1-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-net-ssh-krb",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-net-ssh-krb"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.4.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-netrc",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-netrc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.7-8.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-rest-client",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-rest-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.8.0-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-sequel",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-sequel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.20.0-6.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-unf",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-unf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.3-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-unf_ext",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-unf_ext"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.0.6-6.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-rubygem-unf_ext-debuginfo",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-unf_ext-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.0.6-6.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "tfm-runtime",
+				"purl": "pkg:rpm/redhat/tfm-runtime"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2-11.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "v8",
+				"purl": "pkg:rpm/redhat/v8"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:3.14.5.10-19.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "v8-debuginfo",
+				"purl": "pkg:rpm/redhat/v8-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:3.14.5.10-19.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "yaml-cpp",
+				"purl": "pkg:rpm/redhat/yaml-cpp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.1-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite_capsule:6.3::el7",
+				"name": "yaml-cpp-debuginfo",
+				"purl": "pkg:rpm/redhat/yaml-cpp-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.1-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "puppet-agent",
+				"purl": "pkg:rpm/redhat/puppet-agent"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.10.9-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "puppet-agent-oauth",
+				"purl": "pkg:rpm/redhat/puppet-agent-oauth"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.1-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "puppetserver",
+				"purl": "pkg:rpm/redhat/puppetserver"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.8.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "SOAPpy",
+				"purl": "pkg:rpm/redhat/SOAPpy"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.11.6-17.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "createrepo_c",
+				"purl": "pkg:rpm/redhat/createrepo_c"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.4-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "createrepo_c-debuginfo",
+				"purl": "pkg:rpm/redhat/createrepo_c-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.4-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "createrepo_c-libs",
+				"purl": "pkg:rpm/redhat/createrepo_c-libs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.4-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "facter",
+				"purl": "pkg:rpm/redhat/facter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:2.4.6-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "gofer",
+				"purl": "pkg:rpm/redhat/gofer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.7.7-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "hiera",
+				"purl": "pkg:rpm/redhat/hiera"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.1-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "kobo",
+				"purl": "pkg:rpm/redhat/kobo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "libstemmer",
+				"purl": "pkg:rpm/redhat/libstemmer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0-2.585svn.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "libstemmer-debuginfo",
+				"purl": "pkg:rpm/redhat/libstemmer-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0-2.585svn.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "libwebsockets",
+				"purl": "pkg:rpm/redhat/libwebsockets"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.0-3.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "libwebsockets-debuginfo",
+				"purl": "pkg:rpm/redhat/libwebsockets-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.0-3.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "liquibase",
+				"purl": "pkg:rpm/redhat/liquibase"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.1.0-1.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "mod_passenger",
+				"purl": "pkg:rpm/redhat/mod_passenger"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-23.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "mod_xsendfile",
+				"purl": "pkg:rpm/redhat/mod_xsendfile"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.12-10.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "mod_xsendfile-debuginfo",
+				"purl": "pkg:rpm/redhat/mod_xsendfile-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.12-10.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "mongodb",
+				"purl": "pkg:rpm/redhat/mongodb"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.6.11-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "mongodb-debuginfo",
+				"purl": "pkg:rpm/redhat/mongodb-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.6.11-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "mongodb-server",
+				"purl": "pkg:rpm/redhat/mongodb-server"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.6.11-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "ostree",
+				"purl": "pkg:rpm/redhat/ostree"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2017.1-2.atomic.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "ostree-debuginfo",
+				"purl": "pkg:rpm/redhat/ostree-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2017.1-2.atomic.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "puppet",
+				"purl": "pkg:rpm/redhat/puppet"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.8.6-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "puppet-server",
+				"purl": "pkg:rpm/redhat/puppet-server"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.8.6-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "puppetlabs-stdlib",
+				"purl": "pkg:rpm/redhat/puppetlabs-stdlib"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.2.1-1.20140510git08b00d9.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-amqp",
+				"purl": "pkg:rpm/redhat/python-amqp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.9-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-anyjson",
+				"purl": "pkg:rpm/redhat/python-anyjson"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.3.3-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-billiard",
+				"purl": "pkg:rpm/redhat/python-billiard"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:3.3.0.20-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-billiard-debuginfo",
+				"purl": "pkg:rpm/redhat/python-billiard-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:3.3.0.20-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-blinker",
+				"purl": "pkg:rpm/redhat/python-blinker"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-bson",
+				"purl": "pkg:rpm/redhat/python-bson"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-celery",
+				"purl": "pkg:rpm/redhat/python-celery"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.1.17-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-crane",
+				"purl": "pkg:rpm/redhat/python-crane"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-django",
+				"purl": "pkg:rpm/redhat/python-django"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.6.11-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-django-bash-completion",
+				"purl": "pkg:rpm/redhat/python-django-bash-completion"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.6.11-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-flask",
+				"purl": "pkg:rpm/redhat/python-flask"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.10.1-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-fpconst",
+				"purl": "pkg:rpm/redhat/python-fpconst"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.3-12.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-gnupg",
+				"purl": "pkg:rpm/redhat/python-gnupg"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.3.7-1.el7ui"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-gofer",
+				"purl": "pkg:rpm/redhat/python-gofer"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.7.7-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-gofer-qpid",
+				"purl": "pkg:rpm/redhat/python-gofer-qpid"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.7.7-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-httplib2",
+				"purl": "pkg:rpm/redhat/python-httplib2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.6.0-6.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-isodate",
+				"purl": "pkg:rpm/redhat/python-isodate"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.0-5.pulp.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-itsdangerous",
+				"purl": "pkg:rpm/redhat/python-itsdangerous"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.23-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-jinja2",
+				"purl": "pkg:rpm/redhat/python-jinja2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.7.2-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-kid",
+				"purl": "pkg:rpm/redhat/python-kid"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.6-11.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-kombu",
+				"purl": "pkg:rpm/redhat/python-kombu"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:3.0.33-8.pulp.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-mongoengine",
+				"purl": "pkg:rpm/redhat/python-mongoengine"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.10.5-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-nectar",
+				"purl": "pkg:rpm/redhat/python-nectar"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.5.4-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-oauth2",
+				"purl": "pkg:rpm/redhat/python-oauth2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.5.211-8.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-okaara",
+				"purl": "pkg:rpm/redhat/python-okaara"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.32-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-pymongo",
+				"purl": "pkg:rpm/redhat/python-pymongo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-pymongo-debuginfo",
+				"purl": "pkg:rpm/redhat/python-pymongo-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-pymongo-gridfs",
+				"purl": "pkg:rpm/redhat/python-pymongo-gridfs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-qpid",
+				"purl": "pkg:rpm/redhat/python-qpid"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.35.0-5.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-qpid-proton",
+				"purl": "pkg:rpm/redhat/python-qpid-proton"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.16.0-7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-qpid-qmf",
+				"purl": "pkg:rpm/redhat/python-qpid-qmf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-saslwrapper",
+				"purl": "pkg:rpm/redhat/python-saslwrapper"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.22-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-semantic_version",
+				"purl": "pkg:rpm/redhat/python-semantic_version"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.2.0-6.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-simplejson",
+				"purl": "pkg:rpm/redhat/python-simplejson"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-simplejson-debuginfo",
+				"purl": "pkg:rpm/redhat/python-simplejson-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-twisted-core",
+				"purl": "pkg:rpm/redhat/python-twisted-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.2.0-4.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-twisted-core-debuginfo",
+				"purl": "pkg:rpm/redhat/python-twisted-core-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.2.0-4.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-twisted-web",
+				"purl": "pkg:rpm/redhat/python-twisted-web"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:12.1.0-5.el7_2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-werkzeug",
+				"purl": "pkg:rpm/redhat/python-werkzeug"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-zope-interface",
+				"purl": "pkg:rpm/redhat/python-zope-interface"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.5-4.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "python-zope-interface-debuginfo",
+				"purl": "pkg:rpm/redhat/python-zope-interface-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.5-4.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-cpp",
+				"purl": "pkg:rpm/redhat/qpid-cpp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-cpp-client",
+				"purl": "pkg:rpm/redhat/qpid-cpp-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-cpp-client-devel",
+				"purl": "pkg:rpm/redhat/qpid-cpp-client-devel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-cpp-debuginfo",
+				"purl": "pkg:rpm/redhat/qpid-cpp-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-cpp-server",
+				"purl": "pkg:rpm/redhat/qpid-cpp-server"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-cpp-server-linearstore",
+				"purl": "pkg:rpm/redhat/qpid-cpp-server-linearstore"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-dispatch",
+				"purl": "pkg:rpm/redhat/qpid-dispatch"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.8.0-16.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-dispatch-debuginfo",
+				"purl": "pkg:rpm/redhat/qpid-dispatch-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.8.0-16.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-dispatch-router",
+				"purl": "pkg:rpm/redhat/qpid-dispatch-router"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.8.0-16.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-dispatch-tools",
+				"purl": "pkg:rpm/redhat/qpid-dispatch-tools"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.8.0-16.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-proton",
+				"purl": "pkg:rpm/redhat/qpid-proton"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.16.0-7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-proton-c",
+				"purl": "pkg:rpm/redhat/qpid-proton-c"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.16.0-7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-proton-debuginfo",
+				"purl": "pkg:rpm/redhat/qpid-proton-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.16.0-7.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-qmf",
+				"purl": "pkg:rpm/redhat/qpid-qmf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "qpid-tools",
+				"purl": "pkg:rpm/redhat/qpid-tools"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-9.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "redhat-access-insights-puppet",
+				"purl": "pkg:rpm/redhat/redhat-access-insights-puppet"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.0.9-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "repoview",
+				"purl": "pkg:rpm/redhat/repoview"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.6.6-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "ruby-augeas",
+				"purl": "pkg:rpm/redhat/ruby-augeas"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.0-1.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "ruby-augeas-debuginfo",
+				"purl": "pkg:rpm/redhat/ruby-augeas-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.0-1.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "ruby-rgen",
+				"purl": "pkg:rpm/redhat/ruby-rgen"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.6.5-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "ruby-shadow",
+				"purl": "pkg:rpm/redhat/ruby-shadow"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.1-21.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "ruby-shadow-debuginfo",
+				"purl": "pkg:rpm/redhat/ruby-shadow-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.1-21.el7"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-ansi",
+				"purl": "pkg:rpm/redhat/rubygem-ansi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.3-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-bundler_ext",
+				"purl": "pkg:rpm/redhat/rubygem-bundler_ext"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.4.1-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-clamp",
+				"purl": "pkg:rpm/redhat/rubygem-clamp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.0-8.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-concurrent-ruby",
+				"purl": "pkg:rpm/redhat/rubygem-concurrent-ruby"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.0.3-2.fm1_15.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-fast_gettext",
+				"purl": "pkg:rpm/redhat/rubygem-fast_gettext"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.0-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-ffi",
+				"purl": "pkg:rpm/redhat/rubygem-ffi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.0-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-ffi-debuginfo",
+				"purl": "pkg:rpm/redhat/rubygem-ffi-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.0-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-gssapi",
+				"purl": "pkg:rpm/redhat/rubygem-gssapi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.2-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-hashie",
+				"purl": "pkg:rpm/redhat/rubygem-hashie"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.0.5-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-highline",
+				"purl": "pkg:rpm/redhat/rubygem-highline"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.6.21-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-little-plugger",
+				"purl": "pkg:rpm/redhat/rubygem-little-plugger"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.3-21.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-logging",
+				"purl": "pkg:rpm/redhat/rubygem-logging"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.8.2-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-mime-types",
+				"purl": "pkg:rpm/redhat/rubygem-mime-types"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.19-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-multi_json",
+				"purl": "pkg:rpm/redhat/rubygem-multi_json"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.10.1-3.git.1551.b3eae6f.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-netrc",
+				"purl": "pkg:rpm/redhat/rubygem-netrc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.7-9.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-newt",
+				"purl": "pkg:rpm/redhat/rubygem-newt"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.6-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-newt-debuginfo",
+				"purl": "pkg:rpm/redhat/rubygem-newt-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.6-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-oauth",
+				"purl": "pkg:rpm/redhat/rubygem-oauth"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-openscap",
+				"purl": "pkg:rpm/redhat/rubygem-openscap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.4.7-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-passenger",
+				"purl": "pkg:rpm/redhat/rubygem-passenger"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-23.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-passenger-native",
+				"purl": "pkg:rpm/redhat/rubygem-passenger-native"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-23.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-passenger-native-libs",
+				"purl": "pkg:rpm/redhat/rubygem-passenger-native-libs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-23.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-powerbar",
+				"purl": "pkg:rpm/redhat/rubygem-powerbar"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.17-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-rack",
+				"purl": "pkg:rpm/redhat/rubygem-rack"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.6.4-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-rack-protection",
+				"purl": "pkg:rpm/redhat/rubygem-rack-protection"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.5.3-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-rake",
+				"purl": "pkg:rpm/redhat/rubygem-rake"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.2.2-41.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-rb-inotify",
+				"purl": "pkg:rpm/redhat/rubygem-rb-inotify"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.7-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-rest-client",
+				"purl": "pkg:rpm/redhat/rubygem-rest-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.6.7-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-rkerberos",
+				"purl": "pkg:rpm/redhat/rubygem-rkerberos"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.3-2.2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-rkerberos-debuginfo",
+				"purl": "pkg:rpm/redhat/rubygem-rkerberos-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.3-2.2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-rubyipmi",
+				"purl": "pkg:rpm/redhat/rubygem-rubyipmi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.10.0-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-sinatra",
+				"purl": "pkg:rpm/redhat/rubygem-sinatra"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.4.7-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "rubygem-tilt",
+				"purl": "pkg:rpm/redhat/rubygem-tilt"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.7-2.git.0.3b416c9.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "saslwrapper",
+				"purl": "pkg:rpm/redhat/saslwrapper"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.22-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "saslwrapper-debuginfo",
+				"purl": "pkg:rpm/redhat/saslwrapper-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.22-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm",
+				"purl": "pkg:rpm/redhat/tfm"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2-11.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-activerecord-session_store",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-activerecord-session_store"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.2-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-addressable",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-addressable"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.3.6-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-algebrick",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-algebrick"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.3-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-ancestry",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-ancestry"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.2.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-anemone",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-anemone"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.2-14.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-angular-rails-templates",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-angular-rails-templates"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.0.2-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-apipie-bindings",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-apipie-bindings"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.2.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-apipie-params",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-apipie-params"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.0.5-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-apipie-rails",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-apipie-rails"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.6-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-audited",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-audited"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.4.1-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-autoparse",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-autoparse"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.3.3-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-awesome_print",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-awesome_print"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.7.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-bundler_ext",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-bundler_ext"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.4.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-clamp",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-clamp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.0-8.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-concurrent-ruby",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-concurrent-ruby"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:1.0.3-1.fm1_15.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-concurrent-ruby-edge",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-concurrent-ruby-edge"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:0.2.3-1.fm1_15.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-css_parser",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-css_parser"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.7-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-daemons",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-daemons"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.2.3-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-deacon",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-deacon"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-deep_cloneable",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-deep_cloneable"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.2.2-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-deface",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-deface"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.2.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-diffy",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-diffy"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.1-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-docker-api",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-docker-api"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.28.0-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-domain_name",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-domain_name"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.20160310-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-dynflow",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-dynflow"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.8.34-1.fm1_15.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-excon",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-excon"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.51.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-extlib",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-extlib"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.16-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-facter",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-facter"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.4.0-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-facter-debuginfo",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-facter-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.4.0-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-faraday",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-faraday"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.1-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-fast_gettext",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-fast_gettext"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-ffi",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-ffi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.0-10.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-ffi-debuginfo",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-ffi-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.0-10.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-fog",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-fog"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.38.0-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-fog-aws",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-fog-aws"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.2.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-fog-core",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-fog-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.42.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-fog-google",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-fog-google"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.0-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-fog-json",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-fog-json"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.2-6.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-fog-libvirt",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-fog-libvirt"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.2.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-fog-openstack",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-fog-openstack"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.18-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-fog-rackspace",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-fog-rackspace"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.4-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-fog-vsphere",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-fog-vsphere"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.7.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-fog-xenserver",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-fog-xenserver"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.2.3-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-fog-xml",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-fog-xml"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.2-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-formatador",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-formatador"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.2.1-9.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-friendly_id",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-friendly_id"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.1.0-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-get_process_mem",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-get_process_mem"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.2.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-gettext_i18n_rails",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-gettext_i18n_rails"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.2.1-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-git",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-git"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.2.5-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-google-api-client",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-google-api-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.8.2-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-gssapi",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-gssapi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.2.0-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-hashie",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-hashie"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.0.5-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-highline",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-highline"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.7.8-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-http-cookie",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-http-cookie"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.2-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-ipaddress",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-ipaddress"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.8.0-9.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-jgrep",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-jgrep"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.3-8.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-jwt",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-jwt"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.2.0-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-launchy",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-launchy"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.4.3-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-ldap_fluff",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-ldap_fluff"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.4.7-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-little-plugger",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-little-plugger"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.3-21.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-locale",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-locale"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.0.9-11.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-logging",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-logging"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.8.2-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-multipart-post",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-multipart-post"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.2.0-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-net-ldap",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-net-ldap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.15.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-net-ping",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-net-ping"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.0.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-net-scp",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-net-scp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.0-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-net-ssh",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-net-ssh"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.1-2.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-net-ssh-krb",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-net-ssh-krb"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.4.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-netrc",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-netrc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.7.7-8.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-oauth",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-oauth"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-parse-cron",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-parse-cron"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.4-2.fm1_15.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-passenger",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-passenger"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-23.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-passenger-debuginfo",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-passenger-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-23.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-passenger-native",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-passenger-native"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-23.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-passenger-native-libs",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-passenger-native-libs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.18-23.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-pg",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-pg"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.15.1-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-pg-debuginfo",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-pg-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.15.1-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-powerbar",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-powerbar"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.17-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-qpid_messaging",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-qpid_messaging"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-qpid_messaging-debuginfo",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-qpid_messaging-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.36.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-rabl",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-rabl"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.12.0-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-rack-jsonp",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-rack-jsonp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.1-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-rails-i18n",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-rails-i18n"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.0.9-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-rainbow",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-rainbow"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.2.1-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-rbovirt",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-rbovirt"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.4-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-rbvmomi",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-rbvmomi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.10.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-redhat_access_lib",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-redhat_access_lib"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.4-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-responders",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-responders"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.3.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-rest-client",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-rest-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.8.0-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-retriable",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-retriable"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.4.1-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-roadie",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-roadie"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-roadie-rails",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-roadie-rails"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-robotex",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-robotex"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.0-19.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-ruby-libvirt",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-ruby-libvirt"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.2-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-ruby-libvirt-debuginfo",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-ruby-libvirt-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.2-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-ruby2ruby",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-ruby2ruby"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.3-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-ruby_parser",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-ruby_parser"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.6.3-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-runcible",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-runcible"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.12.0.3-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-safemode",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-safemode"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.3.2-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-scoped_search",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-scoped_search"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.1.2-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-secure_headers",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-secure_headers"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.4.1-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-sequel",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-sequel"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.20.0-6.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-sexp_processor",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-sexp_processor"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.4.4-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-signet",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-signet"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.6.0-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-sshkey",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-sshkey"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.9.0-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-trollop",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-trollop"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.1.2-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-unf",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-unf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.1.3-5.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-unf_ext",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-unf_ext"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.0.6-6.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-unf_ext-debuginfo",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-unf_ext-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.0.6-6.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-unicode-display_width",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-unicode-display_width"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.5-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-useragent",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-useragent"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.16.8-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-validates_lengths_from_database",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-validates_lengths_from_database"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.0-3.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-webpack-rails",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-webpack-rails"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.9.8-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-wicked",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-wicked"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.1.0-4.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-will_paginate",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-will_paginate"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.1.5-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-rubygem-x-editable-rails",
+				"purl": "pkg:rpm/redhat/tfm-rubygem-x-editable-rails"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.5.5-1.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "tfm-runtime",
+				"purl": "pkg:rpm/redhat/tfm-runtime"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.2-11.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "v8",
+				"purl": "pkg:rpm/redhat/v8"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:3.14.5.10-19.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "v8-debuginfo",
+				"purl": "pkg:rpm/redhat/v8-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1:3.14.5.10-19.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "yaml-cpp",
+				"purl": "pkg:rpm/redhat/yaml-cpp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.1-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:satellite:6.3::el7",
+				"name": "yaml-cpp-debuginfo",
+				"purl": "pkg:rpm/redhat/yaml-cpp-debuginfo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:0.5.1-7.el7sat"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHBA-2018:0337.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHBA-2018:0337"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/documentation/en-us/red_hat_satellite/6.3/html/release_notes/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1530694"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhba-2018_0337.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2013-6668"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1074737"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2013-6668"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2013-6668"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2015-3225"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1232292"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2015-3225"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2015-3225"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2016-2166"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1320842"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2016-2166"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2016-2166"
+		}
+	]
+}

@@ -1,0 +1,2084 @@
+{
+	"schema_version": "1.6.0",
+	"id": "RHSA-2017:1256",
+	"modified": "2024-10-27T17:53:20Z",
+	"published": "2024-09-29T17:08:14Z",
+	"related": [
+		"CVE-2016-9606"
+	],
+	"summary": "Red Hat Security Advisory: Red Hat JBoss Enterprise Application Platform 6.4.15 update on RHEL 5",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H"
+		}
+	],
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "hibernate4-core-eap6",
+				"purl": "pkg:rpm/redhat/hibernate4-core-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.2.26-1.Final_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "hibernate4-eap6",
+				"purl": "pkg:rpm/redhat/hibernate4-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.2.26-1.Final_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "hibernate4-entitymanager-eap6",
+				"purl": "pkg:rpm/redhat/hibernate4-entitymanager-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.2.26-1.Final_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "hibernate4-envers-eap6",
+				"purl": "pkg:rpm/redhat/hibernate4-envers-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.2.26-1.Final_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "hibernate4-infinispan-eap6",
+				"purl": "pkg:rpm/redhat/hibernate4-infinispan-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.2.26-1.Final_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "hornetq",
+				"purl": "pkg:rpm/redhat/hornetq"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.3.25-20.SP18_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "httpserver",
+				"purl": "pkg:rpm/redhat/httpserver"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.8-1.Final_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "ironjacamar-common-api-eap6",
+				"purl": "pkg:rpm/redhat/ironjacamar-common-api-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.38-3.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "ironjacamar-common-impl-eap6",
+				"purl": "pkg:rpm/redhat/ironjacamar-common-impl-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.38-3.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "ironjacamar-common-spi-eap6",
+				"purl": "pkg:rpm/redhat/ironjacamar-common-spi-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.38-3.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "ironjacamar-core-api-eap6",
+				"purl": "pkg:rpm/redhat/ironjacamar-core-api-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.38-3.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "ironjacamar-core-impl-eap6",
+				"purl": "pkg:rpm/redhat/ironjacamar-core-impl-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.38-3.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "ironjacamar-deployers-common-eap6",
+				"purl": "pkg:rpm/redhat/ironjacamar-deployers-common-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.38-3.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "ironjacamar-eap6",
+				"purl": "pkg:rpm/redhat/ironjacamar-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.38-3.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "ironjacamar-jdbc-eap6",
+				"purl": "pkg:rpm/redhat/ironjacamar-jdbc-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.38-3.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "ironjacamar-spec-api-eap6",
+				"purl": "pkg:rpm/redhat/ironjacamar-spec-api-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.38-3.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "ironjacamar-validator-eap6",
+				"purl": "pkg:rpm/redhat/ironjacamar-validator-eap6"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.38-3.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-appclient",
+				"purl": "pkg:rpm/redhat/jboss-as-appclient"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-cli",
+				"purl": "pkg:rpm/redhat/jboss-as-cli"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-client-all",
+				"purl": "pkg:rpm/redhat/jboss-as-client-all"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-clustering",
+				"purl": "pkg:rpm/redhat/jboss-as-clustering"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-cmp",
+				"purl": "pkg:rpm/redhat/jboss-as-cmp"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-configadmin",
+				"purl": "pkg:rpm/redhat/jboss-as-configadmin"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-connector",
+				"purl": "pkg:rpm/redhat/jboss-as-connector"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-controller",
+				"purl": "pkg:rpm/redhat/jboss-as-controller"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-controller-client",
+				"purl": "pkg:rpm/redhat/jboss-as-controller-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-core-security",
+				"purl": "pkg:rpm/redhat/jboss-as-core-security"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-deployment-repository",
+				"purl": "pkg:rpm/redhat/jboss-as-deployment-repository"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-deployment-scanner",
+				"purl": "pkg:rpm/redhat/jboss-as-deployment-scanner"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-domain-http",
+				"purl": "pkg:rpm/redhat/jboss-as-domain-http"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-domain-management",
+				"purl": "pkg:rpm/redhat/jboss-as-domain-management"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-ee",
+				"purl": "pkg:rpm/redhat/jboss-as-ee"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-ee-deployment",
+				"purl": "pkg:rpm/redhat/jboss-as-ee-deployment"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-ejb3",
+				"purl": "pkg:rpm/redhat/jboss-as-ejb3"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-embedded",
+				"purl": "pkg:rpm/redhat/jboss-as-embedded"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-host-controller",
+				"purl": "pkg:rpm/redhat/jboss-as-host-controller"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-jacorb",
+				"purl": "pkg:rpm/redhat/jboss-as-jacorb"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-jaxr",
+				"purl": "pkg:rpm/redhat/jboss-as-jaxr"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-jaxrs",
+				"purl": "pkg:rpm/redhat/jboss-as-jaxrs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-jdr",
+				"purl": "pkg:rpm/redhat/jboss-as-jdr"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-jmx",
+				"purl": "pkg:rpm/redhat/jboss-as-jmx"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-jpa",
+				"purl": "pkg:rpm/redhat/jboss-as-jpa"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-jsf",
+				"purl": "pkg:rpm/redhat/jboss-as-jsf"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-jsr77",
+				"purl": "pkg:rpm/redhat/jboss-as-jsr77"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-logging",
+				"purl": "pkg:rpm/redhat/jboss-as-logging"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-mail",
+				"purl": "pkg:rpm/redhat/jboss-as-mail"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-management-client-content",
+				"purl": "pkg:rpm/redhat/jboss-as-management-client-content"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-messaging",
+				"purl": "pkg:rpm/redhat/jboss-as-messaging"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-modcluster",
+				"purl": "pkg:rpm/redhat/jboss-as-modcluster"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-naming",
+				"purl": "pkg:rpm/redhat/jboss-as-naming"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-network",
+				"purl": "pkg:rpm/redhat/jboss-as-network"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-osgi",
+				"purl": "pkg:rpm/redhat/jboss-as-osgi"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-osgi-configadmin",
+				"purl": "pkg:rpm/redhat/jboss-as-osgi-configadmin"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-osgi-service",
+				"purl": "pkg:rpm/redhat/jboss-as-osgi-service"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-picketlink",
+				"purl": "pkg:rpm/redhat/jboss-as-picketlink"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-platform-mbean",
+				"purl": "pkg:rpm/redhat/jboss-as-platform-mbean"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-pojo",
+				"purl": "pkg:rpm/redhat/jboss-as-pojo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-process-controller",
+				"purl": "pkg:rpm/redhat/jboss-as-process-controller"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-protocol",
+				"purl": "pkg:rpm/redhat/jboss-as-protocol"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-remoting",
+				"purl": "pkg:rpm/redhat/jboss-as-remoting"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-sar",
+				"purl": "pkg:rpm/redhat/jboss-as-sar"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-security",
+				"purl": "pkg:rpm/redhat/jboss-as-security"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-server",
+				"purl": "pkg:rpm/redhat/jboss-as-server"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-system-jmx",
+				"purl": "pkg:rpm/redhat/jboss-as-system-jmx"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-threads",
+				"purl": "pkg:rpm/redhat/jboss-as-threads"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-transactions",
+				"purl": "pkg:rpm/redhat/jboss-as-transactions"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-version",
+				"purl": "pkg:rpm/redhat/jboss-as-version"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-web",
+				"purl": "pkg:rpm/redhat/jboss-as-web"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-webservices",
+				"purl": "pkg:rpm/redhat/jboss-as-webservices"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-weld",
+				"purl": "pkg:rpm/redhat/jboss-as-weld"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-as-xts",
+				"purl": "pkg:rpm/redhat/jboss-as-xts"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-ejb-client",
+				"purl": "pkg:rpm/redhat/jboss-ejb-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:1.0.39-1.Final_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-security-negotiation",
+				"purl": "pkg:rpm/redhat/jboss-security-negotiation"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.3.13-1.Final_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jboss-xnio-base",
+				"purl": "pkg:rpm/redhat/jboss-xnio-base"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:3.0.16-1.GA_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jbossas-appclient",
+				"purl": "pkg:rpm/redhat/jbossas-appclient"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jbossas-bundles",
+				"purl": "pkg:rpm/redhat/jbossas-bundles"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jbossas-core",
+				"purl": "pkg:rpm/redhat/jbossas-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jbossas-domain",
+				"purl": "pkg:rpm/redhat/jbossas-domain"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jbossas-javadocs",
+				"purl": "pkg:rpm/redhat/jbossas-javadocs"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-3.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jbossas-modules-eap",
+				"purl": "pkg:rpm/redhat/jbossas-modules-eap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jbossas-product-eap",
+				"purl": "pkg:rpm/redhat/jbossas-product-eap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jbossas-standalone",
+				"purl": "pkg:rpm/redhat/jbossas-standalone"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jbossas-welcome-content-eap",
+				"purl": "pkg:rpm/redhat/jbossas-welcome-content-eap"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.15-1.Final_redhat_3.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "jbossweb",
+				"purl": "pkg:rpm/redhat/jbossweb"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:7.5.22-1.Final_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "picketbox",
+				"purl": "pkg:rpm/redhat/picketbox"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:4.1.5-1.Final_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "picketlink-bindings",
+				"purl": "pkg:rpm/redhat/picketlink-bindings"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.5.4-14.SP12_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "picketlink-federation",
+				"purl": "pkg:rpm/redhat/picketlink-federation"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.5.4-14.SP12_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:jboss_enterprise_application_platform:6::el5",
+				"name": "resteasy",
+				"purl": "pkg:rpm/redhat/resteasy"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:2.3.19-1.Final_redhat_1.1.ep6.el5"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2017:1256.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://access.redhat.com/errata/RHSA-2017:1256"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#moderate"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/documentation/en-US/JBoss_Enterprise_Application_Platform/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1400644"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1437093"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1437096"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_1256.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2016-9606"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2016-9606"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2016-9606"
+		}
+	]
+}
