@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2697",
-	"modified": "2024-09-13T23:57:28Z",
+	"modified": "2024-11-15T16:15:02Z",
 	"published": "2024-09-13T23:57:28Z",
 	"related": [
 		"CVE-2023-6546",
@@ -173,7 +173,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_2697.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_2697.json"
 		},
 		{
 			"type": "REPORT",

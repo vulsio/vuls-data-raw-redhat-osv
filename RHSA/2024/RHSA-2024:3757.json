@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:3757",
-	"modified": "2024-10-02T14:55:00Z",
+	"modified": "2024-11-06T06:07:03Z",
 	"published": "2024-09-25T17:06:01Z",
 	"related": [
 		"CVE-2024-2698",
@@ -955,7 +955,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_3757.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_3757.json"
 		},
 		{
 			"type": "REPORT",

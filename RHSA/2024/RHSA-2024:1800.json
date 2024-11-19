@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:1800",
-	"modified": "2024-09-16T17:57:39Z",
+	"modified": "2024-11-06T05:28:02Z",
 	"published": "2024-09-16T17:57:39Z",
 	"related": [
 		"CVE-2023-4408",
@@ -768,7 +768,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_1800.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_1800.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:0299",
-	"modified": "2024-09-13T19:05:27Z",
+	"modified": "2024-11-15T17:40:37Z",
 	"published": "2024-09-13T19:05:27Z",
 	"related": [
 		"CVE-2023-32681"
@@ -76,7 +76,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_0299.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_0299.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:4617",
-	"modified": "2024-09-16T20:35:58Z",
+	"modified": "2024-11-06T06:27:21Z",
 	"published": "2024-09-16T20:35:58Z",
 	"related": [
 		"CVE-2024-39936"
@@ -908,7 +908,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_4617.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_4617.json"
 		},
 		{
 			"type": "REPORT",

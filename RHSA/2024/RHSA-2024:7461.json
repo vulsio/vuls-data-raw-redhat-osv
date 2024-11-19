@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:7461",
-	"modified": "2024-10-07T20:32:51Z",
+	"modified": "2024-11-12T17:38:16Z",
 	"published": "2024-10-01T23:00:56Z",
 	"related": [
 		"CVE-2024-47076",
@@ -161,6 +161,10 @@
 		{
 			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2024-47076"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/vulnerabilities/RHSB-2024-002"
 		},
 		{
 			"type": "ADVISORY",

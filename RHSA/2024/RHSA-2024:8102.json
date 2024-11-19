@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:8102",
-	"modified": "2024-10-15T06:54:08Z",
+	"modified": "2024-11-14T00:40:29Z",
 	"published": "2024-10-15T06:54:08Z",
 	"related": [
 		"CVE-2023-41419"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:6837",
-	"modified": "2024-09-19T13:40:13Z",
+	"modified": "2024-11-12T17:28:28Z",
 	"published": "2024-09-19T13:40:13Z",
 	"related": [
 		"CVE-2024-45769",
@@ -3267,7 +3267,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_6837.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_6837.json"
 		},
 		{
 			"type": "REPORT",

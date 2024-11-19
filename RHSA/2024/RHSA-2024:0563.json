@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:0563",
-	"modified": "2024-09-13T21:18:18Z",
+	"modified": "2024-11-15T17:41:43Z",
 	"published": "2024-09-13T21:18:18Z",
 	"related": [
 		"CVE-2022-40982",
@@ -774,7 +774,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_0563.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_0563.json"
 		},
 		{
 			"type": "REPORT",

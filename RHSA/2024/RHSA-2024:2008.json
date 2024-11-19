@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2008",
-	"modified": "2024-09-16T18:03:52Z",
+	"modified": "2024-11-15T17:46:57Z",
 	"published": "2024-09-16T18:03:52Z",
 	"related": [
 		"CVE-2021-46915",
@@ -750,7 +750,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_2008.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_2008.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:4541",
-	"modified": "2024-09-16T19:43:35Z",
+	"modified": "2024-11-06T06:24:17Z",
 	"published": "2024-09-16T19:43:35Z",
 	"related": [
 		"CVE-2024-33871"
@@ -628,7 +628,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_4541.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_4541.json"
 		},
 		{
 			"type": "REPORT",

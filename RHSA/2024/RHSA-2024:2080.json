@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2080",
-	"modified": "2024-09-16T18:44:34Z",
+	"modified": "2024-11-12T14:39:15Z",
 	"published": "2024-09-16T18:44:34Z",
 	"related": [
 		"CVE-2024-31080",
@@ -776,7 +776,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_2080.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_2080.json"
 		},
 		{
 			"type": "REPORT",

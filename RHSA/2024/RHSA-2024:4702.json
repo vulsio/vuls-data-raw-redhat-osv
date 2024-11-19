@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:4702",
-	"modified": "2024-09-16T20:12:10Z",
+	"modified": "2024-11-06T06:30:10Z",
 	"published": "2024-09-16T20:12:10Z",
 	"related": [
 		"CVE-2024-37298"
@@ -582,7 +582,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_4702.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_4702.json"
 		},
 		{
 			"type": "REPORT",

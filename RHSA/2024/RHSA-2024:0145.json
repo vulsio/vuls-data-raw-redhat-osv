@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:0145",
-	"modified": "2024-09-16T16:08:37Z",
+	"modified": "2024-11-06T04:40:12Z",
 	"published": "2024-09-16T16:08:37Z",
 	"related": [
 		"CVE-2023-5455"
@@ -1226,7 +1226,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_0145.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_0145.json"
 		},
 		{
 			"type": "REPORT",

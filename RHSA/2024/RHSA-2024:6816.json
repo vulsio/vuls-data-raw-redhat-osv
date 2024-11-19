@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:6816",
-	"modified": "2024-09-19T19:46:05Z",
+	"modified": "2024-11-06T07:00:09Z",
 	"published": "2024-09-19T19:46:05Z",
 	"related": [
 		"CVE-2024-7652",
@@ -138,7 +138,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_6816.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_6816.json"
 		},
 		{
 			"type": "REPORT",

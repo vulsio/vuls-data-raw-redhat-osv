@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2679",
-	"modified": "2024-09-12T20:14:51Z",
+	"modified": "2024-11-06T05:45:40Z",
 	"published": "2024-09-12T20:14:51Z",
 	"related": [
 		"CVE-2024-25062"
@@ -306,7 +306,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_2679.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_2679.json"
 		},
 		{
 			"type": "REPORT",

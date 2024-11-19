@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2044",
-	"modified": "2024-09-12T20:13:41Z",
+	"modified": "2024-11-06T15:03:04Z",
 	"published": "2024-09-12T20:13:41Z",
 	"related": [
 		"CVE-2024-28834"
@@ -490,7 +490,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_2044.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_2044.json"
 		},
 		{
 			"type": "REPORT",

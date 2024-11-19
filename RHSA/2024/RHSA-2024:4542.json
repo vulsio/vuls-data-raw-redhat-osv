@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:4542",
-	"modified": "2024-09-13T20:36:45Z",
+	"modified": "2024-11-15T12:05:11Z",
 	"published": "2024-09-13T20:36:45Z",
 	"related": [
 		"CVE-2021-33621"
@@ -1364,7 +1364,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_4542.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_4542.json"
 		},
 		{
 			"type": "REPORT",

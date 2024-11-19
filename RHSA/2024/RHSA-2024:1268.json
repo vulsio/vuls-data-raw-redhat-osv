@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:1268",
-	"modified": "2024-10-16T15:05:02Z",
+	"modified": "2024-11-15T17:45:27Z",
 	"published": "2024-09-13T23:56:41Z",
 	"related": [
 		"CVE-2022-3545",
@@ -1955,6 +1955,10 @@
 		{
 			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2022-40982"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/solutions/7027704"
 		},
 		{
 			"type": "ADVISORY",

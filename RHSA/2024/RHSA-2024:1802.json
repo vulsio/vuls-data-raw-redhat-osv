@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:1802",
-	"modified": "2024-09-16T18:14:13Z",
+	"modified": "2024-11-13T15:09:05Z",
 	"published": "2024-09-16T18:14:13Z",
 	"related": [
 		"CVE-2024-1488"
@@ -214,7 +214,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_1802.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_1802.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:4597",
-	"modified": "2024-10-30T22:57:40Z",
+	"modified": "2024-11-15T21:15:33Z",
 	"published": "2024-10-01T23:42:33Z",
 	"related": [
 		"CVE-2023-48795",
@@ -142,6 +142,10 @@
 		{
 			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2024-21626"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/vulnerabilities/RHSB-2024-001"
 		},
 		{
 			"type": "ADVISORY",

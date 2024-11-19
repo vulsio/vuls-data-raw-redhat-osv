@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2348",
-	"modified": "2024-09-14T01:54:07Z",
+	"modified": "2024-11-13T21:10:32Z",
 	"published": "2024-09-14T01:54:07Z",
 	"related": [
 		"CVE-2024-22195"
@@ -80,7 +80,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_2348.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_2348.json"
 		},
 		{
 			"type": "REPORT",

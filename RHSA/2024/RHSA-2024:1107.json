@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:1107",
-	"modified": "2024-09-16T12:47:20Z",
+	"modified": "2024-11-06T05:09:58Z",
 	"published": "2024-09-16T12:47:20Z",
 	"related": [
 		"CVE-2023-7104"
@@ -536,7 +536,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_1107.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_1107.json"
 		},
 		{
 			"type": "REPORT",

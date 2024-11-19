@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:5644",
-	"modified": "2024-09-16T20:09:20Z",
+	"modified": "2024-11-06T06:45:35Z",
 	"published": "2024-09-16T20:09:20Z",
 	"related": [
 		"CVE-2024-35235"
@@ -720,7 +720,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_5644.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_5644.json"
 		},
 		{
 			"type": "REPORT",

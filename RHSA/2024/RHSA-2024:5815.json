@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:5815",
-	"modified": "2024-09-16T20:58:42Z",
+	"modified": "2024-11-06T06:46:46Z",
 	"published": "2024-09-16T20:58:42Z",
 	"related": [
 		"CVE-2024-22018",
@@ -270,7 +270,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_5815.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_5815.json"
 		},
 		{
 			"type": "REPORT",

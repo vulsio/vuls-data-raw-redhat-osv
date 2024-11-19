@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:6030",
-	"modified": "2024-10-01T04:59:37Z",
+	"modified": "2024-11-12T17:10:10Z",
 	"published": "2024-10-01T04:59:37Z",
 	"related": [
 		"CVE-2024-4032"
@@ -490,7 +490,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_6030.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_6030.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2674",
-	"modified": "2024-09-14T00:07:55Z",
+	"modified": "2024-11-15T16:14:51Z",
 	"published": "2024-09-14T00:07:55Z",
 	"related": [
 		"CVE-2020-36516",
@@ -2519,7 +2519,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_2674.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_2674.json"
 		},
 		{
 			"type": "REPORT",

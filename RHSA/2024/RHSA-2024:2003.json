@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2003",
-	"modified": "2024-09-13T21:20:54Z",
+	"modified": "2024-11-15T17:46:37Z",
 	"published": "2024-09-13T21:20:54Z",
 	"related": [
 		"CVE-2020-36558",
@@ -441,7 +441,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_2003.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_2003.json"
 		},
 		{
 			"type": "REPORT",

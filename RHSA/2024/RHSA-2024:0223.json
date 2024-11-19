@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:0223",
-	"modified": "2024-09-16T17:01:21Z",
+	"modified": "2024-11-15T16:06:45Z",
 	"published": "2024-09-16T17:01:21Z",
 	"related": [
 		"CVE-2024-20918",
@@ -887,7 +887,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_0223.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_0223.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:1486",
-	"modified": "2024-09-16T18:28:42Z",
+	"modified": "2024-11-06T05:19:28Z",
 	"published": "2024-09-16T18:28:42Z",
 	"related": [
 		"CVE-2023-5388",
@@ -213,7 +213,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_1486.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_1486.json"
 		},
 		{
 			"type": "REPORT",

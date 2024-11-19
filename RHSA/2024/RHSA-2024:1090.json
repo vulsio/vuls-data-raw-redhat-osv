@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:1090",
-	"modified": "2024-09-16T16:01:14Z",
+	"modified": "2024-11-06T05:08:46Z",
 	"published": "2024-09-16T16:01:14Z",
 	"related": [
 		"CVE-2021-41043"
@@ -99,7 +99,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_1090.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_1090.json"
 		},
 		{
 			"type": "REPORT",

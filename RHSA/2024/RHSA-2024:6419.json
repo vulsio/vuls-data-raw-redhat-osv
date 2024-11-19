@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:6419",
-	"modified": "2024-09-17T01:14:48Z",
+	"modified": "2024-11-12T17:25:39Z",
 	"published": "2024-09-17T01:14:48Z",
 	"related": [
 		"CVE-2024-42472"
@@ -555,7 +555,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_6419.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_6419.json"
 		},
 		{
 			"type": "REPORT",

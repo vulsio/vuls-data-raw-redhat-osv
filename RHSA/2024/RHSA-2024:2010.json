@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2010",
-	"modified": "2024-10-29T19:39:55Z",
+	"modified": "2024-11-15T17:47:20Z",
 	"published": "2024-09-30T15:58:05Z",
 	"related": [
 		"CVE-2022-40896",
@@ -1993,430 +1993,6 @@
 			"url": "https://access.redhat.com/errata/RHSA-2024:2010"
 		},
 		{
-			"type": "ARTICLE",
-			"url": "https://access.redhat.com/security/updates/classification/#important"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1393613"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1792187"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1884395"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1937203"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1943306"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1964539"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1967073"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1976178"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1976213"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1992495"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1993917"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1994654"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2015344"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2026701"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2044527"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2048805"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2053416"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2063218"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2063717"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2068263"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2068527"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2070487"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2071097"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2081244"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2087537"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2091900"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2096930"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2097084"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2103757"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2104582"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2106256"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2108725"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2109740"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2121957"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2124275"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2125367"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2125728"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2125809"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2126357"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2126420"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2129296"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2131798"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2138905"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2139834"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2141421"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2143980"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2144615"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2148439"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2148534"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2149288"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2152709"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2153523"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2153548"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2155083"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2155218"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2155444"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2158524"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2158959"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2159706"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2160160"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2162637"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2162882"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2164844"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2164856"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2164997"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2165012"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2165092"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2166428"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2167493"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2168013"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2168152"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2168173"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2168202"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2168503"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2168728"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2168866"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2170016"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2170448"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2170727"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172083"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172094"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172379"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172384"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172393"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172394"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172756"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2173870"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2175132"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2179974"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2180568"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2180761"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2181595"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2181991"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2184151"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2188287"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2189318"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2189687"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2192939"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2193010"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2203077"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2208310"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2208557"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2208588"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2209968"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2212499"
-		},
-		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2213163"
 		},
@@ -3011,6 +2587,430 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2270295"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#important"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1393613"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1792187"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1884395"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1937203"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1943306"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1964539"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1967073"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1976178"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1976213"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1992495"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1993917"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1994654"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2015344"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2026701"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2044527"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2048805"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2053416"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2063218"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2063717"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2068263"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2068527"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2070487"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2071097"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2081244"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2087537"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2091900"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2096930"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2097084"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2103757"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2104582"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2106256"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2108725"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2109740"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2121957"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2124275"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2125367"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2125728"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2125809"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2126357"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2126420"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2129296"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2131798"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2138905"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2139834"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2141421"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2143980"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2144615"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2148439"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2148534"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2149288"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2152709"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2153523"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2153548"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2155083"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2155218"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2155444"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2158524"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2158959"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2159706"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2160160"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2162637"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2162882"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2164844"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2164856"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2164997"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2165012"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2165092"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2166428"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2167493"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2168013"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2168152"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2168173"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2168202"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2168503"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2168728"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2168866"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2170016"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2170448"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2170727"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172083"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172094"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172379"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172384"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172393"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172394"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2172756"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2173870"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2175132"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2179974"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2180568"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2180761"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2181595"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2181991"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2184151"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2188287"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2189318"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2189687"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2192939"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2193010"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2203077"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2208310"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2208557"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2208588"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2212499"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2209968"
 		},
 		{
 			"type": "ADVISORY",

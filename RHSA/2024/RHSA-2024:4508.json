@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:4508",
-	"modified": "2024-09-16T20:17:18Z",
+	"modified": "2024-11-06T06:23:57Z",
 	"published": "2024-09-16T20:17:18Z",
 	"related": [
 		"CVE-2024-6601",
@@ -86,7 +86,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_4508.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_4508.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:3859",
-	"modified": "2024-09-17T00:14:34Z",
+	"modified": "2024-11-15T17:49:04Z",
 	"published": "2024-09-17T00:14:34Z",
 	"related": [
 		"CVE-2023-4155",
@@ -1857,7 +1857,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_3859.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_3859.json"
 		},
 		{
 			"type": "REPORT",

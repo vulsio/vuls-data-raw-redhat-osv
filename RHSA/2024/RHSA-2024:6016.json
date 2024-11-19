@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:6016",
-	"modified": "2024-09-14T00:19:41Z",
+	"modified": "2024-11-13T21:14:26Z",
 	"published": "2024-09-14T00:19:41Z",
 	"related": [
 		"CVE-2024-34069"
@@ -76,7 +76,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_6016.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_6016.json"
 		},
 		{
 			"type": "REPORT",

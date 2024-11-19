@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:0587",
-	"modified": "2024-09-13T06:25:50Z",
+	"modified": "2024-11-14T10:10:01Z",
 	"published": "2024-09-13T06:25:50Z",
 	"related": [
 		"CVE-2007-4559"
@@ -214,7 +214,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_0587.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_0587.json"
 		},
 		{
 			"type": "REPORT",

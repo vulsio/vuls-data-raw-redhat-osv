@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:1108",
-	"modified": "2024-09-16T12:47:29Z",
+	"modified": "2024-11-06T05:10:09Z",
 	"published": "2024-09-16T12:47:29Z",
 	"related": [
 		"CVE-2024-0553"
@@ -490,7 +490,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_1108.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_1108.json"
 		},
 		{
 			"type": "REPORT",

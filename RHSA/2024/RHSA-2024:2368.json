@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2368",
-	"modified": "2024-09-16T17:50:35Z",
+	"modified": "2024-11-06T05:42:47Z",
 	"published": "2024-09-16T17:50:35Z",
 	"related": [
 		"CVE-2023-43622",
@@ -112,7 +112,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_2368.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_2368.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:1835",
-	"modified": "2024-10-01T13:44:01Z",
+	"modified": "2024-11-06T05:27:15Z",
 	"published": "2024-10-01T13:44:01Z",
 	"related": [
 		"CVE-2023-40546",
@@ -170,7 +170,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_1835.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_1835.json"
 		},
 		{
 			"type": "REPORT",

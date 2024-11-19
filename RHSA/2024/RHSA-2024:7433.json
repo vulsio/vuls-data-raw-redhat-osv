@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:7433",
-	"modified": "2024-10-01T05:20:40Z",
+	"modified": "2024-11-15T18:45:00Z",
 	"published": "2024-10-01T05:20:40Z",
 	"related": [
 		"CVE-2024-41071"
@@ -168,7 +168,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_7433.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_7433.json"
 		},
 		{
 			"type": "REPORT",

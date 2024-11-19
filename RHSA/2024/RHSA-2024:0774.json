@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:0774",
-	"modified": "2024-09-16T06:51:53Z",
+	"modified": "2024-11-06T05:00:15Z",
 	"published": "2024-09-16T06:51:53Z",
 	"related": [
 		"CVE-2021-4213"
@@ -76,7 +76,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_0774.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_0774.json"
 		},
 		{
 			"type": "REPORT",

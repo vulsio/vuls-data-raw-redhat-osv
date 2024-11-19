@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:4457",
-	"modified": "2024-09-12T20:19:13Z",
+	"modified": "2024-11-06T06:23:12Z",
 	"published": "2024-09-12T20:19:13Z",
 	"related": [
 		"CVE-2024-6409"
@@ -674,7 +674,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_4457.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_4457.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:5655",
-	"modified": "2024-09-27T17:38:01Z",
+	"modified": "2024-11-06T06:45:19Z",
 	"published": "2024-09-27T17:38:01Z",
 	"related": [
 		"CVE-2024-1737",
@@ -1277,7 +1277,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_5655.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_5655.json"
 		},
 		{
 			"type": "REPORT",

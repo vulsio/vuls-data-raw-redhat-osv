@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2559",
-	"modified": "2024-09-16T18:55:00Z",
+	"modified": "2024-11-06T05:42:30Z",
 	"published": "2024-09-16T18:55:00Z",
 	"related": [
 		"CVE-2024-28102"
@@ -76,7 +76,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_2559.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_2559.json"
 		},
 		{
 			"type": "REPORT",

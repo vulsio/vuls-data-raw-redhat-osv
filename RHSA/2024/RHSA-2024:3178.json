@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:3178",
-	"modified": "2024-09-16T16:01:58Z",
+	"modified": "2024-11-06T05:55:31Z",
 	"published": "2024-09-16T16:01:58Z",
 	"related": [
 		"CVE-2022-46329",
@@ -522,7 +522,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_3178.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_3178.json"
 		},
 		{
 			"type": "REPORT",
