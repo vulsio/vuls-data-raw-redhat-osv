@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:3394",
-	"modified": "2024-09-16T07:47:09Z",
+	"modified": "2024-11-21T20:06:42Z",
 	"published": "2024-09-16T07:47:09Z",
 	"related": [
 		"CVE-2022-2393",
@@ -518,7 +518,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_3394.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_3394.json"
 		},
 		{
 			"type": "REPORT",

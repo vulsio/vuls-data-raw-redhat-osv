@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:1455",
-	"modified": "2024-09-29T16:42:57Z",
+	"modified": "2024-11-22T06:37:06Z",
 	"published": "2024-09-29T16:42:57Z",
 	"related": [
 		"CVE-2011-0802",
@@ -897,7 +897,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_1455.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_1455.json"
 		},
 		{
 			"type": "REPORT",

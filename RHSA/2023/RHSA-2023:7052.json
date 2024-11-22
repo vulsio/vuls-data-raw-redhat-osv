@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:7052",
-	"modified": "2024-09-16T12:48:11Z",
+	"modified": "2024-11-21T20:59:23Z",
 	"published": "2024-09-16T12:48:11Z",
 	"related": [
 		"CVE-2023-38710",
@@ -117,7 +117,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_7052.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_7052.json"
 		},
 		{
 			"type": "REPORT",

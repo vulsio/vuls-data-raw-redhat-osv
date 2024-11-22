@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2015:0249",
-	"modified": "2024-09-15T22:20:29Z",
+	"modified": "2024-11-22T08:53:55Z",
 	"published": "2024-09-15T22:20:29Z",
 	"related": [
 		"CVE-2015-0240"
@@ -649,7 +649,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhsa-2015_0249.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhsa-2015_0249.json"
 		},
 		{
 			"type": "REPORT",

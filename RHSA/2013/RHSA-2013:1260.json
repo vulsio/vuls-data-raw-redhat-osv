@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:1260",
-	"modified": "2024-09-13T08:25:58Z",
+	"modified": "2024-11-22T07:04:34Z",
 	"published": "2024-09-13T08:25:58Z",
 	"related": [
 		"CVE-2013-4130"
@@ -59,7 +59,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_1260.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_1260.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2008:0630",
-	"modified": "2024-09-15T17:27:43Z",
+	"modified": "2024-11-22T02:13:54Z",
 	"published": "2024-09-15T17:27:43Z",
 	"related": [
 		"CVE-2005-4838",
@@ -212,7 +212,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2008/rhsa-2008_0630.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2008/rhsa-2008_0630.json"
 		},
 		{
 			"type": "REPORT",

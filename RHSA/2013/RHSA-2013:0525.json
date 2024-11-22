@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:0525",
-	"modified": "2024-09-15T20:22:27Z",
+	"modified": "2024-11-22T05:54:26Z",
 	"published": "2024-09-15T20:22:27Z",
 	"related": [
 		"CVE-2010-4531"
@@ -492,7 +492,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_0525.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_0525.json"
 		},
 		{
 			"type": "REPORT",

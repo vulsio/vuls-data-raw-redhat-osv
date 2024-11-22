@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:1422",
-	"modified": "2024-09-15T19:33:38Z",
+	"modified": "2024-11-22T04:50:01Z",
 	"published": "2024-09-15T19:33:38Z",
 	"related": [
 		"CVE-2011-4073"
@@ -231,7 +231,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_1422.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_1422.json"
 		},
 		{
 			"type": "REPORT",

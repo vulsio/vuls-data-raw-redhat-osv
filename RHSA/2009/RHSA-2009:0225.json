@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2009:0225",
-	"modified": "2024-09-13T06:24:26Z",
+	"modified": "2024-11-22T02:58:50Z",
 	"published": "2024-09-13T06:24:26Z",
 	"related": [
 		"CVE-2008-5029",
@@ -2207,7 +2207,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhsa-2009_0225.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2009/rhsa-2009_0225.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:1701",
-	"modified": "2024-09-15T21:04:24Z",
+	"modified": "2024-11-22T07:03:00Z",
 	"published": "2024-09-15T21:04:24Z",
 	"related": [
 		"CVE-2013-1775",
@@ -326,7 +326,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_1701.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_1701.json"
 		},
 		{
 			"type": "REPORT",

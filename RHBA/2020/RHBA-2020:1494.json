@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2020:1494",
-	"modified": "2024-10-24T01:48:34Z",
+	"modified": "2024-11-21T20:08:19Z",
 	"published": "2024-09-13T22:39:50Z",
 	"related": [
 		"CVE-2019-12086",

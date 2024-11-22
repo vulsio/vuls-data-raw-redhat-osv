@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2009:0001",
-	"modified": "2024-09-15T17:28:45Z",
+	"modified": "2024-11-22T02:26:40Z",
 	"published": "2024-09-15T17:28:45Z",
 	"related": [
 		"CVE-2006-4814",
@@ -700,7 +700,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhsa-2009_0001.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2009/rhsa-2009_0001.json"
 		},
 		{
 			"type": "REPORT",

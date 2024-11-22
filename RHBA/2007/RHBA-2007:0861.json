@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2007:0861",
-	"modified": "2024-09-15T16:52:33Z",
+	"modified": "2024-11-22T01:26:21Z",
 	"published": "2024-09-15T16:52:33Z",
 	"related": [
 		"CVE-2007-3380"
@@ -185,7 +185,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhba-2007_0861.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhba-2007_0861.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2014:1078",
-	"modified": "2024-09-15T21:55:07Z",
+	"modified": "2024-11-22T08:20:47Z",
 	"published": "2024-09-15T21:55:07Z",
 	"related": [
 		"CVE-2014-3555"
@@ -438,7 +438,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2014/rhsa-2014_1078.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2014/rhsa-2014_1078.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2022:7683",
-	"modified": "2024-10-07T19:49:55Z",
+	"modified": "2024-11-21T19:42:20Z",
 	"published": "2024-09-16T07:42:09Z",
 	"related": [
 		"CVE-2020-36516",
@@ -41,6 +41,8 @@
 		"CVE-2022-36946",
 		"CVE-2022-48738",
 		"CVE-2022-48765",
+		"CVE-2022-48786",
+		"CVE-2022-48915",
 		"CVE-2022-48918"
 	],
 	"summary": "Red Hat Security Advisory: kernel security, bug fix, and enhancement update",
@@ -2568,6 +2570,46 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://lore.kernel.org/linux-cve-announce/2024062009-CVE-2022-48765-ddb8@gregkh/T"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2022-48786"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2298122"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2022-48786"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-48786"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://lore.kernel.org/linux-cve-announce/2024071637-CVE-2022-48786-7416@gregkh/T"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2022-48915"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2307168"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2022-48915"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-48915"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://lore.kernel.org/linux-cve-announce/2024082216-CVE-2022-48915-6663@gregkh/T"
 		},
 		{
 			"type": "REPORT",

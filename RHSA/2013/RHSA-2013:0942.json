@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:0942",
-	"modified": "2024-09-12T22:07:53Z",
+	"modified": "2024-11-22T06:39:05Z",
 	"published": "2024-09-12T22:07:53Z",
 	"related": [
 		"CVE-2002-2443"
@@ -921,7 +921,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_0942.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_0942.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:1078",
-	"modified": "2024-09-15T17:02:55Z",
+	"modified": "2024-11-22T01:38:11Z",
 	"published": "2024-09-15T17:02:55Z",
 	"related": [
 		"CVE-2007-5503"
@@ -231,7 +231,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_1078.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_1078.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:1459",
-	"modified": "2024-09-15T21:10:33Z",
+	"modified": "2024-11-22T07:13:33Z",
 	"published": "2024-09-15T21:10:33Z",
 	"related": [
 		"CVE-2012-6085",
@@ -402,7 +402,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_1459.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_1459.json"
 		},
 		{
 			"type": "REPORT",

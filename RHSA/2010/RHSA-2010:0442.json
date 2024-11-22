@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2010:0442",
-	"modified": "2024-09-15T18:26:33Z",
+	"modified": "2024-11-22T03:50:29Z",
 	"published": "2024-09-15T18:26:33Z",
 	"related": [
 		"CVE-2010-1626",
@@ -448,7 +448,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2010/rhsa-2010_0442.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2010/rhsa-2010_0442.json"
 		},
 		{
 			"type": "REPORT",

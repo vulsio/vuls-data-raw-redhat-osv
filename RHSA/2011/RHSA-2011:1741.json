@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:1741",
-	"modified": "2024-09-15T19:22:23Z",
+	"modified": "2024-11-22T04:36:00Z",
 	"published": "2024-09-15T19:22:23Z",
 	"related": [
 		"CVE-2011-1072"
@@ -78,7 +78,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_1741.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_1741.json"
 		},
 		{
 			"type": "REPORT",

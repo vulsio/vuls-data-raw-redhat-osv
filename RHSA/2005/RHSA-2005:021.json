@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2005:021",
-	"modified": "2024-09-15T14:57:33Z",
+	"modified": "2024-11-21T23:22:27Z",
 	"published": "2024-09-15T14:57:33Z",
 	"related": [
 		"CVE-2004-0803",
@@ -308,7 +308,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2005/rhsa-2005_021.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2005/rhsa-2005_021.json"
 		},
 		{
 			"type": "REPORT",

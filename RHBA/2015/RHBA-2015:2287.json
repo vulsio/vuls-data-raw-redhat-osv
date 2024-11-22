@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2015:2287",
-	"modified": "2024-09-15T22:37:13Z",
+	"modified": "2024-11-22T09:13:01Z",
 	"published": "2024-09-15T22:37:13Z",
 	"related": [
 		"CVE-2016-4445"
@@ -227,7 +227,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhba-2015_2287.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhba-2015_2287.json"
 		},
 		{
 			"type": "REPORT",

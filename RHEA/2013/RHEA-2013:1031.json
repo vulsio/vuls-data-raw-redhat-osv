@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHEA-2013:1031",
-	"modified": "2024-09-13T07:59:25Z",
+	"modified": "2024-11-22T06:41:28Z",
 	"published": "2024-09-13T07:59:25Z",
 	"related": [
 		"CVE-2013-0196"
@@ -4184,7 +4184,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhea-2013_1031.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhea-2013_1031.json"
 		},
 		{
 			"type": "REPORT",

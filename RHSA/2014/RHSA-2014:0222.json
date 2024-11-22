@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2014:0222",
-	"modified": "2024-09-15T21:23:42Z",
+	"modified": "2024-11-22T07:30:53Z",
 	"published": "2024-09-15T21:23:42Z",
 	"related": [
 		"CVE-2010-2596",
@@ -422,7 +422,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2014/rhsa-2014_0222.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2014/rhsa-2014_0222.json"
 		},
 		{
 			"type": "REPORT",

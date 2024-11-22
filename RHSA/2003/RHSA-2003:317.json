@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2003:317",
-	"modified": "2024-09-12T22:06:20Z",
+	"modified": "2024-11-21T22:53:07Z",
 	"published": "2024-09-12T22:06:20Z",
 	"related": [
 		"CVE-2003-0856"
@@ -208,7 +208,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2003/rhsa-2003_317.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2003/rhsa-2003_317.json"
 		},
 		{
 			"type": "REPORT",

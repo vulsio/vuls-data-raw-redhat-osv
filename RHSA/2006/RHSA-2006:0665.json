@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2006:0665",
-	"modified": "2024-09-15T16:21:29Z",
+	"modified": "2024-11-22T00:29:00Z",
 	"published": "2024-09-15T16:21:29Z",
 	"related": [
 		"CVE-2006-3739",
@@ -1681,7 +1681,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2006/rhsa-2006_0665.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2006/rhsa-2006_0665.json"
 		},
 		{
 			"type": "REPORT",

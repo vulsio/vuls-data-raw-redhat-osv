@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2014:0316",
-	"modified": "2024-09-22T16:22:20Z",
+	"modified": "2024-11-22T07:40:18Z",
 	"published": "2024-09-22T16:22:20Z",
 	"related": [
 		"CVE-2014-1493",
@@ -299,7 +299,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2014/rhsa-2014_0316.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2014/rhsa-2014_0316.json"
 		},
 		{
 			"type": "REPORT",

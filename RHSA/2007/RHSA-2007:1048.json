@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:1048",
-	"modified": "2024-09-15T17:01:53Z",
+	"modified": "2024-11-22T01:50:33Z",
 	"published": "2024-09-15T17:01:53Z",
 	"related": [
 		"CVE-2003-0845",
@@ -3713,7 +3713,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_1048.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_1048.json"
 		},
 		{
 			"type": "REPORT",

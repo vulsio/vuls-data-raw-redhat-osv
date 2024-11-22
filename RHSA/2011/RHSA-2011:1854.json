@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:1854",
-	"modified": "2024-09-13T07:08:08Z",
+	"modified": "2024-11-22T04:56:22Z",
 	"published": "2024-09-13T07:08:08Z",
 	"related": [
 		"CVE-2011-4862"
@@ -212,7 +212,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_1854.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_1854.json"
 		},
 		{
 			"type": "REPORT",

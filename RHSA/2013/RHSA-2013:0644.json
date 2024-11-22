@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:0644",
-	"modified": "2024-09-15T20:37:08Z",
+	"modified": "2024-11-22T06:20:50Z",
 	"published": "2024-09-15T20:37:08Z",
 	"related": [
 		"CVE-2012-5633",
@@ -79,7 +79,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_0644.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_0644.json"
 		},
 		{
 			"type": "REPORT",

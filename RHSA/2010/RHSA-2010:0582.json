@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2010:0582",
-	"modified": "2024-09-29T16:28:01Z",
+	"modified": "2024-11-22T03:34:29Z",
 	"published": "2024-09-29T16:28:01Z",
 	"related": [
 		"CVE-2009-2693",
@@ -291,7 +291,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2010/rhsa-2010_0582.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2010/rhsa-2010_0582.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2008:0789",
-	"modified": "2024-09-15T17:23:47Z",
+	"modified": "2024-11-22T02:04:19Z",
 	"published": "2024-09-15T17:23:47Z",
 	"related": [
 		"CVE-2008-1447"
@@ -120,7 +120,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2008/rhsa-2008_0789.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2008/rhsa-2008_0789.json"
 		},
 		{
 			"type": "REPORT",

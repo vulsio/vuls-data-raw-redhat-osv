@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:1196",
-	"modified": "2024-09-15T19:20:41Z",
+	"modified": "2024-11-22T04:34:30Z",
 	"published": "2024-09-15T19:20:41Z",
 	"related": [
 		"CVE-2011-2899"
@@ -438,7 +438,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_1196.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_1196.json"
 		},
 		{
 			"type": "REPORT",

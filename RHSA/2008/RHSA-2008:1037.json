@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2008:1037",
-	"modified": "2024-09-15T17:39:54Z",
+	"modified": "2024-11-22T02:25:49Z",
 	"published": "2024-09-15T17:39:54Z",
 	"related": [
 		"CVE-2008-5500",
@@ -2650,7 +2650,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2008/rhsa-2008_1037.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2008/rhsa-2008_1037.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2009:1102",
-	"modified": "2024-09-15T17:56:00Z",
+	"modified": "2024-11-22T02:45:11Z",
 	"published": "2024-09-15T17:56:00Z",
 	"related": [
 		"CVE-2004-2541",
@@ -117,7 +117,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhsa-2009_1102.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2009/rhsa-2009_1102.json"
 		},
 		{
 			"type": "REPORT",

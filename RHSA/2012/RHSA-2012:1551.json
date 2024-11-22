@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:1551",
-	"modified": "2024-09-15T20:27:38Z",
+	"modified": "2024-11-22T06:04:38Z",
 	"published": "2024-09-15T20:27:38Z",
 	"related": [
 		"CVE-2012-5611"
@@ -852,7 +852,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_1551.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_1551.json"
 		},
 		{
 			"type": "REPORT",

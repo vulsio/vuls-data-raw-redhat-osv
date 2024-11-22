@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2016:0493",
-	"modified": "2024-09-15T23:12:46Z",
+	"modified": "2024-11-22T09:51:04Z",
 	"published": "2024-09-15T23:12:46Z",
 	"related": [
 		"CVE-2015-8629",
@@ -765,7 +765,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2016/rhsa-2016_0493.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2016/rhsa-2016_0493.json"
 		},
 		{
 			"type": "REPORT",

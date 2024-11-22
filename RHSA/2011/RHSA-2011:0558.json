@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:0558",
-	"modified": "2024-09-15T18:54:46Z",
+	"modified": "2024-11-22T04:46:29Z",
 	"published": "2024-09-15T18:54:46Z",
 	"related": [
 		"CVE-2010-2761",
@@ -4194,7 +4194,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_0558.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_0558.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:0086",
-	"modified": "2024-09-13T07:08:20Z",
+	"modified": "2024-11-22T05:28:59Z",
 	"published": "2024-09-13T07:08:20Z",
 	"related": [
 		"CVE-2011-4576",
@@ -397,7 +397,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_0086.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_0086.json"
 		},
 		{
 			"type": "REPORT",

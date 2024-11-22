@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2014:2023",
-	"modified": "2024-09-15T22:14:09Z",
+	"modified": "2024-11-22T08:46:18Z",
 	"published": "2024-09-15T22:14:09Z",
 	"related": [
 		"CVE-2014-7817"
@@ -856,7 +856,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2014/rhsa-2014_2023.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2014/rhsa-2014_2023.json"
 		},
 		{
 			"type": "REPORT",

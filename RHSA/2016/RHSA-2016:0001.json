@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2016:0001",
-	"modified": "2024-09-15T23:03:05Z",
+	"modified": "2024-11-22T09:41:25Z",
 	"published": "2024-09-15T23:03:05Z",
 	"related": [
 		"CVE-2015-7201",
@@ -416,7 +416,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2016/rhsa-2016_0001.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2016/rhsa-2016_0001.json"
 		},
 		{
 			"type": "REPORT",

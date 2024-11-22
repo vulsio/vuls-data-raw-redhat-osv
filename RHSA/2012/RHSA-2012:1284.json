@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:1284",
-	"modified": "2024-09-15T20:16:57Z",
+	"modified": "2024-11-22T05:47:46Z",
 	"published": "2024-09-15T20:16:57Z",
 	"related": [
 		"CVE-2012-4425"
@@ -668,7 +668,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_1284.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_1284.json"
 		},
 		{
 			"type": "REPORT",

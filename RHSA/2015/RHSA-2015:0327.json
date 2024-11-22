@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2015:0327",
-	"modified": "2024-09-15T21:54:24Z",
+	"modified": "2024-11-22T08:46:13Z",
 	"published": "2024-09-15T21:54:24Z",
 	"related": [
 		"CVE-2014-6040",
@@ -873,7 +873,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhsa-2015_0327.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhsa-2015_0327.json"
 		},
 		{
 			"type": "REPORT",

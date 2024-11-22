@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2014:1040",
-	"modified": "2024-09-13T08:54:23Z",
+	"modified": "2024-11-22T08:26:46Z",
 	"published": "2024-09-13T08:54:23Z",
 	"related": [
 		"CVE-2014-3490"
@@ -93,7 +93,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2014/rhsa-2014_1040.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2014/rhsa-2014_1040.json"
 		},
 		{
 			"type": "REPORT",

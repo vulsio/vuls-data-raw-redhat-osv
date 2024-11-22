@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2004:360",
-	"modified": "2024-09-15T14:43:32Z",
+	"modified": "2024-11-21T23:07:37Z",
 	"published": "2024-09-15T14:43:32Z",
 	"related": [
 		"CVE-2004-0497"
@@ -948,7 +948,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2004/rhsa-2004_360.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2004/rhsa-2004_360.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:1343",
-	"modified": "2024-10-27T17:18:52Z",
+	"modified": "2024-11-22T04:41:21Z",
 	"published": "2024-09-22T16:00:08Z",
 	"related": [
 		"CVE-2011-2998",

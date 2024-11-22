@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2015:0265",
-	"modified": "2024-09-15T22:20:53Z",
+	"modified": "2024-11-22T08:54:27Z",
 	"published": "2024-09-15T22:20:53Z",
 	"related": [
 		"CVE-2015-0822",
@@ -733,7 +733,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhsa-2015_0265.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhsa-2015_0265.json"
 		},
 		{
 			"type": "REPORT",

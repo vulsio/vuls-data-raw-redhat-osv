@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:0564",
-	"modified": "2024-09-15T23:12:57Z",
+	"modified": "2024-11-22T09:51:16Z",
 	"published": "2024-09-15T23:12:57Z",
 	"related": [
 		"CVE-2015-8869"
@@ -1236,7 +1236,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_0564.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_0564.json"
 		},
 		{
 			"type": "REPORT",

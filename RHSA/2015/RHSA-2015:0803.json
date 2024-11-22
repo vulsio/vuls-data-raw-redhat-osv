@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2015:0803",
-	"modified": "2024-09-15T21:41:00Z",
+	"modified": "2024-11-22T08:46:52Z",
 	"published": "2024-09-15T21:41:00Z",
 	"related": [
 		"CVE-2013-2596",
@@ -357,7 +357,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhsa-2015_0803.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhsa-2015_0803.json"
 		},
 		{
 			"type": "REPORT",

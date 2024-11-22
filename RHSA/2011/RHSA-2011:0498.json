@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:0498",
-	"modified": "2024-09-15T19:07:13Z",
+	"modified": "2024-11-22T04:28:37Z",
 	"published": "2024-09-15T19:07:13Z",
 	"related": [
 		"CVE-2010-4250",
@@ -1782,7 +1782,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_0498.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_0498.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHEA-2015:0369",
-	"modified": "2024-09-15T21:56:26Z",
+	"modified": "2024-11-22T08:23:30Z",
 	"published": "2024-09-15T21:56:26Z",
 	"related": [
 		"CVE-2014-0172"
@@ -756,7 +756,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhea-2015_0369.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhea-2015_0369.json"
 		},
 		{
 			"type": "REPORT",

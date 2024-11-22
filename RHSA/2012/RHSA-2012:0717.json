@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:0717",
-	"modified": "2024-09-15T19:58:02Z",
+	"modified": "2024-11-22T05:22:41Z",
 	"published": "2024-09-15T19:58:02Z",
 	"related": [
 		"CVE-2012-1033",
@@ -313,7 +313,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_0717.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_0717.json"
 		},
 		{
 			"type": "REPORT",

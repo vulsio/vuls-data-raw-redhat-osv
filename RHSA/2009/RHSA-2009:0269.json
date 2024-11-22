@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2009:0269",
-	"modified": "2024-09-15T17:42:48Z",
+	"modified": "2024-11-22T02:29:30Z",
 	"published": "2024-09-15T17:42:48Z",
 	"related": [
 		"CVE-2009-0398"
@@ -300,7 +300,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhsa-2009_0269.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2009/rhsa-2009_0269.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2010:0711",
-	"modified": "2024-09-13T06:01:19Z",
+	"modified": "2024-11-22T03:46:50Z",
 	"published": "2024-09-13T06:01:19Z",
 	"related": [
 		"CVE-2010-3081"
@@ -442,7 +442,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2010/rhsa-2010_0711.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2010/rhsa-2010_0711.json"
 		},
 		{
 			"type": "REPORT",

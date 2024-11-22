@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2015:1929",
-	"modified": "2024-09-15T22:55:34Z",
+	"modified": "2024-11-22T09:33:09Z",
 	"published": "2024-09-15T22:55:34Z",
 	"related": [
 		"CVE-2015-5306"
@@ -97,7 +97,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhsa-2015_1929.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhsa-2015_1929.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:1532",
-	"modified": "2024-09-15T19:22:00Z",
+	"modified": "2024-11-22T04:35:41Z",
 	"published": "2024-09-15T19:22:00Z",
 	"related": [
 		"CVE-2011-3588",
@@ -246,7 +246,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_1532.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_1532.json"
 		},
 		{
 			"type": "REPORT",

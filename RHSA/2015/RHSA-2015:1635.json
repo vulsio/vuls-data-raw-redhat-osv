@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2015:1635",
-	"modified": "2024-09-15T22:45:50Z",
+	"modified": "2024-11-22T09:22:29Z",
 	"published": "2024-09-15T22:45:50Z",
 	"related": [
 		"CVE-2015-3414",
@@ -586,7 +586,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhsa-2015_1635.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhsa-2015_1635.json"
 		},
 		{
 			"type": "REPORT",

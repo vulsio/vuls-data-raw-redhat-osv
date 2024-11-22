@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:1155",
-	"modified": "2024-09-15T17:07:13Z",
+	"modified": "2024-11-22T01:43:18Z",
 	"published": "2024-09-15T17:07:13Z",
 	"related": [
 		"CVE-2007-5925",
@@ -903,7 +903,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_1155.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_1155.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2004:489",
-	"modified": "2024-09-15T14:52:13Z",
+	"modified": "2024-11-21T23:13:07Z",
 	"published": "2024-09-15T14:52:13Z",
 	"related": [
 		"CVE-2004-0977"
@@ -1144,7 +1144,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2004/rhsa-2004_489.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2004/rhsa-2004_489.json"
 		},
 		{
 			"type": "REPORT",

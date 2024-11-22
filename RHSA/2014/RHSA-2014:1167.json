@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2014:1167",
-	"modified": "2024-09-15T21:53:46Z",
+	"modified": "2024-11-22T08:37:04Z",
 	"published": "2024-09-15T21:53:46Z",
 	"related": [
 		"CVE-2014-0205",
@@ -2067,7 +2067,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2014/rhsa-2014_1167.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2014/rhsa-2014_1167.json"
 		},
 		{
 			"type": "REPORT",

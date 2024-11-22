@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2005:612",
-	"modified": "2024-09-15T15:43:02Z",
+	"modified": "2024-11-21T23:55:22Z",
 	"published": "2024-09-15T15:43:02Z",
 	"related": [
 		"CVE-2005-1920"
@@ -304,7 +304,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2005/rhsa-2005_612.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2005/rhsa-2005_612.json"
 		},
 		{
 			"type": "REPORT",

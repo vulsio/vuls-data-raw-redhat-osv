@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2010:0768",
-	"modified": "2024-09-15T18:41:26Z",
+	"modified": "2024-11-22T03:45:06Z",
 	"published": "2024-09-15T18:41:26Z",
 	"related": [
 		"CVE-2009-3555",
@@ -384,7 +384,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2010/rhsa-2010_0768.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2010/rhsa-2010_0768.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2014:0044",
-	"modified": "2024-09-15T21:13:57Z",
+	"modified": "2024-11-22T07:18:59Z",
 	"published": "2024-09-15T21:13:57Z",
 	"related": [
 		"CVE-2013-6412"
@@ -392,7 +392,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2014/rhsa-2014_0044.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2014/rhsa-2014_0044.json"
 		},
 		{
 			"type": "REPORT",

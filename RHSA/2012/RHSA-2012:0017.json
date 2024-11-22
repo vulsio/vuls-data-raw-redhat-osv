@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:0017",
-	"modified": "2024-09-15T19:38:30Z",
+	"modified": "2024-11-22T06:04:08Z",
 	"published": "2024-09-15T19:38:30Z",
 	"related": [
 		"CVE-2010-4008",
@@ -325,7 +325,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_0017.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_0017.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:1806",
-	"modified": "2024-09-15T21:11:03Z",
+	"modified": "2024-11-22T07:14:11Z",
 	"published": "2024-09-15T21:11:03Z",
 	"related": [
 		"CVE-2013-4408",
@@ -1850,7 +1850,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_1806.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_1806.json"
 		},
 		{
 			"type": "REPORT",

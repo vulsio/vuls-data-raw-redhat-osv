@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2009:1321",
-	"modified": "2024-09-15T17:54:50Z",
+	"modified": "2024-11-22T02:43:44Z",
 	"published": "2024-09-15T17:54:50Z",
 	"related": [
 		"CVE-2008-4552"
@@ -144,7 +144,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhsa-2009_1321.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2009/rhsa-2009_1321.json"
 		},
 		{
 			"type": "REPORT",

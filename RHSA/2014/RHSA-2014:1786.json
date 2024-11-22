@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2014:1786",
-	"modified": "2024-09-15T22:02:58Z",
+	"modified": "2024-11-22T08:30:45Z",
 	"published": "2024-09-15T22:02:58Z",
 	"related": [
 		"CVE-2014-6414"
@@ -644,7 +644,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2014/rhsa-2014_1786.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2014/rhsa-2014_1786.json"
 		},
 		{
 			"type": "REPORT",

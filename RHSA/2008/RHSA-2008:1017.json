@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2008:1017",
-	"modified": "2024-09-13T06:24:14Z",
+	"modified": "2024-11-22T02:23:31Z",
 	"published": "2024-09-13T06:24:14Z",
 	"related": [
 		"CVE-2008-3831",
@@ -906,7 +906,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2008/rhsa-2008_1017.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2008/rhsa-2008_1017.json"
 		},
 		{
 			"type": "REPORT",

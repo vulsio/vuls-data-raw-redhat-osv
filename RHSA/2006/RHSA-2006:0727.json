@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2006:0727",
-	"modified": "2024-09-15T16:26:43Z",
+	"modified": "2024-11-22T00:36:18Z",
 	"published": "2024-09-15T16:26:43Z",
 	"related": [
 		"CVE-2005-3011",
@@ -773,7 +773,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2006/rhsa-2006_0727.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2006/rhsa-2006_0727.json"
 		},
 		{
 			"type": "REPORT",

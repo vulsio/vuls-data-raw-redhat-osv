@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:0886",
-	"modified": "2024-09-15T19:13:01Z",
+	"modified": "2024-11-22T04:27:40Z",
 	"published": "2024-09-15T19:13:01Z",
 	"related": [
 		"CVE-2011-0083",
@@ -92,7 +92,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_0886.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_0886.json"
 		},
 		{
 			"type": "REPORT",

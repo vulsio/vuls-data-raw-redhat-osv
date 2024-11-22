@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2005:564",
-	"modified": "2024-09-15T15:39:04Z",
+	"modified": "2024-11-21T23:52:57Z",
 	"published": "2024-09-15T15:39:04Z",
 	"related": [
 		"CVE-2005-1751",
@@ -2149,7 +2149,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2005/rhsa-2005_564.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2005/rhsa-2005_564.json"
 		},
 		{
 			"type": "REPORT",

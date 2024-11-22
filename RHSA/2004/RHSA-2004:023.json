@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2004:023",
-	"modified": "2024-09-12T22:07:25Z",
+	"modified": "2024-11-21T22:53:48Z",
 	"published": "2024-09-12T22:07:25Z",
 	"related": [
 		"CVE-2003-0935"
@@ -488,7 +488,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2004/rhsa-2004_023.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2004/rhsa-2004_023.json"
 		},
 		{
 			"type": "REPORT",

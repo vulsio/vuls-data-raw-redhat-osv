@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2009:1540",
-	"modified": "2024-09-13T06:45:46Z",
+	"modified": "2024-11-22T03:26:35Z",
 	"published": "2024-09-13T06:45:46Z",
 	"related": [
 		"CVE-2009-1895",
@@ -441,7 +441,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhsa-2009_1540.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2009/rhsa-2009_1540.json"
 		},
 		{
 			"type": "REPORT",

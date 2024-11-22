@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2003:399",
-	"modified": "2024-09-12T22:06:39Z",
+	"modified": "2024-11-21T22:54:15Z",
 	"published": "2024-09-12T22:06:39Z",
 	"related": [
 		"CVE-2003-0962"
@@ -212,7 +212,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2003/rhsa-2003_399.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2003/rhsa-2003_399.json"
 		},
 		{
 			"type": "REPORT",

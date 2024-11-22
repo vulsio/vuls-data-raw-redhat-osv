@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2009:1127",
-	"modified": "2024-09-15T18:00:58Z",
+	"modified": "2024-11-22T02:51:51Z",
 	"published": "2024-09-15T18:00:58Z",
 	"related": [
 		"CVE-2009-1687",
@@ -586,7 +586,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhsa-2009_1127.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2009/rhsa-2009_1127.json"
 		},
 		{
 			"type": "REPORT",

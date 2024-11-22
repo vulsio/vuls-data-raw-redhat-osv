@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2010:0720",
-	"modified": "2024-09-15T18:33:20Z",
+	"modified": "2024-11-22T03:35:50Z",
 	"published": "2024-09-15T18:33:20Z",
 	"related": [
 		"CVE-2007-6720",
@@ -789,7 +789,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2010/rhsa-2010_0720.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2010/rhsa-2010_0720.json"
 		},
 		{
 			"type": "REPORT",

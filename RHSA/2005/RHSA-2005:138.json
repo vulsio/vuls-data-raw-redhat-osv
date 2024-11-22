@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2005:138",
-	"modified": "2024-09-17T00:33:23Z",
+	"modified": "2024-11-21T23:29:43Z",
 	"published": "2024-09-17T00:33:23Z",
 	"related": [
 		"CVE-2005-0227",
@@ -1132,7 +1132,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2005/rhsa-2005_138.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2005/rhsa-2005_138.json"
 		},
 		{
 			"type": "REPORT",

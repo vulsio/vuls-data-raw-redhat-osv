@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:1265",
-	"modified": "2024-09-15T20:15:11Z",
+	"modified": "2024-11-22T05:45:15Z",
 	"published": "2024-09-15T20:15:11Z",
 	"related": [
 		"CVE-2011-1202",
@@ -689,7 +689,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_1265.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_1265.json"
 		},
 		{
 			"type": "REPORT",

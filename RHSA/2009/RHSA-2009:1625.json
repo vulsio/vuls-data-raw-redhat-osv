@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2009:1625",
-	"modified": "2024-09-15T18:11:47Z",
+	"modified": "2024-11-22T03:06:41Z",
 	"published": "2024-09-15T18:11:47Z",
 	"related": [
 		"CVE-2009-3560",
@@ -788,7 +788,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhsa-2009_1625.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2009/rhsa-2009_1625.json"
 		},
 		{
 			"type": "REPORT",

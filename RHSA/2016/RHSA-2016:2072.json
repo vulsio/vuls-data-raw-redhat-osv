@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2016:2072",
-	"modified": "2024-09-22T16:30:36Z",
+	"modified": "2024-11-22T09:36:57Z",
 	"published": "2024-09-22T16:30:36Z",
 	"related": [
 		"CVE-2016-3092"
@@ -80,7 +80,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2016/rhsa-2016_2072.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2016/rhsa-2016_2072.json"
 		},
 		{
 			"type": "REPORT",

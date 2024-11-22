@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:0403",
-	"modified": "2024-09-15T16:45:03Z",
+	"modified": "2024-11-22T01:10:20Z",
 	"published": "2024-09-15T16:45:03Z",
 	"related": [
 		"CVE-2007-2754"
@@ -1312,7 +1312,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_0403.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_0403.json"
 		},
 		{
 			"type": "REPORT",

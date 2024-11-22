@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2008:0042",
-	"modified": "2024-09-15T16:54:02Z",
+	"modified": "2024-11-22T02:13:20Z",
 	"published": "2024-09-15T16:54:02Z",
 	"related": [
 		"CVE-2007-5342",
@@ -857,7 +857,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2008/rhsa-2008_0042.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2008/rhsa-2008_0042.json"
 		},
 		{
 			"type": "REPORT",

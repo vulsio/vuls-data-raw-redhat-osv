@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:1615",
-	"modified": "2024-09-15T20:49:37Z",
+	"modified": "2024-11-22T07:36:37Z",
 	"published": "2024-09-15T20:49:37Z",
 	"related": [
 		"CVE-2006-7243",
@@ -2618,7 +2618,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_1615.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_1615.json"
 		},
 		{
 			"type": "REPORT",

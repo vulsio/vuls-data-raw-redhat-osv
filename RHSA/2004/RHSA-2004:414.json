@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2004:414",
-	"modified": "2024-09-15T14:47:22Z",
+	"modified": "2024-11-21T23:12:23Z",
 	"published": "2024-09-15T14:47:22Z",
 	"related": [
 		"CVE-2004-0691",
@@ -678,7 +678,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2004/rhsa-2004_414.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2004/rhsa-2004_414.json"
 		},
 		{
 			"type": "REPORT",

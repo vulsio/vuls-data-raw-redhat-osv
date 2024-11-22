@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:0475",
-	"modified": "2024-10-20T16:09:55Z",
+	"modified": "2024-11-22T04:18:36Z",
 	"published": "2024-09-15T19:06:15Z",
 	"related": [
 		"CVE-2011-0070",

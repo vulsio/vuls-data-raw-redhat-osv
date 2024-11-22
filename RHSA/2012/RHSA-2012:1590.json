@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:1590",
-	"modified": "2024-09-15T20:28:28Z",
+	"modified": "2024-11-22T06:01:23Z",
 	"published": "2024-09-15T20:28:28Z",
 	"related": [
 		"CVE-2012-3401",
@@ -614,7 +614,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_1590.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_1590.json"
 		},
 		{
 			"type": "REPORT",

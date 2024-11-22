@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:0480",
-	"modified": "2024-09-15T19:51:51Z",
+	"modified": "2024-11-22T05:21:11Z",
 	"published": "2024-09-15T19:51:51Z",
 	"related": [
 		"CVE-2012-1583"
@@ -860,7 +860,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_0480.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_0480.json"
 		},
 		{
 			"type": "REPORT",

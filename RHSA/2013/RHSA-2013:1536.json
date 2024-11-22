@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:1536",
-	"modified": "2024-09-15T20:54:41Z",
+	"modified": "2024-11-22T06:40:57Z",
 	"published": "2024-09-15T20:54:41Z",
 	"related": [
 		"CVE-2013-4419"
@@ -1324,7 +1324,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_1536.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_1536.json"
 		},
 		{
 			"type": "REPORT",

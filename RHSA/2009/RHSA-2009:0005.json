@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2009:0005",
-	"modified": "2024-09-15T15:19:00Z",
+	"modified": "2024-11-21T23:34:34Z",
 	"published": "2024-09-15T15:19:00Z",
 	"related": [
 		"CVE-2005-0706"
@@ -852,7 +852,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhsa-2009_0005.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2009/rhsa-2009_0005.json"
 		},
 		{
 			"type": "REPORT",

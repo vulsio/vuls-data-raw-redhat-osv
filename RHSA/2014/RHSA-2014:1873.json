@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2014:1873",
-	"modified": "2024-09-15T22:10:15Z",
+	"modified": "2024-11-22T08:45:51Z",
 	"published": "2024-09-15T22:10:15Z",
 	"related": [
 		"CVE-2014-3633",
@@ -586,7 +586,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2014/rhsa-2014_1873.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2014/rhsa-2014_1873.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2006:0633",
-	"modified": "2024-09-15T16:20:50Z",
+	"modified": "2024-11-22T00:28:13Z",
 	"published": "2024-09-15T16:20:50Z",
 	"related": [
 		"CVE-2006-3743",
@@ -1134,7 +1134,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2006/rhsa-2006_0633.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2006/rhsa-2006_0633.json"
 		},
 		{
 			"type": "REPORT",

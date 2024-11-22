@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:0796",
-	"modified": "2024-09-15T19:43:11Z",
+	"modified": "2024-11-22T05:04:34Z",
 	"published": "2024-09-15T19:43:11Z",
 	"related": [
 		"CVE-2011-4623"
@@ -784,7 +784,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_0796.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_0796.json"
 		},
 		{
 			"type": "REPORT",

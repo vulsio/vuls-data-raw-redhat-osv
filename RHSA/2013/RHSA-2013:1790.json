@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:1790",
-	"modified": "2024-09-15T21:12:19Z",
+	"modified": "2024-11-22T07:15:46Z",
 	"published": "2024-09-15T21:12:19Z",
 	"related": [
 		"CVE-2013-4355"
@@ -852,7 +852,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_1790.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_1790.json"
 		},
 		{
 			"type": "REPORT",

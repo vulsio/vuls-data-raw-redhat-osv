@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:1011",
-	"modified": "2024-09-15T16:58:23Z",
+	"modified": "2024-11-22T01:31:09Z",
 	"published": "2024-09-15T16:58:23Z",
 	"related": [
 		"CVE-2007-5116"
@@ -93,7 +93,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_1011.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_1011.json"
 		},
 		{
 			"type": "REPORT",

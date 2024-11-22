@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:0895",
-	"modified": "2024-09-15T16:55:56Z",
+	"modified": "2024-11-22T01:28:12Z",
 	"published": "2024-09-15T16:55:56Z",
 	"related": [
 		"CVE-2007-4639"
@@ -47,7 +47,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_0895.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_0895.json"
 		},
 		{
 			"type": "REPORT",

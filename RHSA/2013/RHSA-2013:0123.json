@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:0123",
-	"modified": "2024-09-15T19:35:01Z",
+	"modified": "2024-11-22T04:52:15Z",
 	"published": "2024-09-15T19:35:01Z",
 	"related": [
 		"CVE-2011-4339"
@@ -596,7 +596,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_0123.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_0123.json"
 		},
 		{
 			"type": "REPORT",

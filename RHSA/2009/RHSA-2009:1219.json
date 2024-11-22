@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2009:1219",
-	"modified": "2024-09-15T18:06:09Z",
+	"modified": "2024-11-22T02:57:58Z",
 	"published": "2024-09-15T18:06:09Z",
 	"related": [
 		"CVE-2009-2663"
@@ -783,7 +783,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhsa-2009_1219.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2009/rhsa-2009_1219.json"
 		},
 		{
 			"type": "REPORT",

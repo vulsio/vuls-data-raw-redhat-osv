@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2003:416",
-	"modified": "2024-09-12T22:06:24Z",
+	"modified": "2024-11-21T22:54:32Z",
 	"published": "2024-09-12T22:06:24Z",
 	"related": [
 		"CVE-2003-0985"
@@ -944,7 +944,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2004/rhsa-2003_416.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2004/rhsa-2003_416.json"
 		},
 		{
 			"type": "REPORT",

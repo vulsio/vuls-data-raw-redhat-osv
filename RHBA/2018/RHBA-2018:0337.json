@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2018:0337",
-	"modified": "2024-09-15T22:38:18Z",
+	"modified": "2024-11-22T09:14:21Z",
 	"published": "2024-09-15T22:38:18Z",
 	"related": [
 		"CVE-2013-6668",
@@ -9157,7 +9157,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhba-2018_0337.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhba-2018_0337.json"
 		},
 		{
 			"type": "REPORT",

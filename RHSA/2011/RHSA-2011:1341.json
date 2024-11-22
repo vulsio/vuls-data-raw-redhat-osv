@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:1341",
-	"modified": "2024-10-27T17:18:42Z",
+	"modified": "2024-11-22T04:41:13Z",
 	"published": "2024-09-22T15:59:56Z",
 	"related": [
 		"CVE-2011-2372",
@@ -617,14 +617,6 @@
 			"url": "https://access.redhat.com/errata/RHSA-2011:1341"
 		},
 		{
-			"type": "ARTICLE",
-			"url": "https://access.redhat.com/security/updates/classification/#critical"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "http://www.mozilla.org/security/known-vulnerabilities/firefox36.html#firefox3.6.23"
-		},
-		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=741902"
 		},
@@ -643,6 +635,14 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=741924"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "http://www.mozilla.org/security/known-vulnerabilities/firefox36.html#firefox3.6.23"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#critical"
 		},
 		{
 			"type": "ADVISORY",

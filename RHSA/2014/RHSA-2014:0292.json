@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2014:0292",
-	"modified": "2024-09-15T21:30:22Z",
+	"modified": "2024-11-22T07:40:20Z",
 	"published": "2024-09-15T21:30:22Z",
 	"related": [
 		"CVE-2014-0132"
@@ -392,7 +392,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2014/rhsa-2014_0292.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2014/rhsa-2014_0292.json"
 		},
 		{
 			"type": "REPORT",

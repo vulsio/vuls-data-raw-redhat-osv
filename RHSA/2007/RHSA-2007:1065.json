@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:1065",
-	"modified": "2024-09-15T17:02:46Z",
+	"modified": "2024-11-22T02:05:08Z",
 	"published": "2024-09-15T17:02:46Z",
 	"related": [
 		"CVE-2006-7228",
@@ -213,7 +213,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_1065.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_1065.json"
 		},
 		{
 			"type": "REPORT",

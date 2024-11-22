@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2008:0032",
-	"modified": "2024-09-15T17:07:34Z",
+	"modified": "2024-11-22T01:43:44Z",
 	"published": "2024-09-15T17:07:34Z",
 	"related": [
 		"CVE-2007-6284"
@@ -1312,7 +1312,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2008/rhsa-2008_0032.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2008/rhsa-2008_0032.json"
 		},
 		{
 			"type": "REPORT",

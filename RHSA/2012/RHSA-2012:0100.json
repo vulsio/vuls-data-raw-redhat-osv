@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:0100",
-	"modified": "2024-09-13T07:08:30Z",
+	"modified": "2024-11-22T04:53:38Z",
 	"published": "2024-09-13T07:08:30Z",
 	"related": [
 		"CVE-2011-4930"
@@ -576,7 +576,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_0100.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_0100.json"
 		},
 		{
 			"type": "REPORT",

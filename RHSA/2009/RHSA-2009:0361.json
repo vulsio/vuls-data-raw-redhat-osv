@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2009:0361",
-	"modified": "2024-09-15T17:48:14Z",
+	"modified": "2024-11-22T02:36:05Z",
 	"published": "2024-09-15T17:48:14Z",
 	"related": [
 		"CVE-2009-0365",
@@ -443,7 +443,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhsa-2009_0361.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2009/rhsa-2009_0361.json"
 		},
 		{
 			"type": "REPORT",

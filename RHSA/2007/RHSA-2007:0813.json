@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:0813",
-	"modified": "2024-09-15T16:51:33Z",
+	"modified": "2024-11-22T01:21:13Z",
 	"published": "2024-09-15T16:51:33Z",
 	"related": [
 		"CVE-2007-3108",
@@ -677,7 +677,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_0813.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_0813.json"
 		},
 		{
 			"type": "REPORT",

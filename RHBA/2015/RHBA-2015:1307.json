@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2015:1307",
-	"modified": "2024-09-15T22:20:05Z",
+	"modified": "2024-11-22T08:53:32Z",
 	"published": "2024-09-15T22:20:05Z",
 	"related": [
 		"CVE-2014-8119"
@@ -400,7 +400,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhba-2015_1307.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhba-2015_1307.json"
 		},
 		{
 			"type": "REPORT",

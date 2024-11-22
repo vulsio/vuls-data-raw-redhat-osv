@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2006:0526",
-	"modified": "2024-09-15T16:12:55Z",
+	"modified": "2024-11-22T00:19:35Z",
 	"published": "2024-09-15T16:12:55Z",
 	"related": [
 		"CVE-2006-0591",
@@ -2246,7 +2246,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2006/rhsa-2006_0526.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2006/rhsa-2006_0526.json"
 		},
 		{
 			"type": "REPORT",

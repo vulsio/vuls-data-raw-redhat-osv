@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:0124",
-	"modified": "2024-09-15T19:44:52Z",
+	"modified": "2024-11-22T05:06:54Z",
 	"published": "2024-09-15T19:44:52Z",
 	"related": [
 		"CVE-2012-2141"
@@ -450,7 +450,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_0124.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_0124.json"
 		},
 		{
 			"type": "REPORT",

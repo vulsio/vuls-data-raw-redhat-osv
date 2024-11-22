@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:0348",
-	"modified": "2024-09-15T16:42:04Z",
+	"modified": "2024-11-22T01:27:13Z",
 	"published": "2024-09-15T16:42:04Z",
 	"related": [
 		"CVE-2007-1864",
@@ -946,7 +946,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_0348.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_0348.json"
 		},
 		{
 			"type": "REPORT",

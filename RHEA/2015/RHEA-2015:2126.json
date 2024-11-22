@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHEA-2015:2126",
-	"modified": "2024-09-15T22:19:52Z",
+	"modified": "2024-11-22T08:53:26Z",
 	"published": "2024-09-15T22:19:52Z",
 	"related": [
 		"CVE-2014-9447"
@@ -764,7 +764,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhea-2015_2126.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhea-2015_2126.json"
 		},
 		{
 			"type": "REPORT",

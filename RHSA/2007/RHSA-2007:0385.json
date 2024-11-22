@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:0385",
-	"modified": "2024-09-15T16:41:05Z",
+	"modified": "2024-11-22T01:10:07Z",
 	"published": "2024-09-15T16:41:05Z",
 	"related": [
 		"CVE-2007-1558"
@@ -672,7 +672,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_0385.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_0385.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2013:1150",
-	"modified": "2024-09-15T21:02:17Z",
+	"modified": "2024-11-22T06:59:18Z",
 	"published": "2024-09-15T21:02:17Z",
 	"related": [
 		"CVE-2012-6151"
@@ -664,7 +664,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhba-2013_1150.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhba-2013_1150.json"
 		},
 		{
 			"type": "REPORT",

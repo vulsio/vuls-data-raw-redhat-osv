@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:0557",
-	"modified": "2024-09-15T16:47:55Z",
+	"modified": "2024-11-22T02:04:18Z",
 	"published": "2024-09-15T16:47:55Z",
 	"related": [
 		"CVE-2006-5752",
@@ -145,7 +145,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_0557.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_0557.json"
 		},
 		{
 			"type": "REPORT",

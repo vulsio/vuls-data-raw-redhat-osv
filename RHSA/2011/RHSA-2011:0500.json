@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:0500",
-	"modified": "2024-09-13T07:07:25Z",
+	"modified": "2024-11-22T05:35:49Z",
 	"published": "2024-09-13T07:07:25Z",
 	"related": [
 		"CVE-2011-0695",
@@ -470,7 +470,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_0500.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_0500.json"
 		},
 		{
 			"type": "REPORT",

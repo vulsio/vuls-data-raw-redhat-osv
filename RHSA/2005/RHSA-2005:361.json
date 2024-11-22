@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2005:361",
-	"modified": "2024-09-15T15:22:41Z",
+	"modified": "2024-11-21T23:38:30Z",
 	"published": "2024-09-15T15:22:41Z",
 	"related": [
 		"CVE-2005-1038"
@@ -240,7 +240,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2005/rhsa-2005_361.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2005/rhsa-2005_361.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2008:0002",
-	"modified": "2024-09-15T17:07:58Z",
+	"modified": "2024-11-22T01:44:45Z",
 	"published": "2024-09-15T17:07:58Z",
 	"related": [
 		"CVE-2008-0003"
@@ -783,7 +783,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2008/rhsa-2008_0002.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2008/rhsa-2008_0002.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2015:0290",
-	"modified": "2024-09-15T22:02:10Z",
+	"modified": "2024-11-22T08:52:46Z",
 	"published": "2024-09-15T22:02:10Z",
 	"related": [
 		"CVE-2014-3690",
@@ -2412,7 +2412,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhsa-2015_0290.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhsa-2015_0290.json"
 		},
 		{
 			"type": "REPORT",

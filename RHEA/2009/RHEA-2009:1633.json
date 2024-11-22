@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHEA-2009:1633",
-	"modified": "2024-09-13T06:45:28Z",
+	"modified": "2024-11-22T03:04:25Z",
 	"published": "2024-09-13T06:45:28Z",
 	"related": [
 		"CVE-2009-5004"
@@ -1261,7 +1261,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhea-2009_1633.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2009/rhea-2009_1633.json"
 		},
 		{
 			"type": "REPORT",

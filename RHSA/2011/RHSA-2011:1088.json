@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:1088",
-	"modified": "2024-09-15T19:15:53Z",
+	"modified": "2024-11-22T04:29:28Z",
 	"published": "2024-09-15T19:15:53Z",
 	"related": [
 		"CVE-2011-2502",
@@ -236,7 +236,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_1088.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_1088.json"
 		},
 		{
 			"type": "REPORT",

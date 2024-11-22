@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2005:080",
-	"modified": "2024-09-12T21:30:35Z",
+	"modified": "2024-11-21T23:26:16Z",
 	"published": "2024-09-12T21:30:35Z",
 	"related": [
 		"CVE-1999-1572"
@@ -216,7 +216,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2005/rhsa-2005_080.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2005/rhsa-2005_080.json"
 		},
 		{
 			"type": "REPORT",

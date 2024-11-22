@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:0934",
-	"modified": "2024-09-15T16:57:07Z",
+	"modified": "2024-11-22T01:29:56Z",
 	"published": "2024-09-15T16:57:07Z",
 	"related": [
 		"CVE-2007-4994"
@@ -93,7 +93,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_0934.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_0934.json"
 		},
 		{
 			"type": "REPORT",

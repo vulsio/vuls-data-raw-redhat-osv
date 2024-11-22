@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2005:346",
-	"modified": "2024-08-18T09:30:11Z",
+	"modified": "2024-11-21T23:37:53Z",
 	"published": "2024-08-18T09:30:11Z",
 	"related": [
 		"CVE-2005-2499"
@@ -220,7 +220,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2005/rhsa-2005_346.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2005/rhsa-2005_346.json"
 		},
 		{
 			"type": "REPORT",

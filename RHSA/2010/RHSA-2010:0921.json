@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2010:0921",
-	"modified": "2024-09-13T06:02:20Z",
+	"modified": "2024-11-22T03:52:12Z",
 	"published": "2024-09-13T06:02:20Z",
 	"related": [
 		"CVE-2010-4179"
@@ -781,7 +781,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2010/rhsa-2010_0921.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2010/rhsa-2010_0921.json"
 		},
 		{
 			"type": "REPORT",

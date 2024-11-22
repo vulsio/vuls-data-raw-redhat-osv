@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:1264",
-	"modified": "2024-09-13T08:26:03Z",
+	"modified": "2024-11-22T07:33:42Z",
 	"published": "2024-09-13T08:26:03Z",
 	"related": [
 		"CVE-2013-2058",
@@ -470,7 +470,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_1264.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_1264.json"
 		},
 		{
 			"type": "REPORT",

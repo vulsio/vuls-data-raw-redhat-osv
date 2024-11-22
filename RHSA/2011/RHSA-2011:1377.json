@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:1377",
-	"modified": "2024-09-15T19:30:19Z",
+	"modified": "2024-11-22T04:43:54Z",
 	"published": "2024-09-15T19:30:19Z",
 	"related": [
 		"CVE-2011-2483"
@@ -2144,7 +2144,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_1377.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_1377.json"
 		},
 		{
 			"type": "REPORT",

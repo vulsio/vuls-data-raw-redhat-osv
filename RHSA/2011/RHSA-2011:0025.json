@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:0025",
-	"modified": "2024-09-15T18:38:55Z",
+	"modified": "2024-11-22T03:42:55Z",
 	"published": "2024-09-15T18:38:55Z",
 	"related": [
 		"CVE-2010-0831",
@@ -1441,7 +1441,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_0025.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_0025.json"
 		},
 		{
 			"type": "REPORT",

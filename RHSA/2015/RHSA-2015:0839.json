@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2015:0839",
-	"modified": "2024-09-15T22:21:28Z",
+	"modified": "2024-11-22T08:55:04Z",
 	"published": "2024-09-15T22:21:28Z",
 	"related": [
 		"CVE-2014-8124"
@@ -159,7 +159,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhsa-2015_0839.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhsa-2015_0839.json"
 		},
 		{
 			"type": "REPORT",

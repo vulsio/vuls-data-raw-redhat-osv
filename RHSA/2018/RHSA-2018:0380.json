@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:0380",
-	"modified": "2024-09-16T00:46:57Z",
+	"modified": "2024-11-22T08:32:06Z",
 	"published": "2024-09-16T00:46:57Z",
 	"related": [
 		"CVE-2013-4492",
@@ -4428,7 +4428,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhsa-2018_0380.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhsa-2018_0380.json"
 		},
 		{
 			"type": "REPORT",

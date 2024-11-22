@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:3095",
-	"modified": "2024-09-16T11:39:08Z",
+	"modified": "2024-11-21T20:59:04Z",
 	"published": "2024-09-16T11:39:08Z",
 	"related": [
 		"CVE-2023-23009"
@@ -103,7 +103,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_3095.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_3095.json"
 		},
 		{
 			"type": "REPORT",

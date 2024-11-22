@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:0413",
-	"modified": "2024-09-15T19:02:43Z",
+	"modified": "2024-11-22T04:55:32Z",
 	"published": "2024-09-15T19:02:43Z",
 	"related": [
 		"CVE-2011-0536",
@@ -772,7 +772,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_0413.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_0413.json"
 		},
 		{
 			"type": "REPORT",

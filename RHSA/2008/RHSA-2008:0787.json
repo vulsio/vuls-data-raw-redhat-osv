@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2008:0787",
-	"modified": "2024-09-15T17:28:25Z",
+	"modified": "2024-11-22T02:26:23Z",
 	"published": "2024-09-15T17:28:25Z",
 	"related": [
 		"CVE-2006-4538",
@@ -268,7 +268,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhsa-2008_0787.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2009/rhsa-2008_0787.json"
 		},
 		{
 			"type": "REPORT",

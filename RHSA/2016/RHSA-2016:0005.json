@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2016:0005",
-	"modified": "2024-09-15T22:58:20Z",
+	"modified": "2024-11-22T09:36:40Z",
 	"published": "2024-09-15T22:58:20Z",
 	"related": [
 		"CVE-2015-7236"
@@ -392,7 +392,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2016/rhsa-2016_0005.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2016/rhsa-2016_0005.json"
 		},
 		{
 			"type": "REPORT",

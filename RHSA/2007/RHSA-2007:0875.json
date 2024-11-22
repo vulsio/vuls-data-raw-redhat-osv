@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:0875",
-	"modified": "2024-09-15T16:53:03Z",
+	"modified": "2024-11-22T01:28:01Z",
 	"published": "2024-09-15T16:53:03Z",
 	"related": [
 		"CVE-2007-3780"
@@ -898,7 +898,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_0875.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_0875.json"
 		},
 		{
 			"type": "REPORT",

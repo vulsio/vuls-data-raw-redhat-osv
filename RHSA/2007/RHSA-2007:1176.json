@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:1176",
-	"modified": "2024-09-15T17:07:55Z",
+	"modified": "2024-11-22T01:44:06Z",
 	"published": "2024-09-15T17:07:55Z",
 	"related": [
 		"CVE-2007-6285"
@@ -116,7 +116,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_1176.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_1176.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:6549",
-	"modified": "2024-09-16T12:48:01Z",
+	"modified": "2024-11-21T20:59:13Z",
 	"published": "2024-09-16T12:48:01Z",
 	"related": [
 		"CVE-2023-38710",
@@ -113,7 +113,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_6549.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_6549.json"
 		},
 		{
 			"type": "REPORT",

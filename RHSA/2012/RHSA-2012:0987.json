@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:0987",
-	"modified": "2024-09-15T19:54:54Z",
+	"modified": "2024-11-22T05:18:32Z",
 	"published": "2024-09-15T19:54:54Z",
 	"related": [
 		"CVE-2012-2328"
@@ -162,7 +162,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_0987.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_0987.json"
 		},
 		{
 			"type": "REPORT",

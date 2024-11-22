@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:0333",
-	"modified": "2024-09-13T07:58:49Z",
+	"modified": "2024-11-22T05:59:04Z",
 	"published": "2024-09-13T07:58:49Z",
 	"related": [
 		"CVE-2011-2918",
@@ -427,7 +427,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_0333.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_0333.json"
 		},
 		{
 			"type": "REPORT",

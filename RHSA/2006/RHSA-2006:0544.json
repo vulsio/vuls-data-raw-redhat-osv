@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2006:0544",
-	"modified": "2024-09-15T16:13:58Z",
+	"modified": "2024-11-22T00:53:14Z",
 	"published": "2024-09-15T16:13:58Z",
 	"related": [
 		"CVE-2006-0903",
@@ -509,7 +509,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2006/rhsa-2006_0544.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2006/rhsa-2006_0544.json"
 		},
 		{
 			"type": "REPORT",

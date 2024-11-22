@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:1024",
-	"modified": "2024-09-13T07:37:00Z",
+	"modified": "2024-11-22T06:37:50Z",
 	"published": "2024-09-13T07:37:00Z",
 	"related": [
 		"CVE-2013-1909"
@@ -1086,7 +1086,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_1024.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_1024.json"
 		},
 		{
 			"type": "REPORT",

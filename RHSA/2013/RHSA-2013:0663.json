@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:0663",
-	"modified": "2024-09-15T20:36:15Z",
+	"modified": "2024-11-22T06:13:34Z",
 	"published": "2024-09-15T20:36:15Z",
 	"related": [
 		"CVE-2013-0287"
@@ -1136,7 +1136,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_0663.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_0663.json"
 		},
 		{
 			"type": "REPORT",

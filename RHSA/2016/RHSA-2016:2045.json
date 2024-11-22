@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2016:2045",
-	"modified": "2024-09-15T23:31:51Z",
+	"modified": "2024-11-22T09:44:22Z",
 	"published": "2024-09-15T23:31:51Z",
 	"related": [
 		"CVE-2015-5174",
@@ -891,7 +891,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2016/rhsa-2016_2045.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2016/rhsa-2016_2045.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2014:0674",
-	"modified": "2024-09-13T08:52:55Z",
+	"modified": "2024-11-22T08:09:28Z",
 	"published": "2024-09-13T08:52:55Z",
 	"related": [
 		"CVE-2013-4148",
@@ -136,7 +136,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2014/rhsa-2014_0674.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2014/rhsa-2014_0674.json"
 		},
 		{
 			"type": "REPORT",

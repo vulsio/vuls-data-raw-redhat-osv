@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2004:084",
-	"modified": "2024-09-15T14:27:38Z",
+	"modified": "2024-11-21T22:59:08Z",
 	"published": "2024-09-15T14:27:38Z",
 	"related": [
 		"CVE-2004-0113"
@@ -420,7 +420,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2004/rhsa-2004_084.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2004/rhsa-2004_084.json"
 		},
 		{
 			"type": "REPORT",

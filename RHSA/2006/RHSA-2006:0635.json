@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2006:0635",
-	"modified": "2024-09-15T16:12:27Z",
+	"modified": "2024-11-22T00:28:37Z",
 	"published": "2024-09-15T16:12:27Z",
 	"related": [
 		"CVE-2006-3467"
@@ -2784,7 +2784,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2006/rhsa-2006_0635.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2006/rhsa-2006_0635.json"
 		},
 		{
 			"type": "REPORT",

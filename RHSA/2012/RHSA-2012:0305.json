@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:0305",
-	"modified": "2024-09-15T19:31:36Z",
+	"modified": "2024-11-22T04:46:22Z",
 	"published": "2024-09-15T19:31:36Z",
 	"related": [
 		"CVE-2008-0171",
@@ -313,7 +313,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_0305.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_0305.json"
 		},
 		{
 			"type": "REPORT",

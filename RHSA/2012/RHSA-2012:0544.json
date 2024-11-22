@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:0544",
-	"modified": "2024-09-15T19:48:43Z",
+	"modified": "2024-11-22T05:11:59Z",
 	"published": "2024-09-15T19:48:43Z",
 	"related": [
 		"CVE-2010-4167",
@@ -689,7 +689,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_0544.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_0544.json"
 		},
 		{
 			"type": "REPORT",

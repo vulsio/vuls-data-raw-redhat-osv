@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:1036",
-	"modified": "2024-09-15T20:01:06Z",
+	"modified": "2024-11-22T05:26:54Z",
 	"published": "2024-09-15T20:01:06Z",
 	"related": [
 		"CVE-2012-2143"
@@ -783,7 +783,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2012/rhsa-2012_1036.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2012/rhsa-2012_1036.json"
 		},
 		{
 			"type": "REPORT",

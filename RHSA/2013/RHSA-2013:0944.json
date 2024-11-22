@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:0944",
-	"modified": "2024-09-15T20:54:25Z",
+	"modified": "2024-11-22T06:39:24Z",
 	"published": "2024-09-15T20:54:25Z",
 	"related": [
 		"CVE-2013-2104"
@@ -78,7 +78,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_0944.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_0944.json"
 		},
 		{
 			"type": "REPORT",

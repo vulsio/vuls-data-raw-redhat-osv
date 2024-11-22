@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2009:1077",
-	"modified": "2024-09-15T17:43:33Z",
+	"modified": "2024-11-22T02:59:05Z",
 	"published": "2024-09-15T17:43:33Z",
 	"related": [
 		"CVE-2009-1336",
@@ -585,7 +585,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2009/rhsa-2009_1077.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2009/rhsa-2009_1077.json"
 		},
 		{
 			"type": "REPORT",

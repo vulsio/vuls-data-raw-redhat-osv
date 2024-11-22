@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2004:478",
-	"modified": "2024-09-15T14:51:11Z",
+	"modified": "2024-11-21T23:14:24Z",
 	"published": "2024-09-15T14:51:11Z",
 	"related": [
 		"CVE-2004-0419",
@@ -2803,7 +2803,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2004/rhsa-2004_478.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2004/rhsa-2004_478.json"
 		},
 		{
 			"type": "REPORT",

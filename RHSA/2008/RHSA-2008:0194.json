@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2008:0194",
-	"modified": "2024-09-15T17:16:00Z",
+	"modified": "2024-11-22T01:53:52Z",
 	"published": "2024-09-15T17:16:00Z",
 	"related": [
 		"CVE-2007-3919",
@@ -421,7 +421,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2008/rhsa-2008_0194.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2008/rhsa-2008_0194.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2008:0180",
-	"modified": "2024-09-15T17:14:36Z",
+	"modified": "2024-11-22T01:52:03Z",
 	"published": "2024-09-15T17:14:36Z",
 	"related": [
 		"CVE-2007-5971",
@@ -586,7 +586,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2008/rhsa-2008_0180.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2008/rhsa-2008_0180.json"
 		},
 		{
 			"type": "REPORT",

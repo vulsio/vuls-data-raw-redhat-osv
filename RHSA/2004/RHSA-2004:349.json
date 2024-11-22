@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2004:349",
-	"modified": "2024-09-15T14:43:55Z",
+	"modified": "2024-11-21T23:07:07Z",
 	"published": "2024-09-15T14:43:55Z",
 	"related": [
 		"CVE-2004-0748"
@@ -412,7 +412,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2004/rhsa-2004_349.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2004/rhsa-2004_349.json"
 		},
 		{
 			"type": "REPORT",

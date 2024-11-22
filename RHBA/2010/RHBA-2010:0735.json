@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2010:0735",
-	"modified": "2024-09-15T17:17:57Z",
+	"modified": "2024-11-22T01:56:04Z",
 	"published": "2024-09-15T17:17:57Z",
 	"related": [
 		"CVE-2008-3273"
@@ -6832,7 +6832,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2010/rhba-2010_0735.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2010/rhba-2010_0735.json"
 		},
 		{
 			"type": "REPORT",

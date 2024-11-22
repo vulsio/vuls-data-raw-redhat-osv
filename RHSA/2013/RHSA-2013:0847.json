@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:0847",
-	"modified": "2024-09-15T20:50:55Z",
+	"modified": "2024-11-22T06:33:51Z",
 	"published": "2024-09-15T20:50:55Z",
 	"related": [
 		"CVE-2013-0153"
@@ -438,7 +438,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_0847.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_0847.json"
 		},
 		{
 			"type": "REPORT",

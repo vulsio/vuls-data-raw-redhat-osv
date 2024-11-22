@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:1084",
-	"modified": "2024-09-15T17:03:21Z",
+	"modified": "2024-11-22T01:38:48Z",
 	"published": "2024-09-15T17:03:21Z",
 	"related": [
 		"CVE-2007-5947",
@@ -3116,7 +3116,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_1084.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_1084.json"
 		},
 		{
 			"type": "REPORT",

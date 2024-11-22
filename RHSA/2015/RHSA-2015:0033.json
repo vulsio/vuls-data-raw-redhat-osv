@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2015:0033",
-	"modified": "2024-09-15T22:12:51Z",
+	"modified": "2024-11-22T08:43:56Z",
 	"published": "2024-09-15T22:12:51Z",
 	"related": [
 		"CVE-2014-7811",
@@ -6335,7 +6335,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhsa-2015_0033.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhsa-2015_0033.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2015:1510",
-	"modified": "2024-09-15T22:37:21Z",
+	"modified": "2024-11-22T09:13:17Z",
 	"published": "2024-09-15T22:37:21Z",
 	"related": [
 		"CVE-2015-3213"
@@ -392,7 +392,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhsa-2015_1510.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhsa-2015_1510.json"
 		},
 		{
 			"type": "REPORT",

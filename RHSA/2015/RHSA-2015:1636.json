@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2015:1636",
-	"modified": "2024-09-15T22:48:06Z",
+	"modified": "2024-11-22T09:25:13Z",
 	"published": "2024-09-15T22:48:06Z",
 	"related": [
 		"CVE-2015-5621",
@@ -1595,7 +1595,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhsa-2015_1636.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhsa-2015_1636.json"
 		},
 		{
 			"type": "REPORT",

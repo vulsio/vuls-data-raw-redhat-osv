@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2008:0004",
-	"modified": "2024-09-15T17:06:05Z",
+	"modified": "2024-11-22T02:04:15Z",
 	"published": "2024-09-15T17:06:05Z",
 	"related": [
 		"CVE-2007-4465",
@@ -315,7 +315,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2008/rhsa-2008_0004.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2008/rhsa-2008_0004.json"
 		},
 		{
 			"type": "REPORT",

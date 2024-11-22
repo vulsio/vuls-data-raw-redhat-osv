@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2010:0458",
-	"modified": "2024-09-15T18:26:15Z",
+	"modified": "2024-11-22T03:25:02Z",
 	"published": "2024-09-15T18:26:15Z",
 	"related": [
 		"CVE-2008-5302",
@@ -181,7 +181,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2010/rhsa-2010_0458.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2010/rhsa-2010_0458.json"
 		},
 		{
 			"type": "REPORT",

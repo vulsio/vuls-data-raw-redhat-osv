@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2008:0648",
-	"modified": "2024-09-15T17:28:01Z",
+	"modified": "2024-11-22T02:13:59Z",
 	"published": "2024-09-15T17:28:01Z",
 	"related": [
 		"CVE-2008-1232",
@@ -867,7 +867,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2008/rhsa-2008_0648.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2008/rhsa-2008_0648.json"
 		},
 		{
 			"type": "REPORT",

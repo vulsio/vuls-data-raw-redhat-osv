@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:0951",
-	"modified": "2024-09-15T16:57:29Z",
+	"modified": "2024-11-22T01:22:26Z",
 	"published": "2024-09-15T16:57:29Z",
 	"related": [
 		"CVE-2007-3999",
@@ -236,7 +236,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2007/rhsa-2007_0951.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2007/rhsa-2007_0951.json"
 		},
 		{
 			"type": "REPORT",

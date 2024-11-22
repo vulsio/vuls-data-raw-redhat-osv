@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2014:0687",
-	"modified": "2024-09-13T08:53:29Z",
+	"modified": "2024-11-22T08:01:08Z",
 	"published": "2024-09-13T08:53:29Z",
 	"related": [
 		"CVE-2014-3467",
@@ -402,7 +402,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2014/rhsa-2014_0687.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2014/rhsa-2014_0687.json"
 		},
 		{
 			"type": "REPORT",
