@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:7276",
-	"modified": "2024-09-16T14:01:24Z",
+	"modified": "2024-11-23T01:27:58Z",
 	"published": "2024-09-16T14:01:24Z",
 	"related": [
 		"CVE-2023-34058",
@@ -265,7 +265,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_7276.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_7276.json"
 		},
 		{
 			"type": "REPORT",

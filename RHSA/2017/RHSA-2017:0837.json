@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:0837",
-	"modified": "2024-09-16T00:10:11Z",
+	"modified": "2024-11-22T10:55:06Z",
 	"published": "2024-09-16T00:10:11Z",
 	"related": [
 		"CVE-2017-5208",
@@ -239,7 +239,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_0837.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_0837.json"
 		},
 		{
 			"type": "REPORT",

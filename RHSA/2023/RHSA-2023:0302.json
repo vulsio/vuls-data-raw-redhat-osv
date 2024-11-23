@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:0302",
-	"modified": "2024-09-16T09:24:07Z",
+	"modified": "2024-11-22T20:39:57Z",
 	"published": "2024-09-16T09:24:07Z",
 	"related": [
 		"CVE-2022-2056",
@@ -328,7 +328,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_0302.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_0302.json"
 		},
 		{
 			"type": "REPORT",

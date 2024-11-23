@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:4135",
-	"modified": "2024-09-16T06:39:52Z",
+	"modified": "2024-11-22T17:42:48Z",
 	"published": "2024-09-16T06:39:52Z",
 	"related": [
 		"CVE-2021-35556",
@@ -1583,7 +1583,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_4135.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_4135.json"
 		},
 		{
 			"type": "REPORT",

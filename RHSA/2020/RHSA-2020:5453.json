@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:5453",
-	"modified": "2024-09-16T04:57:56Z",
+	"modified": "2024-11-22T15:53:51Z",
 	"published": "2024-09-16T04:57:56Z",
 	"related": [
 		"CVE-2020-25654"
@@ -260,7 +260,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_5453.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_5453.json"
 		},
 		{
 			"type": "REPORT",

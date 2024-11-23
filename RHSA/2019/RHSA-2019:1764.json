@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2019:1764",
-	"modified": "2024-09-16T02:44:05Z",
+	"modified": "2024-11-22T13:33:09Z",
 	"published": "2024-09-16T02:44:05Z",
 	"related": [
 		"CVE-2019-11709",
@@ -134,7 +134,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhsa-2019_1764.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhsa-2019_1764.json"
 		},
 		{
 			"type": "REPORT",

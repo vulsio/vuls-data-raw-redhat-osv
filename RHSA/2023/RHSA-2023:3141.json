@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:3141",
-	"modified": "2024-09-16T11:49:29Z",
+	"modified": "2024-11-22T23:08:14Z",
 	"published": "2024-09-16T11:49:29Z",
 	"related": [
 		"CVE-2023-32205",
@@ -129,7 +129,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_3141.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_3141.json"
 		},
 		{
 			"type": "REPORT",

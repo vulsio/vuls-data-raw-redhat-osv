@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2019:0802",
-	"modified": "2024-09-16T02:23:19Z",
+	"modified": "2024-11-22T12:58:51Z",
 	"published": "2024-09-16T02:23:19Z",
 	"related": [
 		"CVE-2019-3879"
@@ -498,7 +498,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhba-2019_0802.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhba-2019_0802.json"
 		},
 		{
 			"type": "REPORT",

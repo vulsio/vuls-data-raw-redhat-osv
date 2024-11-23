@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:3490",
-	"modified": "2024-09-16T07:39:19Z",
+	"modified": "2024-11-22T18:43:32Z",
 	"published": "2024-09-16T07:39:19Z",
 	"related": [
 		"CVE-2023-0461",
@@ -454,7 +454,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_3490.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_3490.json"
 		},
 		{
 			"type": "REPORT",

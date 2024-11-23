@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:4231",
-	"modified": "2024-09-16T05:59:17Z",
+	"modified": "2024-11-22T17:04:53Z",
 	"published": "2024-09-16T05:59:17Z",
 	"related": [
 		"CVE-2018-25009",
@@ -207,7 +207,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_4231.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_4231.json"
 		},
 		{
 			"type": "REPORT",

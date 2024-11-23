@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:3278",
-	"modified": "2024-09-16T00:52:28Z",
+	"modified": "2024-11-22T11:40:00Z",
 	"published": "2024-09-16T00:52:28Z",
 	"related": [
 		"CVE-2017-14746",
@@ -1323,7 +1323,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_3278.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_3278.json"
 		},
 		{
 			"type": "REPORT",

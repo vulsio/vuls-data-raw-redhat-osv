@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:3892",
-	"modified": "2024-09-16T06:40:26Z",
+	"modified": "2024-11-22T17:43:30Z",
 	"published": "2024-09-16T06:40:26Z",
 	"related": [
 		"CVE-2021-35550",
@@ -1003,7 +1003,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_3892.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_3892.json"
 		},
 		{
 			"type": "REPORT",

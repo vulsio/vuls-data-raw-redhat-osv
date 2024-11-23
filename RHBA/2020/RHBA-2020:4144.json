@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2020:4144",
-	"modified": "2024-09-18T04:07:56Z",
+	"modified": "2024-11-22T15:35:11Z",
 	"published": "2024-09-18T04:07:56Z",
 	"related": [
 		"CVE-2020-1759"
@@ -2426,7 +2426,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhba-2020_4144.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhba-2020_4144.json"
 		},
 		{
 			"type": "REPORT",

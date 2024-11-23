@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:2234",
-	"modified": "2024-09-16T09:44:20Z",
+	"modified": "2024-11-22T20:59:56Z",
 	"published": "2024-09-16T09:44:20Z",
 	"related": [
 		"CVE-2022-39377"
@@ -103,7 +103,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_2234.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_2234.json"
 		},
 		{
 			"type": "REPORT",

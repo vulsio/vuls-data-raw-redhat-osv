@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:2403",
-	"modified": "2024-09-29T17:27:05Z",
+	"modified": "2024-11-22T14:28:57Z",
 	"published": "2024-09-29T17:27:05Z",
 	"related": [
 		"CVE-2020-10749"
@@ -145,7 +145,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_2403.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_2403.json"
 		},
 		{
 			"type": "REPORT",

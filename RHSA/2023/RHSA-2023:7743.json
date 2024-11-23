@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:7743",
-	"modified": "2024-09-13T21:18:41Z",
+	"modified": "2024-11-22T20:36:22Z",
 	"published": "2024-09-13T21:18:41Z",
 	"related": [
 		"CVE-2022-43552"
@@ -398,7 +398,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_7743.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_7743.json"
 		},
 		{
 			"type": "REPORT",

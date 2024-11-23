@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2020:2785",
-	"modified": "2024-09-18T04:08:13Z",
+	"modified": "2024-11-22T12:57:29Z",
 	"published": "2024-09-18T04:08:13Z",
 	"related": [
 		"CVE-2019-11236",
@@ -73,7 +73,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhba-2020_2785.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhba-2020_2785.json"
 		},
 		{
 			"type": "REPORT",

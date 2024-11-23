@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:0681",
-	"modified": "2024-09-13T22:44:11Z",
+	"modified": "2024-11-22T14:58:39Z",
 	"published": "2024-09-13T22:44:11Z",
 	"related": [
 		"CVE-2021-20188"
@@ -103,7 +103,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_0681.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_0681.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2019:3335",
-	"modified": "2024-09-18T04:10:37Z",
+	"modified": "2024-11-22T12:56:34Z",
 	"published": "2024-09-18T04:10:37Z",
 	"related": [
 		"CVE-2019-11236",
@@ -2862,7 +2862,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhsa-2019_3335.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhsa-2019_3335.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:2837",
-	"modified": "2024-09-16T00:44:35Z",
+	"modified": "2024-11-22T11:34:12Z",
 	"published": "2024-09-16T00:44:35Z",
 	"related": [
 		"CVE-2017-14491",
@@ -325,7 +325,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_2837.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_2837.json"
 		},
 		{
 			"type": "REPORT",

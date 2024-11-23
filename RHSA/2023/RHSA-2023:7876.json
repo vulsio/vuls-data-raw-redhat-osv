@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:7876",
-	"modified": "2024-09-16T16:11:01Z",
+	"modified": "2024-11-23T03:33:12Z",
 	"published": "2024-09-16T16:11:01Z",
 	"related": [
 		"CVE-2023-40660",
@@ -104,7 +104,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_7876.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_7876.json"
 		},
 		{
 			"type": "REPORT",

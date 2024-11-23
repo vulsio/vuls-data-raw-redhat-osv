@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:2299",
-	"modified": "2024-09-16T00:06:10Z",
+	"modified": "2024-11-22T10:49:33Z",
 	"published": "2024-09-16T00:06:10Z",
 	"related": [
 		"CVE-2017-0553"
@@ -3137,7 +3137,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_2299.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_2299.json"
 		},
 		{
 			"type": "REPORT",

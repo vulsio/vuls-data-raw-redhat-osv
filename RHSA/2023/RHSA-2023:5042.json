@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:5042",
-	"modified": "2024-09-16T12:56:56Z",
+	"modified": "2024-11-23T00:21:00Z",
 	"published": "2024-09-16T12:56:56Z",
 	"related": [
 		"CVE-2020-22219"
@@ -145,7 +145,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_5042.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_5042.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2019:0972",
-	"modified": "2024-09-16T02:13:04Z",
+	"modified": "2024-11-22T12:44:50Z",
 	"published": "2024-09-16T02:13:04Z",
 	"related": [
 		"CVE-2019-3816"
@@ -674,7 +674,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhsa-2019_0972.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhsa-2019_0972.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2020:0017",
-	"modified": "2024-09-16T02:55:33Z",
+	"modified": "2024-11-22T13:45:56Z",
 	"published": "2024-09-16T02:55:33Z",
 	"related": [
 		"CVE-2019-10401",
@@ -94,7 +94,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhba-2020_0017.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhba-2020_0017.json"
 		},
 		{
 			"type": "REPORT",

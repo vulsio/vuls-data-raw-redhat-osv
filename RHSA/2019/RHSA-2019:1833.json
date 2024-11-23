@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2019:1833",
-	"modified": "2024-09-16T02:43:02Z",
+	"modified": "2024-11-22T13:29:49Z",
 	"published": "2024-09-16T02:43:02Z",
 	"related": [
 		"CVE-2019-12439"
@@ -615,7 +615,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhsa-2019_1833.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhsa-2019_1833.json"
 		},
 		{
 			"type": "REPORT",

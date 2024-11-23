@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:0397",
-	"modified": "2024-09-16T10:05:41Z",
+	"modified": "2024-11-22T21:24:08Z",
 	"published": "2024-09-16T10:05:41Z",
 	"related": [
 		"CVE-2022-4254"
@@ -3963,7 +3963,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_0397.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_0397.json"
 		},
 		{
 			"type": "REPORT",

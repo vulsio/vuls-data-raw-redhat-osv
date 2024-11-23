@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:2097",
-	"modified": "2024-09-16T01:05:40Z",
+	"modified": "2024-11-22T11:51:14Z",
 	"published": "2024-09-16T01:05:40Z",
 	"related": [
 		"CVE-2018-1000156"
@@ -76,7 +76,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhsa-2018_2097.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhsa-2018_2097.json"
 		},
 		{
 			"type": "REPORT",

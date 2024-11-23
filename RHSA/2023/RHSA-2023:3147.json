@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:3147",
-	"modified": "2024-09-13T23:26:17Z",
+	"modified": "2024-11-22T22:57:58Z",
 	"published": "2024-09-13T23:26:17Z",
 	"related": [
 		"CVE-2022-25147"
@@ -444,7 +444,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_3147.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_3147.json"
 		},
 		{
 			"type": "REPORT",

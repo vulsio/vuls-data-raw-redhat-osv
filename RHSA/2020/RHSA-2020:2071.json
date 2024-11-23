@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:2071",
-	"modified": "2024-09-16T04:06:43Z",
+	"modified": "2024-11-22T15:00:54Z",
 	"published": "2024-09-16T04:06:43Z",
 	"related": [
 		"CVE-2020-1763"
@@ -99,7 +99,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_2071.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_2071.json"
 		},
 		{
 			"type": "REPORT",

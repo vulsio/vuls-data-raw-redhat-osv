@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:5213",
-	"modified": "2024-09-16T13:09:10Z",
+	"modified": "2024-11-23T00:27:49Z",
 	"published": "2024-09-16T13:09:10Z",
 	"related": [
 		"CVE-2023-20900"
@@ -168,7 +168,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_5213.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_5213.json"
 		},
 		{
 			"type": "REPORT",

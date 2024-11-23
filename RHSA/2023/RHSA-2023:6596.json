@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:6596",
-	"modified": "2024-09-16T11:19:18Z",
+	"modified": "2024-11-22T22:34:14Z",
 	"published": "2024-09-16T11:19:18Z",
 	"related": [
 		"CVE-2023-32324",
@@ -741,7 +741,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_6596.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_6596.json"
 		},
 		{
 			"type": "REPORT",

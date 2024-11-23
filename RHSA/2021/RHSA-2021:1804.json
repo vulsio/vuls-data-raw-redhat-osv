@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:1804",
-	"modified": "2024-09-16T05:02:20Z",
+	"modified": "2024-11-22T15:59:16Z",
 	"published": "2024-09-16T05:02:20Z",
 	"related": [
 		"CVE-2020-14344",
@@ -3415,7 +3415,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_1804.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_1804.json"
 		},
 		{
 			"type": "REPORT",

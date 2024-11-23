@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:1145",
-	"modified": "2024-09-16T05:38:19Z",
+	"modified": "2024-11-22T16:41:21Z",
 	"published": "2024-09-16T05:38:19Z",
 	"related": [
 		"CVE-2021-20305"
@@ -306,7 +306,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_1145.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_1145.json"
 		},
 		{
 			"type": "REPORT",

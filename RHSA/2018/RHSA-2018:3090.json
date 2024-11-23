@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:3090",
-	"modified": "2024-09-13T16:53:44Z",
+	"modified": "2024-11-22T11:57:54Z",
 	"published": "2024-09-13T16:53:44Z",
 	"related": [
 		"CVE-2018-0739"
@@ -119,7 +119,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhsa-2018_3090.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhsa-2018_3090.json"
 		},
 		{
 			"type": "REPORT",

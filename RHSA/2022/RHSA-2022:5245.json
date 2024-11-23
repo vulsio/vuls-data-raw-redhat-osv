@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2022:5245",
-	"modified": "2024-09-16T08:05:40Z",
+	"modified": "2024-11-22T19:18:22Z",
 	"published": "2024-09-16T08:05:40Z",
 	"related": [
 		"CVE-2022-22576",
@@ -505,7 +505,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2022/rhsa-2022_5245.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2022/rhsa-2022_5245.json"
 		},
 		{
 			"type": "REPORT",

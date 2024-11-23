@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2019:4047",
-	"modified": "2024-09-16T03:14:48Z",
+	"modified": "2024-11-22T14:08:27Z",
 	"published": "2024-09-16T03:14:48Z",
 	"related": [
 		"CVE-2019-16892"
@@ -749,7 +749,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhba-2019_4047.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhba-2019_4047.json"
 		},
 		{
 			"type": "REPORT",

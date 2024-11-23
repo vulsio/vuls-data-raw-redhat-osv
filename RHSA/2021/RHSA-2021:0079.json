@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:0079",
-	"modified": "2024-09-18T04:29:41Z",
+	"modified": "2024-11-22T16:20:49Z",
 	"published": "2024-09-18T04:29:41Z",
 	"related": [
 		"CVE-2019-11840",
@@ -811,7 +811,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_0079.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_0079.json"
 		},
 		{
 			"type": "REPORT",

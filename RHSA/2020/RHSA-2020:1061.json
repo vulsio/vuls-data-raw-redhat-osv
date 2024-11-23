@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:1061",
-	"modified": "2024-09-16T02:49:13Z",
+	"modified": "2024-11-22T13:38:23Z",
 	"published": "2024-09-16T02:49:13Z",
 	"related": [
 		"CVE-2018-5745",
@@ -1616,7 +1616,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_1061.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_1061.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:2792",
-	"modified": "2024-09-16T05:12:12Z",
+	"modified": "2024-11-22T16:10:55Z",
 	"published": "2024-09-16T05:12:12Z",
 	"related": [
 		"CVE-2020-10543",
@@ -1557,7 +1557,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_2792.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_2792.json"
 		},
 		{
 			"type": "REPORT",

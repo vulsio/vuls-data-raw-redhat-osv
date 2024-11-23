@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:1877",
-	"modified": "2024-09-16T00:50:27Z",
+	"modified": "2024-11-22T11:38:36Z",
 	"published": "2024-09-16T00:50:27Z",
 	"related": [
 		"CVE-2017-12173"
@@ -3734,7 +3734,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhsa-2018_1877.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhsa-2018_1877.json"
 		},
 		{
 			"type": "REPORT",

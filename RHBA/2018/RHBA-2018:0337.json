@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2018:0337",
-	"modified": "2024-11-22T09:14:21Z",
+	"modified": "2024-11-22T11:43:16Z",
 	"published": "2024-09-15T22:38:18Z",
 	"related": [
 		"CVE-2013-6668",

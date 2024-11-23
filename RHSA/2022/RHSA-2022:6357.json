@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2022:6357",
-	"modified": "2024-09-16T08:58:13Z",
+	"modified": "2024-11-22T20:12:07Z",
 	"published": "2024-09-16T08:58:13Z",
 	"related": [
 		"CVE-2022-31676"
@@ -214,7 +214,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2022/rhsa-2022_6357.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2022/rhsa-2022_6357.json"
 		},
 		{
 			"type": "REPORT",

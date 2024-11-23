@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:4181",
-	"modified": "2024-09-16T05:45:22Z",
+	"modified": "2024-11-22T16:48:39Z",
 	"published": "2024-09-16T05:45:22Z",
 	"related": [
 		"CVE-2020-28896",
@@ -116,7 +116,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_4181.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_4181.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2022:6161",
-	"modified": "2024-09-16T08:40:32Z",
+	"modified": "2024-11-22T19:53:20Z",
 	"published": "2024-09-16T08:40:32Z",
 	"related": [
 		"CVE-2022-2526"
@@ -398,7 +398,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2022/rhsa-2022_6161.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2022/rhsa-2022_6161.json"
 		},
 		{
 			"type": "REPORT",

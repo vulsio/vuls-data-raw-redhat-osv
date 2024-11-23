@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:3723",
-	"modified": "2024-09-16T05:39:50Z",
+	"modified": "2024-11-22T16:43:00Z",
 	"published": "2024-09-16T05:39:50Z",
 	"related": [
 		"CVE-2020-14318",
@@ -551,11 +551,15 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_3723.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_3723.json"
 		},
 		{
 			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2020-1472"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/articles/5435971"
 		},
 		{
 			"type": "ADVISORY",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:6632",
-	"modified": "2024-09-17T19:35:30Z",
+	"modified": "2024-11-22T23:17:35Z",
 	"published": "2024-09-17T19:35:30Z",
 	"related": [
 		"CVE-2023-4641"
@@ -318,7 +318,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_6632.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_6632.json"
 		},
 		{
 			"type": "REPORT",

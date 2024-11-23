@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:2262",
-	"modified": "2024-09-16T06:01:36Z",
+	"modified": "2024-11-22T17:07:14Z",
 	"published": "2024-09-16T06:01:36Z",
 	"related": [
 		"CVE-2021-29956",
@@ -109,7 +109,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_2262.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_2262.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:4659",
-	"modified": "2024-09-16T04:05:10Z",
+	"modified": "2024-11-22T14:59:21Z",
 	"published": "2024-09-16T04:05:10Z",
 	"related": [
 		"CVE-2018-14553",
@@ -159,7 +159,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_4659.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_4659.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2022:6711",
-	"modified": "2024-10-30T07:10:17Z",
+	"modified": "2024-11-22T20:19:22Z",
 	"published": "2024-09-16T09:04:33Z",
 	"related": [
 		"CVE-2022-3266",

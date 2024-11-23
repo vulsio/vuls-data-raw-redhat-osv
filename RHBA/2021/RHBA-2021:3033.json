@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2021:3033",
-	"modified": "2024-10-21T22:46:59Z",
+	"modified": "2024-11-22T17:22:00Z",
 	"published": "2024-09-16T06:16:22Z",
 	"related": [
 		"CVE-2021-21670",

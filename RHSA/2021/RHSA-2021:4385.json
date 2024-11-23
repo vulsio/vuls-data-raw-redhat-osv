@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:4385",
-	"modified": "2024-09-16T05:49:30Z",
+	"modified": "2024-11-22T16:53:21Z",
 	"published": "2024-09-16T05:49:30Z",
 	"related": [
 		"CVE-2021-28153",
@@ -553,7 +553,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_4385.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_4385.json"
 		},
 		{
 			"type": "REPORT",

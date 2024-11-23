@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:6685",
-	"modified": "2024-09-16T12:35:12Z",
+	"modified": "2024-11-22T23:59:52Z",
 	"published": "2024-09-16T12:35:12Z",
 	"related": [
 		"CVE-2023-22745"
@@ -222,7 +222,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_6685.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_6685.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:2261",
-	"modified": "2024-09-16T09:42:56Z",
+	"modified": "2024-11-22T20:59:00Z",
 	"published": "2024-09-16T09:42:56Z",
 	"related": [
 		"CVE-2022-2795",
@@ -751,7 +751,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_2261.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_2261.json"
 		},
 		{
 			"type": "REPORT",

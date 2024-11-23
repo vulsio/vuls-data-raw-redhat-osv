@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:1636",
-	"modified": "2024-09-16T03:16:52Z",
+	"modified": "2024-11-22T14:11:00Z",
 	"published": "2024-09-16T03:16:52Z",
 	"related": [
 		"CVE-2018-13139",
@@ -269,7 +269,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_1636.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_1636.json"
 		},
 		{
 			"type": "REPORT",

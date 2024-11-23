@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:3876",
-	"modified": "2024-09-16T03:36:58Z",
+	"modified": "2024-11-22T14:33:44Z",
 	"published": "2024-09-16T03:36:58Z",
 	"related": [
 		"CVE-2017-0393",
@@ -417,7 +417,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_3876.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_3876.json"
 		},
 		{
 			"type": "REPORT",

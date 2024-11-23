@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHEA-2019:3809",
-	"modified": "2024-09-16T03:01:06Z",
+	"modified": "2024-11-22T13:52:48Z",
 	"published": "2024-09-16T03:01:06Z",
 	"related": [
 		"CVE-2019-11253"
@@ -440,7 +440,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhea-2019_3809.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhea-2019_3809.json"
 		},
 		{
 			"type": "REPORT",

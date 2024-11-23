@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:1243",
-	"modified": "2024-09-16T05:22:47Z",
+	"modified": "2024-11-22T16:24:15Z",
 	"published": "2024-09-16T05:22:47Z",
 	"related": [
 		"CVE-2020-35518"
@@ -334,7 +334,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_1243.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_1243.json"
 		},
 		{
 			"type": "REPORT",

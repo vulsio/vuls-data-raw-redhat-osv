@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:7253",
-	"modified": "2024-09-16T15:42:53Z",
+	"modified": "2024-11-23T03:01:32Z",
 	"published": "2024-09-16T15:42:53Z",
 	"related": [
 		"CVE-2023-36049",
@@ -909,7 +909,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_7253.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_7253.json"
 		},
 		{
 			"type": "REPORT",

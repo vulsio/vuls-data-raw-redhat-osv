@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:4032",
-	"modified": "2024-09-16T02:44:32Z",
+	"modified": "2024-11-22T13:33:23Z",
 	"published": "2024-09-16T02:44:32Z",
 	"related": [
 		"CVE-2019-12749"
@@ -678,7 +678,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_4032.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_4032.json"
 		},
 		{
 			"type": "REPORT",

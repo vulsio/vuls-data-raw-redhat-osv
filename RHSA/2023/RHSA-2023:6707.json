@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:6707",
-	"modified": "2024-09-16T13:09:00Z",
+	"modified": "2024-11-23T00:27:50Z",
 	"published": "2024-09-16T13:09:00Z",
 	"related": [
 		"CVE-2021-3468",
@@ -1631,7 +1631,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_6707.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_6707.json"
 		},
 		{
 			"type": "REPORT",

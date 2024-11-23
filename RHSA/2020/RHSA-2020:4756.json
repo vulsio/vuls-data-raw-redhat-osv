@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:4756",
-	"modified": "2024-09-16T04:23:33Z",
+	"modified": "2024-11-22T15:15:04Z",
 	"published": "2024-09-16T04:23:33Z",
 	"related": [
 		"CVE-2019-15892",
@@ -182,7 +182,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_4756.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_4756.json"
 		},
 		{
 			"type": "REPORT",

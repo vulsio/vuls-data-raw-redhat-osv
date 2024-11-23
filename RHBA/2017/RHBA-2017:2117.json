@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2017:2117",
-	"modified": "2024-09-16T00:11:55Z",
+	"modified": "2024-11-22T10:57:08Z",
 	"published": "2024-09-16T00:11:55Z",
 	"related": [
 		"CVE-2019-14513"
@@ -314,7 +314,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhba-2017_2117.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhba-2017_2117.json"
 		},
 		{
 			"type": "REPORT",

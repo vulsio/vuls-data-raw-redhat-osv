@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:2551",
-	"modified": "2024-09-16T00:31:34Z",
+	"modified": "2024-11-22T11:21:19Z",
 	"published": "2024-09-16T00:31:34Z",
 	"related": [
 		"CVE-2017-9775",
@@ -1047,7 +1047,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_2551.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_2551.json"
 		},
 		{
 			"type": "REPORT",

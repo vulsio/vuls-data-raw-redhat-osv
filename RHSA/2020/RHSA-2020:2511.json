@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:2511",
-	"modified": "2024-10-27T18:15:23Z",
+	"modified": "2024-11-22T14:37:48Z",
 	"published": "2024-09-29T17:30:37Z",
 	"related": [
 		"CVE-2018-14371",
@@ -4641,6 +4641,18 @@
 			"url": "https://access.redhat.com/errata/RHSA-2020:2511"
 		},
 		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#important"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.3/"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.3/html-single/installation_guide/"
+		},
+		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1607709"
 		},
@@ -4927,18 +4939,6 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://issues.redhat.com/browse/JBEAP-19456"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://access.redhat.com/security/updates/classification/#important"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.3/html-single/installation_guide/"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.3/"
 		},
 		{
 			"type": "ADVISORY",

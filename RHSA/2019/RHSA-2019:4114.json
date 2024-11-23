@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2019:4114",
-	"modified": "2024-09-16T03:23:21Z",
+	"modified": "2024-11-22T14:17:59Z",
 	"published": "2024-09-16T03:23:21Z",
 	"related": [
 		"CVE-2019-11745"
@@ -421,7 +421,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhsa-2019_4114.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhsa-2019_4114.json"
 		},
 		{
 			"type": "REPORT",

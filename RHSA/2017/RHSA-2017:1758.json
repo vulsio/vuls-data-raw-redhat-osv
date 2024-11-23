@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:1758",
-	"modified": "2024-09-16T00:22:18Z",
+	"modified": "2024-11-22T11:09:33Z",
 	"published": "2024-09-16T00:22:18Z",
 	"related": [
 		"CVE-2016-7047",
@@ -1146,7 +1146,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_1758.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_1758.json"
 		},
 		{
 			"type": "REPORT",

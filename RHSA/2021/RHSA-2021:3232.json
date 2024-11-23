@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:3232",
-	"modified": "2024-09-16T06:15:20Z",
+	"modified": "2024-11-22T17:20:45Z",
 	"published": "2024-09-16T06:15:20Z",
 	"related": [
 		"CVE-2021-31291"
@@ -352,7 +352,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_3232.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_3232.json"
 		},
 		{
 			"type": "REPORT",

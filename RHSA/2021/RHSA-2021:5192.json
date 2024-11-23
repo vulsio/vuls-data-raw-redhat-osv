@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:5192",
-	"modified": "2024-09-16T06:51:08Z",
+	"modified": "2024-11-22T17:53:07Z",
 	"published": "2024-09-16T06:51:08Z",
 	"related": [
 		"CVE-2016-2124",
@@ -2611,7 +2611,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_5192.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_5192.json"
 		},
 		{
 			"type": "REPORT",

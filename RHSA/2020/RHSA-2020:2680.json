@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:2680",
-	"modified": "2024-09-16T04:16:27Z",
+	"modified": "2024-11-22T15:08:55Z",
 	"published": "2024-09-16T04:16:27Z",
 	"related": [
 		"CVE-2020-0543",
@@ -190,7 +190,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_2680.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_2680.json"
 		},
 		{
 			"type": "REPORT",

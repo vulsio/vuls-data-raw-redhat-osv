@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2019:2044",
-	"modified": "2024-09-16T01:55:36Z",
+	"modified": "2024-11-22T12:26:49Z",
 	"published": "2024-09-16T01:55:36Z",
 	"related": [
 		"CVE-2018-5818",
@@ -9237,7 +9237,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhba-2019_2044.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhba-2019_2044.json"
 		},
 		{
 			"type": "REPORT",

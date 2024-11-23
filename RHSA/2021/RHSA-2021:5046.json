@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:5046",
-	"modified": "2024-09-16T06:56:34Z",
+	"modified": "2024-11-22T17:58:00Z",
 	"published": "2024-09-16T06:56:34Z",
 	"related": [
 		"CVE-2021-4129",
@@ -218,7 +218,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_5046.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_5046.json"
 		},
 		{
 			"type": "REPORT",

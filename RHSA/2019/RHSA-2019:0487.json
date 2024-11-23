@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2019:0487",
-	"modified": "2024-09-13T15:10:09Z",
+	"modified": "2024-11-22T12:41:42Z",
 	"published": "2024-09-13T15:10:09Z",
 	"related": [
 		"CVE-2018-20699"
@@ -261,7 +261,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhsa-2019_0487.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhsa-2019_0487.json"
 		},
 		{
 			"type": "REPORT",

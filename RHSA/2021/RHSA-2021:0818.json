@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:0818",
-	"modified": "2024-09-16T05:31:57Z",
+	"modified": "2024-11-22T16:33:59Z",
 	"published": "2024-09-16T05:31:57Z",
 	"related": [
 		"CVE-2021-27803"
@@ -99,7 +99,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_0818.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_0818.json"
 		},
 		{
 			"type": "REPORT",

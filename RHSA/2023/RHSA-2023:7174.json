@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:7174",
-	"modified": "2024-09-17T19:35:51Z",
+	"modified": "2024-11-23T00:07:15Z",
 	"published": "2024-09-17T19:35:51Z",
 	"related": [
 		"CVE-2023-31486"
@@ -57,7 +57,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_7174.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_7174.json"
 		},
 		{
 			"type": "REPORT",

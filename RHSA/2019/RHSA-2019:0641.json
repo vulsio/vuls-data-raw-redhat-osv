@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2019:0641",
-	"modified": "2024-09-13T16:54:48Z",
+	"modified": "2024-11-22T12:43:59Z",
 	"published": "2024-09-13T16:54:48Z",
 	"related": [
 		"CVE-2017-7482",
@@ -404,7 +404,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhsa-2019_0641.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhsa-2019_0641.json"
 		},
 		{
 			"type": "REPORT",

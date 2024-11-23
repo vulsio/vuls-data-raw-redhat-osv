@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2020:2215",
-	"modified": "2024-09-16T03:45:57Z",
+	"modified": "2024-11-22T14:39:54Z",
 	"published": "2024-09-16T03:45:57Z",
 	"related": [
 		"CVE-2020-8552"
@@ -1006,7 +1006,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhba-2020_2215.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhba-2020_2215.json"
 		},
 		{
 			"type": "REPORT",

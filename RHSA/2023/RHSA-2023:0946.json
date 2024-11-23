@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:0946",
-	"modified": "2024-09-16T09:53:19Z",
+	"modified": "2024-11-22T21:09:08Z",
 	"published": "2024-09-16T09:53:19Z",
 	"related": [
 		"CVE-2022-4203",
@@ -431,7 +431,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_0946.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_0946.json"
 		},
 		{
 			"type": "REPORT",

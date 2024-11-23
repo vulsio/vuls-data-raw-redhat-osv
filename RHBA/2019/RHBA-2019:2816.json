@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2019:2816",
-	"modified": "2024-09-16T02:53:46Z",
+	"modified": "2024-11-22T13:43:44Z",
 	"published": "2024-09-16T02:53:46Z",
 	"related": [
 		"CVE-2019-11247",
@@ -179,7 +179,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhba-2019_2816.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhba-2019_2816.json"
 		},
 		{
 			"type": "REPORT",

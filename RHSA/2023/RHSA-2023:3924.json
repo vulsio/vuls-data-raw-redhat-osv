@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:3924",
-	"modified": "2024-09-16T12:08:21Z",
+	"modified": "2024-11-22T23:44:33Z",
 	"published": "2024-09-16T12:08:21Z",
 	"related": [
 		"CVE-2023-3089"
@@ -176,7 +176,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_3924.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_3924.json"
 		},
 		{
 			"type": "REPORT",

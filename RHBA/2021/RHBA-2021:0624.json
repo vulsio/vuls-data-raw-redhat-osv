@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2021:0624",
-	"modified": "2024-09-16T05:00:34Z",
+	"modified": "2024-11-22T15:57:28Z",
 	"published": "2024-09-16T05:00:34Z",
 	"related": [
 		"CVE-2020-8696"
@@ -45,7 +45,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhba-2021_0624.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhba-2021_0624.json"
 		},
 		{
 			"type": "REPORT",
@@ -54,6 +54,10 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1890355"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/articles/5569051"
 		},
 		{
 			"type": "ADVISORY",

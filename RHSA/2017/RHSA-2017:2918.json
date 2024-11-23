@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:2918",
-	"modified": "2024-09-13T16:49:48Z",
+	"modified": "2024-11-22T11:31:08Z",
 	"published": "2024-09-13T16:49:48Z",
 	"related": [
 		"CVE-2017-1000111",
@@ -419,7 +419,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_2918.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_2918.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:2439",
-	"modified": "2024-09-16T01:21:22Z",
+	"modified": "2024-11-22T11:58:40Z",
 	"published": "2024-09-16T01:21:22Z",
 	"related": [
 		"CVE-2017-10268",
@@ -972,7 +972,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhsa-2018_2439.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhsa-2018_2439.json"
 		},
 		{
 			"type": "REPORT",

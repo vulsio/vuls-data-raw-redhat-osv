@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2023:2451",
-	"modified": "2024-09-16T10:50:43Z",
+	"modified": "2024-11-22T22:13:02Z",
 	"published": "2024-09-16T10:50:43Z",
 	"related": [
 		"CVE-2023-0664"
@@ -113,7 +113,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhba-2023_2451.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhba-2023_2451.json"
 		},
 		{
 			"type": "REPORT",

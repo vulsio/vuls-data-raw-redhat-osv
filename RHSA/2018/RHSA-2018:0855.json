@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:0855",
-	"modified": "2024-09-16T00:43:02Z",
+	"modified": "2024-11-22T11:32:11Z",
 	"published": "2024-09-16T00:43:02Z",
 	"related": [
 		"CVE-2017-6462",
@@ -616,7 +616,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhsa-2018_0855.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhsa-2018_0855.json"
 		},
 		{
 			"type": "REPORT",

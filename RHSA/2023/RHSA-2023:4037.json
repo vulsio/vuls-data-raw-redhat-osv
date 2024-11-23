@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:4037",
-	"modified": "2024-09-16T12:21:23Z",
+	"modified": "2024-11-22T23:42:43Z",
 	"published": "2024-09-16T12:21:23Z",
 	"related": [
 		"CVE-2023-2828"
@@ -674,7 +674,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_4037.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_4037.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHEA-2023:6741",
-	"modified": "2024-10-29T06:47:10Z",
+	"modified": "2024-11-23T01:47:28Z",
 	"published": "2024-09-30T10:43:49Z",
 	"related": [
 		"CVE-2023-44487",
@@ -473,6 +473,10 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2242803"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/vulnerabilities/RHSB-2023-003"
 		},
 		{
 			"type": "ADVISORY",

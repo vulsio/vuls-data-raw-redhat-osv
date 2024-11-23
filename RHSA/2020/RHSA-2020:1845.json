@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:1845",
-	"modified": "2024-09-16T02:49:22Z",
+	"modified": "2024-11-22T13:38:31Z",
 	"published": "2024-09-16T02:49:22Z",
 	"related": [
 		"CVE-2019-6477"
@@ -1296,7 +1296,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_1845.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_1845.json"
 		},
 		{
 			"type": "REPORT",

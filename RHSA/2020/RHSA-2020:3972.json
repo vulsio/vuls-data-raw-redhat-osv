@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:3972",
-	"modified": "2024-09-16T04:00:43Z",
+	"modified": "2024-11-22T14:54:14Z",
 	"published": "2024-09-16T04:00:43Z",
 	"related": [
 		"CVE-2018-11782"
@@ -1138,7 +1138,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_3972.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_3972.json"
 		},
 		{
 			"type": "REPORT",

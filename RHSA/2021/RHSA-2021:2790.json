@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:2790",
-	"modified": "2024-09-16T05:30:50Z",
+	"modified": "2024-11-22T16:32:59Z",
 	"published": "2024-09-16T05:30:50Z",
 	"related": [
 		"CVE-2020-14372",
@@ -271,7 +271,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_2790.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_2790.json"
 		},
 		{
 			"type": "REPORT",

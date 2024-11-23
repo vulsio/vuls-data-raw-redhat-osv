@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:2532",
-	"modified": "2024-09-16T09:55:29Z",
+	"modified": "2024-11-22T21:11:56Z",
 	"published": "2024-09-16T09:55:29Z",
 	"related": [
 		"CVE-2022-36227"
@@ -586,7 +586,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_2532.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_2532.json"
 		},
 		{
 			"type": "REPORT",

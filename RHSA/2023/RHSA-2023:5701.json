@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:5701",
-	"modified": "2024-09-18T05:31:14Z",
+	"modified": "2024-11-23T02:01:57Z",
 	"published": "2024-09-18T05:31:14Z",
 	"related": [
 		"CVE-2023-41164",
@@ -219,7 +219,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_5701.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_5701.json"
 		},
 		{
 			"type": "REPORT",

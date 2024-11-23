@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:0576",
-	"modified": "2024-09-16T03:32:53Z",
+	"modified": "2024-11-22T14:29:35Z",
 	"published": "2024-09-16T03:32:53Z",
 	"related": [
 		"CVE-2020-6792",
@@ -197,7 +197,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_0576.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_0576.json"
 		},
 		{
 			"type": "REPORT",

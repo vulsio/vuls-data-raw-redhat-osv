@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:1101",
-	"modified": "2024-09-13T11:58:35Z",
+	"modified": "2024-11-22T11:05:34Z",
 	"published": "2024-09-13T11:58:35Z",
 	"related": [
 		"CVE-2017-5461"
@@ -145,7 +145,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_1101.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_1101.json"
 		},
 		{
 			"type": "REPORT",

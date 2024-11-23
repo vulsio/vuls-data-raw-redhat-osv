@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:1020",
-	"modified": "2024-09-16T02:24:30Z",
+	"modified": "2024-11-22T13:00:18Z",
 	"published": "2024-09-16T02:24:30Z",
 	"related": [
 		"CVE-2019-5436"
@@ -410,7 +410,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_1020.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_1020.json"
 		},
 		{
 			"type": "REPORT",

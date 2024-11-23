@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:5195",
-	"modified": "2024-09-16T06:58:32Z",
+	"modified": "2024-11-22T18:01:55Z",
 	"published": "2024-09-16T06:58:32Z",
 	"related": [
 		"CVE-2020-25719"
@@ -1230,7 +1230,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_5195.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_5195.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:7386",
-	"modified": "2024-09-16T14:31:00Z",
+	"modified": "2024-11-23T01:53:27Z",
 	"published": "2024-09-16T14:31:00Z",
 	"related": [
 		"CVE-2022-44638"
@@ -122,7 +122,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_7386.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_7386.json"
 		},
 		{
 			"type": "REPORT",

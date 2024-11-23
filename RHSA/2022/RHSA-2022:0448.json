@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2022:0448",
-	"modified": "2024-10-27T20:55:23Z",
+	"modified": "2024-11-22T23:05:41Z",
 	"published": "2024-09-29T18:50:50Z",
 	"related": [
 		"CVE-2021-3859",
@@ -121,6 +121,10 @@
 		{
 			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2021-4104"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/vulnerabilities/RHSB-2021-009"
 		},
 		{
 			"type": "ADVISORY",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:4292",
-	"modified": "2024-09-16T06:09:33Z",
+	"modified": "2024-11-22T17:15:21Z",
 	"published": "2024-09-16T06:09:33Z",
 	"related": [
 		"CVE-2021-28651",
@@ -225,7 +225,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_4292.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_4292.json"
 		},
 		{
 			"type": "REPORT",

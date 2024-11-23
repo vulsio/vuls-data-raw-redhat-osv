@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHEA-2019:3848",
-	"modified": "2024-09-16T03:06:07Z",
+	"modified": "2024-11-22T13:59:38Z",
 	"published": "2024-09-16T03:06:07Z",
 	"related": [
 		"CVE-2019-0117"
@@ -118,7 +118,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhea-2019_3848.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhea-2019_3848.json"
 		},
 		{
 			"type": "REPORT",

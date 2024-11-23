@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:6231",
-	"modified": "2024-09-16T14:33:55Z",
+	"modified": "2024-11-23T02:02:29Z",
 	"published": "2024-09-16T14:33:55Z",
 	"related": [
 		"CVE-2023-1633"
@@ -53,7 +53,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_6231.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_6231.json"
 		},
 		{
 			"type": "REPORT",

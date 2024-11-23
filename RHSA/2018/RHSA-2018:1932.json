@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:1932",
-	"modified": "2024-09-16T01:16:15Z",
+	"modified": "2024-11-22T11:55:57Z",
 	"published": "2024-09-16T01:16:15Z",
 	"related": [
 		"CVE-2014-10072",
@@ -329,7 +329,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhsa-2018_1932.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhsa-2018_1932.json"
 		},
 		{
 			"type": "REPORT",

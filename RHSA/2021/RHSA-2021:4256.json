@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:4256",
-	"modified": "2024-09-16T06:03:59Z",
+	"modified": "2024-11-22T17:09:35Z",
 	"published": "2024-09-16T06:03:59Z",
 	"related": [
 		"CVE-2020-18032"
@@ -770,7 +770,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_4256.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_4256.json"
 		},
 		{
 			"type": "REPORT",

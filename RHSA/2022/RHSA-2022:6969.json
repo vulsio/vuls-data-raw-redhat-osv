@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2022:6969",
-	"modified": "2024-09-16T09:16:50Z",
+	"modified": "2024-11-22T20:32:11Z",
 	"published": "2024-09-16T09:16:50Z",
 	"related": [
 		"CVE-2022-3101",
@@ -147,7 +147,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2022/rhsa-2022_6969.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2022/rhsa-2022_6969.json"
 		},
 		{
 			"type": "REPORT",

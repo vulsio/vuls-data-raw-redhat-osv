@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:6732",
-	"modified": "2024-09-16T14:35:26Z",
+	"modified": "2024-11-23T02:03:57Z",
 	"published": "2024-09-16T14:35:26Z",
 	"related": [
 		"CVE-2023-43115"
@@ -628,7 +628,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_6732.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_6732.json"
 		},
 		{
 			"type": "REPORT",

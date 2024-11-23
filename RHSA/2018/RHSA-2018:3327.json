@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:3327",
-	"modified": "2024-09-16T01:44:33Z",
+	"modified": "2024-11-22T12:14:56Z",
 	"published": "2024-09-16T01:44:33Z",
 	"related": [
 		"CVE-2018-14679",
@@ -325,7 +325,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhsa-2018_3327.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhsa-2018_3327.json"
 		},
 		{
 			"type": "REPORT",

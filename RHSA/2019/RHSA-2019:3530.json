@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2019:3530",
-	"modified": "2024-09-16T02:21:23Z",
+	"modified": "2024-11-22T12:56:37Z",
 	"published": "2024-09-16T02:21:23Z",
 	"related": [
 		"CVE-2019-12450"
@@ -552,7 +552,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhsa-2019_3530.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhsa-2019_3530.json"
 		},
 		{
 			"type": "REPORT",

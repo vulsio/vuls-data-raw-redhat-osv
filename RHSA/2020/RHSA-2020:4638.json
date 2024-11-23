@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:4638",
-	"modified": "2024-09-16T04:00:33Z",
+	"modified": "2024-11-22T14:53:59Z",
 	"published": "2024-09-16T04:00:33Z",
 	"related": [
 		"CVE-2019-16167"
@@ -103,7 +103,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_4638.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_4638.json"
 		},
 		{
 			"type": "REPORT",

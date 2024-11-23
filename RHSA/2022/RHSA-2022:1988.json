@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2022:1988",
-	"modified": "2024-10-30T03:43:16Z",
+	"modified": "2024-11-22T17:34:49Z",
 	"published": "2024-09-16T06:30:36Z",
 	"related": [
 		"CVE-2020-0404",
@@ -56,6 +56,7 @@
 		"CVE-2022-3106",
 		"CVE-2022-3108",
 		"CVE-2022-48771",
+		"CVE-2022-48904",
 		"CVE-2023-0459"
 	],
 	"summary": "Red Hat Security Advisory: kernel security, bug fix, and enhancement update",
@@ -2887,6 +2888,26 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://lore.kernel.org/linux-cve-announce/2024062011-CVE-2022-48771-2c90@gregkh/T"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2022-48904"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2307157"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2022-48904"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-48904"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://lore.kernel.org/linux-cve-announce/2024082212-CVE-2022-48904-b02c@gregkh/T"
 		},
 		{
 			"type": "REPORT",

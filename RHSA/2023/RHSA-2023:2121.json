@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:2121",
-	"modified": "2024-09-16T11:40:51Z",
+	"modified": "2024-11-22T22:56:13Z",
 	"published": "2024-09-16T11:40:51Z",
 	"related": [
 		"CVE-2023-30570"
@@ -99,7 +99,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_2121.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_2121.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:2251",
-	"modified": "2024-09-16T01:40:04Z",
+	"modified": "2024-11-22T12:10:53Z",
 	"published": "2024-09-16T01:40:04Z",
 	"related": [
 		"CVE-2018-12359",
@@ -222,7 +222,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhsa-2018_2251.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhsa-2018_2251.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2019:4097",
-	"modified": "2024-09-16T03:22:04Z",
+	"modified": "2024-11-22T14:16:48Z",
 	"published": "2024-09-16T03:22:04Z",
 	"related": [
 		"CVE-2019-10393",
@@ -62,7 +62,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhsa-2019_4097.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhsa-2019_4097.json"
 		},
 		{
 			"type": "REPORT",

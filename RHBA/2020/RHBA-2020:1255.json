@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2020:1255",
-	"modified": "2024-10-27T18:32:26Z",
+	"modified": "2024-11-22T14:24:34Z",
 	"published": "2024-09-13T22:40:08Z",
 	"related": [
 		"CVE-2020-8945"

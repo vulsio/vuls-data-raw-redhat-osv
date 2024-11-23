@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:2304",
-	"modified": "2024-09-16T05:58:55Z",
+	"modified": "2024-11-22T17:04:23Z",
 	"published": "2024-09-16T05:58:55Z",
 	"related": [
 		"CVE-2020-24489",
@@ -137,7 +137,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_2304.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_2304.json"
 		},
 		{
 			"type": "REPORT",
