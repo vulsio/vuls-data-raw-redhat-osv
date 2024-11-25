@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:2849",
-	"modified": "2024-09-13T22:41:16Z",
+	"modified": "2024-11-24T20:21:08Z",
 	"published": "2024-09-13T22:41:16Z",
 	"related": [
 		"CVE-2020-11080",
@@ -247,7 +247,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_2849.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_2849.json"
 		},
 		{
 			"type": "REPORT",

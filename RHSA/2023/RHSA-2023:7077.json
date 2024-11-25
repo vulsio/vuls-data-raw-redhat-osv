@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:7077",
-	"modified": "2024-11-21T19:44:13Z",
+	"modified": "2024-11-25T02:48:58Z",
 	"published": "2024-09-16T11:04:34Z",
 	"related": [
 		"CVE-2021-43975",
@@ -2007,10 +2007,6 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2236982"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/RHEL-340"
 		},
 		{
 			"type": "ADVISORY",

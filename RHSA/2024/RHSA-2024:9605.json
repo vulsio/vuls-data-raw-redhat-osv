@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:9605",
-	"modified": "2024-11-21T21:57:08Z",
+	"modified": "2024-11-25T06:49:53Z",
 	"published": "2024-11-21T21:57:08Z",
 	"related": [
 		"CVE-2024-42283",
@@ -9343,6 +9343,10 @@
 		},
 		{
 			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2305428"
+		},
+		{
+			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2315176"
 		},
 		{
@@ -9356,10 +9360,6 @@
 		{
 			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2024-42283"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2305428"
 		},
 		{
 			"type": "ADVISORY",

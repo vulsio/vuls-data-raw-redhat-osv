@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:2865",
-	"modified": "2024-09-18T04:19:09Z",
+	"modified": "2024-11-24T20:22:59Z",
 	"published": "2024-09-18T04:19:09Z",
 	"related": [
 		"CVE-2020-28469",
@@ -156,7 +156,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_2865.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_2865.json"
 		},
 		{
 			"type": "REPORT",

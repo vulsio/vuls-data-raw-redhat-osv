@@ -1,16 +1,17 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:5883",
-	"modified": "2024-11-06T06:47:32Z",
+	"modified": "2024-11-24T16:28:15Z",
 	"published": "2024-09-16T19:42:14Z",
 	"related": [
+		"CVE-2023-31315",
 		"CVE-2023-31346"
 	],
 	"summary": "Red Hat Security Advisory: linux-firmware security update",
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N"
+			"score": "CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:C/C:H/I:H/A:H"
 		}
 	],
 	"affected": [
@@ -518,6 +519,26 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_5883.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2023-31315"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2279283"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2023-31315"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-31315"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.amd.com/en/resources/product-security.html"
 		},
 		{
 			"type": "REPORT",
