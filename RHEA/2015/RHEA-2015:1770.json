@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHEA-2015:1770",
-	"modified": "2024-11-22T09:15:14Z",
+	"modified": "2024-11-25T12:04:43Z",
 	"published": "2024-09-15T23:02:18Z",
 	"related": [
 		"CVE-2014-0230",

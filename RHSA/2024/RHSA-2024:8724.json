@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:8724",
-	"modified": "2024-11-13T15:50:41Z",
+	"modified": "2024-11-26T06:47:05Z",
 	"published": "2024-11-13T15:50:41Z",
 	"related": [
 		"CVE-2024-10458",
@@ -19,7 +19,7 @@
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:L/A:N"
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
 		}
 	],
 	"affected": [

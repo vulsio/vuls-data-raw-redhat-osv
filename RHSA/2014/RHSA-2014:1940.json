@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2014:1940",
-	"modified": "2024-09-13T09:20:32Z",
+	"modified": "2024-11-25T11:59:04Z",
 	"published": "2024-09-13T09:20:32Z",
 	"related": [
 		"CVE-2012-5615",
@@ -221,7 +221,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2014/rhsa-2014_1940.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2014/rhsa-2014_1940.json"
 		},
 		{
 			"type": "REPORT",

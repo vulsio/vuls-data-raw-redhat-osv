@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:5810",
-	"modified": "2024-11-25T09:27:26Z",
+	"modified": "2024-11-26T08:28:35Z",
 	"published": "2024-10-02T11:22:42Z",
 	"related": [
 		"CVE-2023-39325",
@@ -314,6 +314,10 @@
 			"url": "https://access.redhat.com/security/cve/CVE-2023-39325"
 		},
 		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/vulnerabilities/RHSB-2023-003"
+		},
+		{
 			"type": "ADVISORY",
 			"url": "https://www.cve.org/CVERecord?id=CVE-2023-39325"
 		},
@@ -324,10 +328,6 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://access.redhat.com/security/cve/CVE-2023-44487"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://access.redhat.com/security/vulnerabilities/RHSB-2023-003"
 		},
 		{
 			"type": "ARTICLE",

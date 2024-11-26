@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:3468",
-	"modified": "2024-10-20T17:45:35Z",
+	"modified": "2024-11-25T12:29:30Z",
 	"published": "2024-09-13T20:29:52Z",
 	"related": [
 		"CVE-2021-28170",
@@ -1521,6 +1521,18 @@
 		},
 		{
 			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/JBEAP-22138"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/JBEAP-22159"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/JBEAP-22195"
+		},
+		{
+			"type": "ARTICLE",
 			"url": "https://access.redhat.com/security/updates/classification/#important"
 		},
 		{
@@ -1577,22 +1589,6 @@
 		},
 		{
 			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/JBEAP-22085"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/JBEAP-22138"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/JBEAP-22159"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/JBEAP-22195"
-		},
-		{
-			"type": "ARTICLE",
 			"url": "https://issues.redhat.com/browse/JBEAP-22198"
 		},
 		{
@@ -1606,6 +1602,10 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://issues.redhat.com/browse/JBEAP-22227"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/JBEAP-22085"
 		},
 		{
 			"type": "ARTICLE",

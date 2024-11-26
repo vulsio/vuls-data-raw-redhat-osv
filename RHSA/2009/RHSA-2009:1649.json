@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2009:1649",
-	"modified": "2024-11-22T03:07:14Z",
+	"modified": "2024-11-25T11:51:42Z",
 	"published": "2024-09-29T16:26:29Z",
 	"related": [
 		"CVE-2009-0217",
