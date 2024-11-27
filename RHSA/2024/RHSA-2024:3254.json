@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:3254",
-	"modified": "2024-11-26T01:14:09Z",
+	"modified": "2024-11-26T20:05:54Z",
 	"published": "2024-10-22T14:55:33Z",
 	"related": [
 		"CVE-2022-2880",
@@ -9,7 +9,8 @@
 		"CVE-2024-1753",
 		"CVE-2024-24786",
 		"CVE-2024-28180",
-		"GO-2024-2611"
+		"GO-2024-2611",
+		"GO-2024-2658"
 	],
 	"summary": "Red Hat Security Advisory: container-tools:rhel8 security update",
 	"severity": [
@@ -1615,6 +1616,10 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://github.com/containers/podman/security/advisories/GHSA-874v-pj72-92f3"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://pkg.go.dev/vuln/GO-2024-2658"
 		},
 		{
 			"type": "REPORT",

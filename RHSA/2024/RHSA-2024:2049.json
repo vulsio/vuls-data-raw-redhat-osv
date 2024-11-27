@@ -1,12 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2049",
-	"modified": "2024-11-26T01:13:18Z",
+	"modified": "2024-11-26T21:23:09Z",
 	"published": "2024-10-02T10:54:29Z",
 	"related": [
 		"CVE-2023-45288",
 		"CVE-2024-1753",
 		"CVE-2024-28180",
+		"GO-2024-2658",
 		"GO-2024-2687"
 	],
 	"summary": "Red Hat Security Advisory: OpenShift Container Platform 4.13.41 packages and security update",
@@ -868,6 +869,10 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://github.com/containers/podman/security/advisories/GHSA-874v-pj72-92f3"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://pkg.go.dev/vuln/GO-2024-2658"
 		},
 		{
 			"type": "REPORT",

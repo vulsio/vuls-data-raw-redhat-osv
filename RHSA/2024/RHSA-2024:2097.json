@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2097",
-	"modified": "2024-11-25T02:51:04Z",
+	"modified": "2024-11-26T20:05:47Z",
 	"published": "2024-09-16T18:16:11Z",
 	"related": [
-		"CVE-2024-1753"
+		"CVE-2024-1753",
+		"GO-2024-2658"
 	],
 	"summary": "Red Hat Security Advisory: container-tools:4.0 security update",
 	"severity": [
@@ -1592,6 +1593,10 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://github.com/containers/podman/security/advisories/GHSA-874v-pj72-92f3"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://pkg.go.dev/vuln/GO-2024-2658"
 		}
 	]
 }

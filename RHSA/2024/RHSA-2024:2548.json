@@ -1,12 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2548",
-	"modified": "2024-11-25T23:36:47Z",
+	"modified": "2024-11-26T20:06:09Z",
 	"published": "2024-10-01T23:10:00Z",
 	"related": [
 		"CVE-2024-1753",
 		"CVE-2024-24786",
-		"GO-2024-2611"
+		"GO-2024-2611",
+		"GO-2024-2658"
 	],
 	"summary": "Red Hat Security Advisory: podman security and bug fix update",
 	"severity": [
@@ -280,6 +281,10 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://github.com/containers/podman/security/advisories/GHSA-874v-pj72-92f3"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://pkg.go.dev/vuln/GO-2024-2658"
 		},
 		{
 			"type": "REPORT",
