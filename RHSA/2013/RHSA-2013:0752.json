@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:0752",
-	"modified": "2024-09-15T20:47:19Z",
+	"modified": "2024-12-02T10:02:12Z",
 	"published": "2024-09-15T20:47:19Z",
 	"related": [
 		"CVE-2013-0401",
@@ -271,7 +271,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_0752.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_0752.json"
 		},
 		{
 			"type": "REPORT",

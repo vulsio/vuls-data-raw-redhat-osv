@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2022:1988",
-	"modified": "2024-11-22T17:34:49Z",
+	"modified": "2024-12-02T10:05:56Z",
 	"published": "2024-09-16T06:30:36Z",
 	"related": [
 		"CVE-2020-0404",
@@ -40,7 +40,9 @@
 		"CVE-2021-45485",
 		"CVE-2021-45486",
 		"CVE-2021-47076",
+		"CVE-2021-47203",
 		"CVE-2021-47435",
+		"CVE-2021-47498",
 		"CVE-2021-47501",
 		"CVE-2021-47544",
 		"CVE-2021-47556",
@@ -2603,6 +2605,26 @@
 		},
 		{
 			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2021-47203"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2274634"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2021-47203"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-47203"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://lore.kernel.org/linux-cve-announce/2024041037-CVE-2021-47203-ff72@gregkh/T"
+		},
+		{
+			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2021-47435"
 		},
 		{
@@ -2616,6 +2638,26 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-47435"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2021-47498"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2282917"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2021-47498"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-47498"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://lore.kernel.org/linux-cve-announce/2024052243-CVE-2021-47498-dc02@gregkh/T"
 		},
 		{
 			"type": "REPORT",

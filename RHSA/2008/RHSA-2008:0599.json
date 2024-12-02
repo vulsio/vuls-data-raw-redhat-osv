@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2008:0599",
-	"modified": "2024-11-22T02:09:22Z",
+	"modified": "2024-12-02T10:01:38Z",
 	"published": "2024-09-15T17:25:21Z",
 	"related": [
 		"CVE-2008-2785"

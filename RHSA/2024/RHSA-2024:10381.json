@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:10381",
-	"modified": "2024-11-26T19:16:19Z",
+	"modified": "2024-12-02T10:11:20Z",
 	"published": "2024-11-26T19:16:19Z",
 	"related": [
 		"CVE-2024-52337"
@@ -1147,6 +1147,14 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-52337"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://security.opensuse.org/2024/11/26/tuned-instance-create.html"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.openwall.com/lists/oss-security/2024/11/28/1"
 		}
 	]
 }

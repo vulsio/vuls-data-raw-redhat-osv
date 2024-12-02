@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:8906",
-	"modified": "2024-11-28T12:34:24Z",
+	"modified": "2024-12-02T10:15:42Z",
 	"published": "2024-11-13T21:18:51Z",
 	"related": [
 		"CVE-2024-28863",
@@ -62112,106 +62112,6 @@
 		},
 		{
 			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-27830"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-27834"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-27836"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-27891"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-27900"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-27901"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-27940"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-27943"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-27981"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-28012"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-28046"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-28048"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-28162"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-28269"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-28275"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-28336"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-28361"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-28362"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-28367"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-28394"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-28435"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-28467"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-28667"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-7770"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-8076"
-		},
-		{
-			"type": "ARTICLE",
 			"url": "https://access.redhat.com/security/updates/classification/#critical"
 		},
 		{
@@ -63148,11 +63048,111 @@
 		},
 		{
 			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-27779"
+		},
+		{
+			"type": "ARTICLE",
 			"url": "https://issues.redhat.com/browse/SAT-27814"
 		},
 		{
 			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/SAT-27779"
+			"url": "https://issues.redhat.com/browse/SAT-27830"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-27834"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-27836"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-27891"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-27900"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-27901"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-27940"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-27943"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-27981"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-28012"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-28046"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-28048"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-28162"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-28269"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-28275"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-28336"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-28361"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-28362"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-28367"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-28394"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-28435"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-28467"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-28667"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-7770"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/SAT-8076"
 		},
 		{
 			"type": "ADVISORY",

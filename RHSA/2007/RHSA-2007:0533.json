@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:0533",
-	"modified": "2024-11-22T02:04:05Z",
+	"modified": "2024-12-02T10:01:33Z",
 	"published": "2024-09-15T16:47:42Z",
 	"related": [
 		"CVE-2006-5752",

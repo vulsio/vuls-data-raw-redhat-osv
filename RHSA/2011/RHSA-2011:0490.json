@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:0490",
-	"modified": "2024-09-13T06:03:01Z",
+	"modified": "2024-12-02T10:01:46Z",
 	"published": "2024-09-13T06:03:01Z",
 	"related": [
 		"CVE-2010-4447",
@@ -550,7 +550,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_0490.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_0490.json"
 		},
 		{
 			"type": "REPORT",
