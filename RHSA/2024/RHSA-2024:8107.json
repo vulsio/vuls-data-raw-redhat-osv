@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:8107",
-	"modified": "2024-11-24T17:06:01Z",
+	"modified": "2024-12-05T10:03:52Z",
 	"published": "2024-10-15T06:31:04Z",
 	"related": [
 		"CVE-2021-47321",
@@ -9,6 +9,7 @@
 		"CVE-2023-1252",
 		"CVE-2024-35884",
 		"CVE-2024-36025",
+		"CVE-2024-36924",
 		"CVE-2024-36952",
 		"CVE-2024-38558",
 		"CVE-2024-39476",
@@ -1813,6 +1814,26 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://lore.kernel.org/linux-cve-announce/2024053034-CVE-2024-36025-95e0@gregkh/T"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2024-36924"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2284506"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2024-36924"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-36924"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://lore.kernel.org/linux-cve-announce/2024053040-CVE-2024-36924-6326@gregkh/T"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:8718",
-	"modified": "2024-11-24T20:04:45Z",
+	"modified": "2024-12-05T10:03:59Z",
 	"published": "2024-11-06T14:07:21Z",
 	"related": [
 		"CVE-2024-8376",
@@ -11,7 +11,7 @@
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:L/A:H"
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
 		}
 	],
 	"affected": [

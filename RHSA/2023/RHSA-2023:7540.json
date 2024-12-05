@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:7540",
-	"modified": "2024-11-23T01:16:24Z",
+	"modified": "2024-12-05T10:02:01Z",
 	"published": "2024-09-13T19:03:07Z",
 	"related": [
 		"CVE-2023-38546"
@@ -246,6 +246,10 @@
 		{
 			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2023-38546"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/errata/RHSA-2024:2101"
 		},
 		{
 			"type": "ADVISORY",
