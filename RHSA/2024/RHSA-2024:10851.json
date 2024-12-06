@@ -1,14 +1,12 @@
 {
 	"schema_version": "1.6.0",
-	"id": "RHSA-2024:10788",
-	"modified": "2024-12-06T10:02:06Z",
-	"published": "2024-12-05T10:02:38Z",
+	"id": "RHSA-2024:10851",
+	"modified": "2024-12-06T10:02:13Z",
+	"published": "2024-12-06T10:02:13Z",
 	"related": [
-		"CVE-2024-10976",
-		"CVE-2024-10978",
 		"CVE-2024-10979"
 	],
-	"summary": "Red Hat Security Advisory: postgresql:16 security update",
+	"summary": "Red Hat Security Advisory: postgresql:15 security update",
 	"severity": [
 		{
 			"type": "CVSS_V3",
@@ -18,7 +16,7 @@
 	"affected": [
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "pg_repack",
 				"purl": "pkg:rpm/redhat/pg_repack"
 			},
@@ -30,18 +28,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.5.1-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:1.4.8-1.module+el8.8.0+17071+aaaceaa4"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "pg_repack-debuginfo",
 				"purl": "pkg:rpm/redhat/pg_repack-debuginfo"
 			},
@@ -53,18 +51,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.5.1-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:1.4.8-1.module+el8.8.0+17071+aaaceaa4"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "pg_repack-debugsource",
 				"purl": "pkg:rpm/redhat/pg_repack-debugsource"
 			},
@@ -76,18 +74,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.5.1-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:1.4.8-1.module+el8.8.0+17071+aaaceaa4"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "pgaudit",
 				"purl": "pkg:rpm/redhat/pgaudit"
 			},
@@ -99,18 +97,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.0-1.module+el9.4.0+20427+07482b8c"
+							"fixed": "0:1.7.0-1.module+el8.8.0+17071+aaaceaa4"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "pgaudit-debuginfo",
 				"purl": "pkg:rpm/redhat/pgaudit-debuginfo"
 			},
@@ -122,18 +120,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.0-1.module+el9.4.0+20427+07482b8c"
+							"fixed": "0:1.7.0-1.module+el8.8.0+17071+aaaceaa4"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "pgaudit-debugsource",
 				"purl": "pkg:rpm/redhat/pgaudit-debugsource"
 			},
@@ -145,87 +143,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.0-1.module+el9.4.0+20427+07482b8c"
+							"fixed": "0:1.7.0-1.module+el8.8.0+17071+aaaceaa4"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
-				"name": "pgvector",
-				"purl": "pkg:rpm/redhat/pgvector"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "0:0.6.2-1.module+el9.5.0+21770+ad2986ef"
-						}
-					]
-				}
-			],
-			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
-				"name": "pgvector-debuginfo",
-				"purl": "pkg:rpm/redhat/pgvector-debuginfo"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "0:0.6.2-1.module+el9.5.0+21770+ad2986ef"
-						}
-					]
-				}
-			],
-			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
-				"name": "pgvector-debugsource",
-				"purl": "pkg:rpm/redhat/pgvector-debugsource"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "0:0.6.2-1.module+el9.5.0+21770+ad2986ef"
-						}
-					]
-				}
-			],
-			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgres-decoderbufs",
 				"purl": "pkg:rpm/redhat/postgres-decoderbufs"
 			},
@@ -237,18 +166,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:2.4.0-1.Final.module+el9.4.0+20427+07482b8c"
+							"fixed": "0:1.9.7-1.Final.module+el8.8.0+17071+aaaceaa4"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgres-decoderbufs-debuginfo",
 				"purl": "pkg:rpm/redhat/postgres-decoderbufs-debuginfo"
 			},
@@ -260,18 +189,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:2.4.0-1.Final.module+el9.4.0+20427+07482b8c"
+							"fixed": "0:1.9.7-1.Final.module+el8.8.0+17071+aaaceaa4"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgres-decoderbufs-debugsource",
 				"purl": "pkg:rpm/redhat/postgres-decoderbufs-debugsource"
 			},
@@ -283,18 +212,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:2.4.0-1.Final.module+el9.4.0+20427+07482b8c"
+							"fixed": "0:1.9.7-1.Final.module+el8.8.0+17071+aaaceaa4"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql",
 				"purl": "pkg:rpm/redhat/postgresql"
 			},
@@ -306,18 +235,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-contrib",
 				"purl": "pkg:rpm/redhat/postgresql-contrib"
 			},
@@ -329,18 +258,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-contrib-debuginfo",
 				"purl": "pkg:rpm/redhat/postgresql-contrib-debuginfo"
 			},
@@ -352,18 +281,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-debuginfo",
 				"purl": "pkg:rpm/redhat/postgresql-debuginfo"
 			},
@@ -375,18 +304,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-debugsource",
 				"purl": "pkg:rpm/redhat/postgresql-debugsource"
 			},
@@ -398,18 +327,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-docs",
 				"purl": "pkg:rpm/redhat/postgresql-docs"
 			},
@@ -421,18 +350,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-docs-debuginfo",
 				"purl": "pkg:rpm/redhat/postgresql-docs-debuginfo"
 			},
@@ -444,18 +373,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-plperl",
 				"purl": "pkg:rpm/redhat/postgresql-plperl"
 			},
@@ -467,18 +396,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-plperl-debuginfo",
 				"purl": "pkg:rpm/redhat/postgresql-plperl-debuginfo"
 			},
@@ -490,18 +419,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-plpython3",
 				"purl": "pkg:rpm/redhat/postgresql-plpython3"
 			},
@@ -513,18 +442,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-plpython3-debuginfo",
 				"purl": "pkg:rpm/redhat/postgresql-plpython3-debuginfo"
 			},
@@ -536,18 +465,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-pltcl",
 				"purl": "pkg:rpm/redhat/postgresql-pltcl"
 			},
@@ -559,18 +488,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-pltcl-debuginfo",
 				"purl": "pkg:rpm/redhat/postgresql-pltcl-debuginfo"
 			},
@@ -582,18 +511,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-private-devel",
 				"purl": "pkg:rpm/redhat/postgresql-private-devel"
 			},
@@ -605,18 +534,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-private-libs",
 				"purl": "pkg:rpm/redhat/postgresql-private-libs"
 			},
@@ -628,18 +557,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-private-libs-debuginfo",
 				"purl": "pkg:rpm/redhat/postgresql-private-libs-debuginfo"
 			},
@@ -651,18 +580,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-server",
 				"purl": "pkg:rpm/redhat/postgresql-server"
 			},
@@ -674,18 +603,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-server-debuginfo",
 				"purl": "pkg:rpm/redhat/postgresql-server-debuginfo"
 			},
@@ -697,18 +626,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-server-devel",
 				"purl": "pkg:rpm/redhat/postgresql-server-devel"
 			},
@@ -720,18 +649,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-server-devel-debuginfo",
 				"purl": "pkg:rpm/redhat/postgresql-server-devel-debuginfo"
 			},
@@ -743,18 +672,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-static",
 				"purl": "pkg:rpm/redhat/postgresql-static"
 			},
@@ -766,18 +695,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-test",
 				"purl": "pkg:rpm/redhat/postgresql-test"
 			},
@@ -789,18 +718,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-test-debuginfo",
 				"purl": "pkg:rpm/redhat/postgresql-test-debuginfo"
 			},
@@ -812,18 +741,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-test-rpm-macros",
 				"purl": "pkg:rpm/redhat/postgresql-test-rpm-macros"
 			},
@@ -835,18 +764,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-upgrade",
 				"purl": "pkg:rpm/redhat/postgresql-upgrade"
 			},
@@ -858,18 +787,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-upgrade-debuginfo",
 				"purl": "pkg:rpm/redhat/postgresql-upgrade-debuginfo"
 			},
@@ -881,18 +810,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-upgrade-devel",
 				"purl": "pkg:rpm/redhat/postgresql-upgrade-devel"
 			},
@@ -904,18 +833,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:8.8::appstream",
 				"name": "postgresql-upgrade-devel-debuginfo",
 				"purl": "pkg:rpm/redhat/postgresql-upgrade-devel-debuginfo"
 			},
@@ -927,20 +856,20 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:16.6-1.module+el9.5.0+22557+8cb08ba5"
+							"fixed": "0:15.10-1.module+el8.8.0+22585+211737dc.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10788.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10851.json"
 			}
 		}
 	],
 	"references": [
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/errata/RHSA-2024:10788"
+			"url": "https://access.redhat.com/errata/RHSA-2024:10851"
 		},
 		{
 			"type": "ARTICLE",
@@ -948,51 +877,11 @@
 		},
 		{
 			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2326251"
-		},
-		{
-			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2326253"
 		},
 		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2326263"
-		},
-		{
 			"type": "ADVISORY",
-			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_10788.json"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://access.redhat.com/security/cve/CVE-2024-10976"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://www.cve.org/CVERecord?id=CVE-2024-10976"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-10976"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://www.postgresql.org/support/security/CVE-2024-10976/"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://access.redhat.com/security/cve/CVE-2024-10978"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://www.cve.org/CVERecord?id=CVE-2024-10978"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-10978"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://www.postgresql.org/support/security/CVE-2024-10978/"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_10851.json"
 		},
 		{
 			"type": "REPORT",
