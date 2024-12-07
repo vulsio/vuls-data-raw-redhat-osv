@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:1427",
-	"modified": "2024-09-13T08:26:27Z",
+	"modified": "2024-12-07T10:01:16Z",
 	"published": "2024-09-13T08:26:27Z",
 	"related": [
 		"CVE-2013-4287"
@@ -369,7 +369,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2013/rhsa-2013_1427.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2013/rhsa-2013_1427.json"
 		},
 		{
 			"type": "REPORT",

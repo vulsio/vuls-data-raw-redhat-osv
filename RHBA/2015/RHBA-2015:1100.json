@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2015:1100",
-	"modified": "2024-11-22T08:32:12Z",
+	"modified": "2024-12-07T10:01:23Z",
 	"published": "2024-09-15T22:03:52Z",
 	"related": [
 		"CVE-2013-4389",

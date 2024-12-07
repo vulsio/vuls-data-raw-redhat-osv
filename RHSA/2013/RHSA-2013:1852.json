@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:1852",
-	"modified": "2024-11-22T07:18:06Z",
+	"modified": "2024-12-07T10:01:18Z",
 	"published": "2024-09-13T08:27:44Z",
 	"related": [
 		"CVE-2012-2125",

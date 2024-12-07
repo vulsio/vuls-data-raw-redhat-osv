@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2014:0353",
-	"modified": "2024-09-13T08:52:04Z",
+	"modified": "2024-12-07T10:01:20Z",
 	"published": "2024-09-13T08:52:04Z",
 	"related": [
 		"CVE-2013-6393",
@@ -98,7 +98,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2014/rhsa-2014_0353.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2014/rhsa-2014_0353.json"
 		},
 		{
 			"type": "REPORT",
