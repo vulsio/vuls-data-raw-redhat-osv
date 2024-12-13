@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:6878",
-	"modified": "2024-11-26T19:09:28Z",
+	"modified": "2024-12-13T10:02:35Z",
 	"published": "2024-10-01T12:50:54Z",
 	"related": [
 		"CVE-2024-8698",
@@ -94,10 +94,6 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-8698"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://github.com/keycloak/keycloak/blob/main/saml-core/src/main/java/org/keycloak/saml/processing/core/util/XMLSignatureUtil.java#L415"
 		},
 		{
 			"type": "REPORT",
