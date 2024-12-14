@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:9051",
-	"modified": "2024-12-02T10:15:46Z",
+	"modified": "2024-12-14T10:03:23Z",
 	"published": "2024-11-13T21:19:55Z",
 	"related": [
 		"CVE-2024-9407",
@@ -12,7 +12,7 @@
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H"
+			"score": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
 		}
 	],
 	"affected": [
