@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2011:0394",
-	"modified": "2024-09-13T07:07:30Z",
+	"modified": "2024-12-16T10:01:29Z",
 	"published": "2024-09-13T07:07:30Z",
 	"related": [
 		"CVE-2011-0720"
@@ -116,7 +116,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2011/rhsa-2011_0394.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2011/rhsa-2011_0394.json"
 		},
 		{
 			"type": "REPORT",

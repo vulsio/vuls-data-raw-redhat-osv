@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2012:0466",
-	"modified": "2024-12-09T10:01:07Z",
+	"modified": "2024-12-16T10:01:36Z",
 	"published": "2024-09-29T16:32:12Z",
 	"related": [
 		"CVE-2012-1182"

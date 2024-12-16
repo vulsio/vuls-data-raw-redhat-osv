@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:2951",
-	"modified": "2024-11-21T19:42:56Z",
+	"modified": "2024-12-16T10:06:07Z",
 	"published": "2024-09-13T23:27:04Z",
 	"related": [
 		"CVE-2021-26341",
@@ -42,6 +42,7 @@
 		"CVE-2022-4662",
 		"CVE-2022-47929",
 		"CVE-2022-48695",
+		"CVE-2022-48696",
 		"CVE-2022-48883",
 		"CVE-2022-48884",
 		"CVE-2022-48992",
@@ -2572,6 +2573,26 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://lore.kernel.org/linux-cve-announce/2024050348-CVE-2022-48695-8a9e@gregkh/T"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2022-48696"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2278959"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2022-48696"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-48696"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://lore.kernel.org/linux-cve-announce/2024050348-CVE-2022-48696-b671@gregkh/T"
 		},
 		{
 			"type": "REPORT",
