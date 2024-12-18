@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:10772",
-	"modified": "2024-12-12T10:02:13Z",
+	"modified": "2024-12-18T10:05:39Z",
 	"published": "2024-12-04T10:02:22Z",
 	"related": [
 		"CVE-2023-0597",
@@ -11,6 +11,7 @@
 		"CVE-2024-26984",
 		"CVE-2024-27399",
 		"CVE-2024-36920",
+		"CVE-2024-36928",
 		"CVE-2024-37356",
 		"CVE-2024-40988",
 		"CVE-2024-41009",
@@ -4030,6 +4031,213 @@
 			"database_specific": {
 				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10772.json"
 			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_eus:9.2::appstream",
+				"name": "kernel-cross-headers",
+				"purl": "pkg:rpm/redhat/kernel-cross-headers"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.14.0-284.95.1.el9_2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10772.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_eus:9.2::appstream",
+				"name": "kernel-doc",
+				"purl": "pkg:rpm/redhat/kernel-doc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.14.0-284.95.1.el9_2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10772.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_eus:9.2::appstream",
+				"name": "kernel-headers",
+				"purl": "pkg:rpm/redhat/kernel-headers"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.14.0-284.95.1.el9_2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10772.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_eus:9.2::baseos",
+				"name": "kernel-cross-headers",
+				"purl": "pkg:rpm/redhat/kernel-cross-headers"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.14.0-284.95.1.el9_2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10772.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_eus:9.2::baseos",
+				"name": "kernel-doc",
+				"purl": "pkg:rpm/redhat/kernel-doc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.14.0-284.95.1.el9_2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10772.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_eus:9.2::baseos",
+				"name": "kernel-headers",
+				"purl": "pkg:rpm/redhat/kernel-headers"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.14.0-284.95.1.el9_2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10772.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_eus:9.2::crb",
+				"name": "kernel-cross-headers",
+				"purl": "pkg:rpm/redhat/kernel-cross-headers"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.14.0-284.95.1.el9_2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10772.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_eus:9.2::crb",
+				"name": "kernel-doc",
+				"purl": "pkg:rpm/redhat/kernel-doc"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.14.0-284.95.1.el9_2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10772.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Red Hat:rhel_eus:9.2::crb",
+				"name": "kernel-headers",
+				"purl": "pkg:rpm/redhat/kernel-headers"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "0:5.14.0-284.95.1.el9_2"
+						}
+					]
+				}
+			],
+			"database_specific": {
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:10772.json"
+			}
 		}
 	],
 	"references": [
@@ -4216,6 +4424,26 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://lore.kernel.org/linux-cve-announce/2024053039-CVE-2024-36920-b4a7@gregkh/T"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2024-36928"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2284498"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2024-36928"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-36928"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://lore.kernel.org/linux-cve-announce/2024053041-CVE-2024-36928-845b@gregkh/T"
 		},
 		{
 			"type": "REPORT",
