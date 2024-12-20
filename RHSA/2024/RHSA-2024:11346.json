@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:11346",
-	"modified": "2024-12-19T10:02:53Z",
+	"modified": "2024-12-20T10:02:29Z",
 	"published": "2024-12-19T10:02:53Z",
 	"related": [
 		"CVE-2024-47537",
@@ -14,7 +14,7 @@
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
 		}
 	],
 	"affected": [
