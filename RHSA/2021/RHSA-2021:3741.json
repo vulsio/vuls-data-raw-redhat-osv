@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:3741",
-	"modified": "2024-09-13T17:28:16Z",
+	"modified": "2024-12-21T10:01:06Z",
 	"published": "2024-09-13T17:28:16Z",
 	"related": [
 		"CVE-2021-41079"
@@ -536,7 +536,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_3741.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_3741.json"
 		},
 		{
 			"type": "REPORT",

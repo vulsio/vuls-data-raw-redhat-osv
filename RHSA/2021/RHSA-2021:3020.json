@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:3020",
-	"modified": "2024-09-13T20:28:34Z",
+	"modified": "2024-12-21T10:01:00Z",
 	"published": "2024-09-13T20:28:34Z",
 	"related": [
 		"CVE-2020-36327",
@@ -1080,7 +1080,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_3020.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_3020.json"
 		},
 		{
 			"type": "REPORT",
