@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2019:1819",
-	"modified": "2024-09-13T19:52:56Z",
+	"modified": "2024-12-23T10:02:35Z",
 	"published": "2024-09-13T19:52:56Z",
 	"related": [
 		"CVE-2019-10192",
@@ -81,7 +81,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhsa-2019_1819.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhsa-2019_1819.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:3653",
-	"modified": "2024-09-29T17:24:09Z",
+	"modified": "2024-12-23T10:02:32Z",
 	"published": "2024-09-29T17:24:09Z",
 	"related": [
 		"CVE-2018-16843",
@@ -357,7 +357,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhsa-2018_3653.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhsa-2018_3653.json"
 		},
 		{
 			"type": "REPORT",

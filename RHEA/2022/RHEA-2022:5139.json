@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHEA-2022:5139",
-	"modified": "2024-12-18T10:01:40Z",
+	"modified": "2024-12-23T10:03:31Z",
 	"published": "2024-10-21T23:51:55Z",
 	"related": [
 		"CVE-2021-22959",
