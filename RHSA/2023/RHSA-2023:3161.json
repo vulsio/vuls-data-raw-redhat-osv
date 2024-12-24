@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:3161",
-	"modified": "2024-12-23T10:05:34Z",
+	"modified": "2024-12-24T10:03:40Z",
 	"published": "2024-10-02T01:14:13Z",
 	"related": [
 		"CVE-2023-2088"
