@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHEA-2024:1870",
-	"modified": "2024-12-24T10:05:33Z",
+	"modified": "2024-12-25T10:01:54Z",
 	"published": "2024-10-02T11:18:59Z",
 	"related": [
 		"CVE-2023-39325",
