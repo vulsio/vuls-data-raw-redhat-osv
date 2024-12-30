@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2007:0723",
-	"modified": "2024-11-22T01:20:01Z",
+	"modified": "2024-12-30T10:01:10Z",
 	"published": "2024-09-15T16:50:36Z",
 	"related": [
 		"CVE-2007-3089",

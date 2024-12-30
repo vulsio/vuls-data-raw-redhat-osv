@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:2172",
-	"modified": "2024-09-29T17:19:04Z",
+	"modified": "2024-12-30T10:03:22Z",
 	"published": "2024-09-29T17:19:04Z",
 	"related": [
 		"CVE-2017-14106",
@@ -453,7 +453,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhsa-2018_2172.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhsa-2018_2172.json"
 		},
 		{
 			"type": "REPORT",

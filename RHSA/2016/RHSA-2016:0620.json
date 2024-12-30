@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2016:0620",
-	"modified": "2024-09-22T16:30:21Z",
+	"modified": "2024-12-30T10:02:05Z",
 	"published": "2024-09-22T16:30:21Z",
 	"related": [
 		"CVE-2015-5370",
@@ -4150,7 +4150,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2016/rhsa-2016_0620.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2016/rhsa-2016_0620.json"
 		},
 		{
 			"type": "REPORT",

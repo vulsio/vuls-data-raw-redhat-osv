@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2016:1603",
-	"modified": "2024-09-13T11:32:35Z",
+	"modified": "2024-12-30T10:02:18Z",
 	"published": "2024-09-13T11:32:35Z",
 	"related": [
 		"CVE-2016-3477",
@@ -375,7 +375,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2016/rhsa-2016_1603.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2016/rhsa-2016_1603.json"
 		},
 		{
 			"type": "REPORT",

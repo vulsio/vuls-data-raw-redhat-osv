@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:2363",
-	"modified": "2024-09-29T17:19:52Z",
+	"modified": "2024-12-30T10:03:28Z",
 	"published": "2024-09-29T17:19:52Z",
 	"related": [
 		"CVE-2018-3639"
@@ -145,7 +145,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhsa-2018_2363.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhsa-2018_2363.json"
 		},
 		{
 			"type": "REPORT",

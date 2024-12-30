@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2013:0981",
-	"modified": "2024-12-09T10:01:25Z",
+	"modified": "2024-12-30T10:01:28Z",
 	"published": "2024-09-29T16:43:44Z",
 	"related": [
 		"CVE-2013-1682",
