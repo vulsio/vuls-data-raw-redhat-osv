@@ -1,8 +1,8 @@
 {
 	"schema_version": "1.6.0",
-	"id": "RHSA-2024:11094",
-	"modified": "2025-01-01T10:02:08Z",
-	"published": "2024-12-18T10:05:52Z",
+	"id": "RHSA-2025:0002",
+	"modified": "2025-01-01T10:02:46Z",
+	"published": "2025-01-01T10:02:46Z",
 	"related": [
 		"CVE-2024-53899"
 	],
@@ -16,7 +16,7 @@
 	"affected": [
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-PyMySQL",
 				"purl": "pkg:rpm/redhat/python-PyMySQL"
 			},
@@ -34,12 +34,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-distro",
 				"purl": "pkg:rpm/redhat/python-distro"
 			},
@@ -57,12 +57,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-docs",
 				"purl": "pkg:rpm/redhat/python-docs"
 			},
@@ -80,12 +80,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-docutils",
 				"purl": "pkg:rpm/redhat/python-docutils"
 			},
@@ -103,12 +103,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-nose",
 				"purl": "pkg:rpm/redhat/python-nose"
 			},
@@ -120,18 +120,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.7-31.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:1.3.7-30.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-nose-docs",
 				"purl": "pkg:rpm/redhat/python-nose-docs"
 			},
@@ -143,18 +143,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.7-31.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:1.3.7-30.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-pygments",
 				"purl": "pkg:rpm/redhat/python-pygments"
 			},
@@ -166,18 +166,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:2.2.0-22.module+el8.5.0+10789+e4939b94"
+							"fixed": "0:2.2.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-pymongo",
 				"purl": "pkg:rpm/redhat/python-pymongo"
 			},
@@ -195,12 +195,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-pymongo-debuginfo",
 				"purl": "pkg:rpm/redhat/python-pymongo-debuginfo"
 			},
@@ -218,12 +218,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-pymongo-debugsource",
 				"purl": "pkg:rpm/redhat/python-pymongo-debugsource"
 			},
@@ -241,12 +241,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-pymongo-doc",
 				"purl": "pkg:rpm/redhat/python-pymongo-doc"
 			},
@@ -264,12 +264,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-sqlalchemy",
 				"purl": "pkg:rpm/redhat/python-sqlalchemy"
 			},
@@ -281,18 +281,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.2-2.module+el8.6.0+20978+2ad18ee0.1"
+							"fixed": "0:1.3.2-2.module+el8.4.0+20979+8ba06d83.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-sqlalchemy-doc",
 				"purl": "pkg:rpm/redhat/python-sqlalchemy-doc"
 			},
@@ -304,18 +304,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.2-2.module+el8.6.0+20978+2ad18ee0.1"
+							"fixed": "0:1.3.2-2.module+el8.4.0+20979+8ba06d83.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-virtualenv",
 				"purl": "pkg:rpm/redhat/python-virtualenv"
 			},
@@ -327,18 +327,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:15.1.0-21.module+el8.6.0+22648+901a012d.2"
+							"fixed": "0:15.1.0-19.module+el8.4.0+22650+01781d50.3"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-virtualenv-doc",
 				"purl": "pkg:rpm/redhat/python-virtualenv-doc"
 			},
@@ -350,18 +350,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:15.1.0-21.module+el8.6.0+22648+901a012d.2"
+							"fixed": "0:15.1.0-19.module+el8.4.0+22650+01781d50.3"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python-wheel",
 				"purl": "pkg:rpm/redhat/python-wheel"
 			},
@@ -373,18 +373,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:0.31.1-3.module+el8.5.0+12207+5c5719bc"
+							"fixed": "1:0.31.1-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-PyMySQL",
 				"purl": "pkg:rpm/redhat/python3-PyMySQL"
 			},
@@ -402,12 +402,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-bson",
 				"purl": "pkg:rpm/redhat/python3-bson"
 			},
@@ -425,12 +425,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-bson-debuginfo",
 				"purl": "pkg:rpm/redhat/python3-bson-debuginfo"
 			},
@@ -448,12 +448,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-distro",
 				"purl": "pkg:rpm/redhat/python3-distro"
 			},
@@ -471,12 +471,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-docs",
 				"purl": "pkg:rpm/redhat/python3-docs"
 			},
@@ -494,12 +494,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-docutils",
 				"purl": "pkg:rpm/redhat/python3-docutils"
 			},
@@ -517,12 +517,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-nose",
 				"purl": "pkg:rpm/redhat/python3-nose"
 			},
@@ -534,18 +534,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.7-31.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:1.3.7-30.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-pygments",
 				"purl": "pkg:rpm/redhat/python3-pygments"
 			},
@@ -557,18 +557,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:2.2.0-22.module+el8.5.0+10789+e4939b94"
+							"fixed": "0:2.2.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-pymongo",
 				"purl": "pkg:rpm/redhat/python3-pymongo"
 			},
@@ -586,12 +586,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-pymongo-debuginfo",
 				"purl": "pkg:rpm/redhat/python3-pymongo-debuginfo"
 			},
@@ -609,12 +609,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-pymongo-gridfs",
 				"purl": "pkg:rpm/redhat/python3-pymongo-gridfs"
 			},
@@ -632,12 +632,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-scipy",
 				"purl": "pkg:rpm/redhat/python3-scipy"
 			},
@@ -649,18 +649,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.0.0-21.module+el8.5.0+10916+41bd434d"
+							"fixed": "0:1.0.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-scipy-debuginfo",
 				"purl": "pkg:rpm/redhat/python3-scipy-debuginfo"
 			},
@@ -672,18 +672,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.0.0-21.module+el8.5.0+10916+41bd434d"
+							"fixed": "0:1.0.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-sqlalchemy",
 				"purl": "pkg:rpm/redhat/python3-sqlalchemy"
 			},
@@ -695,18 +695,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.2-2.module+el8.6.0+20978+2ad18ee0.1"
+							"fixed": "0:1.3.2-2.module+el8.4.0+20979+8ba06d83.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-virtualenv",
 				"purl": "pkg:rpm/redhat/python3-virtualenv"
 			},
@@ -718,18 +718,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:15.1.0-21.module+el8.6.0+22648+901a012d.2"
+							"fixed": "0:15.1.0-19.module+el8.4.0+22650+01781d50.3"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-wheel",
 				"purl": "pkg:rpm/redhat/python3-wheel"
 			},
@@ -741,18 +741,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:0.31.1-3.module+el8.5.0+12207+5c5719bc"
+							"fixed": "1:0.31.1-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python3-wheel-wheel",
 				"purl": "pkg:rpm/redhat/python3-wheel-wheel"
 			},
@@ -764,18 +764,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:0.31.1-3.module+el8.5.0+12207+5c5719bc"
+							"fixed": "1:0.31.1-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python36",
 				"purl": "pkg:rpm/redhat/python36"
 			},
@@ -787,18 +787,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:3.6.8-38.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:3.6.8-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python36-debug",
 				"purl": "pkg:rpm/redhat/python36-debug"
 			},
@@ -810,18 +810,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:3.6.8-38.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:3.6.8-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python36-devel",
 				"purl": "pkg:rpm/redhat/python36-devel"
 			},
@@ -833,18 +833,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:3.6.8-38.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:3.6.8-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "python36-rpm-macros",
 				"purl": "pkg:rpm/redhat/python36-rpm-macros"
 			},
@@ -856,18 +856,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:3.6.8-38.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:3.6.8-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "scipy",
 				"purl": "pkg:rpm/redhat/scipy"
 			},
@@ -879,18 +879,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.0.0-21.module+el8.5.0+10916+41bd434d"
+							"fixed": "0:1.0.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_aus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_aus:8.4::appstream",
 				"name": "scipy-debugsource",
 				"purl": "pkg:rpm/redhat/scipy-debugsource"
 			},
@@ -902,18 +902,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.0.0-21.module+el8.5.0+10916+41bd434d"
+							"fixed": "0:1.0.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-PyMySQL",
 				"purl": "pkg:rpm/redhat/python-PyMySQL"
 			},
@@ -931,12 +931,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-distro",
 				"purl": "pkg:rpm/redhat/python-distro"
 			},
@@ -954,12 +954,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-docs",
 				"purl": "pkg:rpm/redhat/python-docs"
 			},
@@ -977,12 +977,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-docutils",
 				"purl": "pkg:rpm/redhat/python-docutils"
 			},
@@ -1000,12 +1000,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-nose",
 				"purl": "pkg:rpm/redhat/python-nose"
 			},
@@ -1017,18 +1017,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.7-31.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:1.3.7-30.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-nose-docs",
 				"purl": "pkg:rpm/redhat/python-nose-docs"
 			},
@@ -1040,18 +1040,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.7-31.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:1.3.7-30.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-pygments",
 				"purl": "pkg:rpm/redhat/python-pygments"
 			},
@@ -1063,18 +1063,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:2.2.0-22.module+el8.5.0+10789+e4939b94"
+							"fixed": "0:2.2.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-pymongo",
 				"purl": "pkg:rpm/redhat/python-pymongo"
 			},
@@ -1092,12 +1092,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-pymongo-debuginfo",
 				"purl": "pkg:rpm/redhat/python-pymongo-debuginfo"
 			},
@@ -1115,12 +1115,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-pymongo-debugsource",
 				"purl": "pkg:rpm/redhat/python-pymongo-debugsource"
 			},
@@ -1138,12 +1138,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-pymongo-doc",
 				"purl": "pkg:rpm/redhat/python-pymongo-doc"
 			},
@@ -1161,12 +1161,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-sqlalchemy",
 				"purl": "pkg:rpm/redhat/python-sqlalchemy"
 			},
@@ -1178,18 +1178,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.2-2.module+el8.6.0+20978+2ad18ee0.1"
+							"fixed": "0:1.3.2-2.module+el8.4.0+20979+8ba06d83.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-sqlalchemy-doc",
 				"purl": "pkg:rpm/redhat/python-sqlalchemy-doc"
 			},
@@ -1201,18 +1201,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.2-2.module+el8.6.0+20978+2ad18ee0.1"
+							"fixed": "0:1.3.2-2.module+el8.4.0+20979+8ba06d83.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-virtualenv",
 				"purl": "pkg:rpm/redhat/python-virtualenv"
 			},
@@ -1224,18 +1224,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:15.1.0-21.module+el8.6.0+22648+901a012d.2"
+							"fixed": "0:15.1.0-19.module+el8.4.0+22650+01781d50.3"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-virtualenv-doc",
 				"purl": "pkg:rpm/redhat/python-virtualenv-doc"
 			},
@@ -1247,18 +1247,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:15.1.0-21.module+el8.6.0+22648+901a012d.2"
+							"fixed": "0:15.1.0-19.module+el8.4.0+22650+01781d50.3"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python-wheel",
 				"purl": "pkg:rpm/redhat/python-wheel"
 			},
@@ -1270,18 +1270,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:0.31.1-3.module+el8.5.0+12207+5c5719bc"
+							"fixed": "1:0.31.1-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-PyMySQL",
 				"purl": "pkg:rpm/redhat/python3-PyMySQL"
 			},
@@ -1299,12 +1299,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-bson",
 				"purl": "pkg:rpm/redhat/python3-bson"
 			},
@@ -1322,12 +1322,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-bson-debuginfo",
 				"purl": "pkg:rpm/redhat/python3-bson-debuginfo"
 			},
@@ -1345,12 +1345,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-distro",
 				"purl": "pkg:rpm/redhat/python3-distro"
 			},
@@ -1368,12 +1368,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-docs",
 				"purl": "pkg:rpm/redhat/python3-docs"
 			},
@@ -1391,12 +1391,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-docutils",
 				"purl": "pkg:rpm/redhat/python3-docutils"
 			},
@@ -1414,12 +1414,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-nose",
 				"purl": "pkg:rpm/redhat/python3-nose"
 			},
@@ -1431,18 +1431,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.7-31.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:1.3.7-30.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-pygments",
 				"purl": "pkg:rpm/redhat/python3-pygments"
 			},
@@ -1454,18 +1454,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:2.2.0-22.module+el8.5.0+10789+e4939b94"
+							"fixed": "0:2.2.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-pymongo",
 				"purl": "pkg:rpm/redhat/python3-pymongo"
 			},
@@ -1483,12 +1483,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-pymongo-debuginfo",
 				"purl": "pkg:rpm/redhat/python3-pymongo-debuginfo"
 			},
@@ -1506,12 +1506,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-pymongo-gridfs",
 				"purl": "pkg:rpm/redhat/python3-pymongo-gridfs"
 			},
@@ -1529,12 +1529,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-scipy",
 				"purl": "pkg:rpm/redhat/python3-scipy"
 			},
@@ -1546,18 +1546,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.0.0-21.module+el8.5.0+10916+41bd434d"
+							"fixed": "0:1.0.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-scipy-debuginfo",
 				"purl": "pkg:rpm/redhat/python3-scipy-debuginfo"
 			},
@@ -1569,18 +1569,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.0.0-21.module+el8.5.0+10916+41bd434d"
+							"fixed": "0:1.0.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-sqlalchemy",
 				"purl": "pkg:rpm/redhat/python3-sqlalchemy"
 			},
@@ -1592,18 +1592,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.2-2.module+el8.6.0+20978+2ad18ee0.1"
+							"fixed": "0:1.3.2-2.module+el8.4.0+20979+8ba06d83.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-virtualenv",
 				"purl": "pkg:rpm/redhat/python3-virtualenv"
 			},
@@ -1615,18 +1615,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:15.1.0-21.module+el8.6.0+22648+901a012d.2"
+							"fixed": "0:15.1.0-19.module+el8.4.0+22650+01781d50.3"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-wheel",
 				"purl": "pkg:rpm/redhat/python3-wheel"
 			},
@@ -1638,18 +1638,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:0.31.1-3.module+el8.5.0+12207+5c5719bc"
+							"fixed": "1:0.31.1-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python3-wheel-wheel",
 				"purl": "pkg:rpm/redhat/python3-wheel-wheel"
 			},
@@ -1661,18 +1661,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:0.31.1-3.module+el8.5.0+12207+5c5719bc"
+							"fixed": "1:0.31.1-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python36",
 				"purl": "pkg:rpm/redhat/python36"
 			},
@@ -1684,18 +1684,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:3.6.8-38.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:3.6.8-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python36-debug",
 				"purl": "pkg:rpm/redhat/python36-debug"
 			},
@@ -1707,18 +1707,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:3.6.8-38.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:3.6.8-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python36-devel",
 				"purl": "pkg:rpm/redhat/python36-devel"
 			},
@@ -1730,18 +1730,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:3.6.8-38.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:3.6.8-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "python36-rpm-macros",
 				"purl": "pkg:rpm/redhat/python36-rpm-macros"
 			},
@@ -1753,18 +1753,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:3.6.8-38.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:3.6.8-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "scipy",
 				"purl": "pkg:rpm/redhat/scipy"
 			},
@@ -1776,18 +1776,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.0.0-21.module+el8.5.0+10916+41bd434d"
+							"fixed": "0:1.0.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
 				"name": "scipy-debugsource",
 				"purl": "pkg:rpm/redhat/scipy-debugsource"
 			},
@@ -1799,18 +1799,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.0.0-21.module+el8.5.0+10916+41bd434d"
+							"fixed": "0:1.0.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-PyMySQL",
 				"purl": "pkg:rpm/redhat/python-PyMySQL"
 			},
@@ -1828,12 +1828,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-distro",
 				"purl": "pkg:rpm/redhat/python-distro"
 			},
@@ -1851,12 +1851,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-docs",
 				"purl": "pkg:rpm/redhat/python-docs"
 			},
@@ -1874,12 +1874,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-docutils",
 				"purl": "pkg:rpm/redhat/python-docutils"
 			},
@@ -1897,12 +1897,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-nose",
 				"purl": "pkg:rpm/redhat/python-nose"
 			},
@@ -1914,18 +1914,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.7-31.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:1.3.7-30.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-nose-docs",
 				"purl": "pkg:rpm/redhat/python-nose-docs"
 			},
@@ -1937,18 +1937,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.7-31.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:1.3.7-30.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-pygments",
 				"purl": "pkg:rpm/redhat/python-pygments"
 			},
@@ -1960,18 +1960,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:2.2.0-22.module+el8.5.0+10789+e4939b94"
+							"fixed": "0:2.2.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-pymongo",
 				"purl": "pkg:rpm/redhat/python-pymongo"
 			},
@@ -1989,12 +1989,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-pymongo-debuginfo",
 				"purl": "pkg:rpm/redhat/python-pymongo-debuginfo"
 			},
@@ -2012,12 +2012,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-pymongo-debugsource",
 				"purl": "pkg:rpm/redhat/python-pymongo-debugsource"
 			},
@@ -2035,12 +2035,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-pymongo-doc",
 				"purl": "pkg:rpm/redhat/python-pymongo-doc"
 			},
@@ -2058,12 +2058,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-sqlalchemy",
 				"purl": "pkg:rpm/redhat/python-sqlalchemy"
 			},
@@ -2075,18 +2075,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.2-2.module+el8.6.0+20978+2ad18ee0.1"
+							"fixed": "0:1.3.2-2.module+el8.4.0+20979+8ba06d83.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-sqlalchemy-doc",
 				"purl": "pkg:rpm/redhat/python-sqlalchemy-doc"
 			},
@@ -2098,18 +2098,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.2-2.module+el8.6.0+20978+2ad18ee0.1"
+							"fixed": "0:1.3.2-2.module+el8.4.0+20979+8ba06d83.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-virtualenv",
 				"purl": "pkg:rpm/redhat/python-virtualenv"
 			},
@@ -2121,18 +2121,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:15.1.0-21.module+el8.6.0+22648+901a012d.2"
+							"fixed": "0:15.1.0-19.module+el8.4.0+22650+01781d50.3"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-virtualenv-doc",
 				"purl": "pkg:rpm/redhat/python-virtualenv-doc"
 			},
@@ -2144,18 +2144,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:15.1.0-21.module+el8.6.0+22648+901a012d.2"
+							"fixed": "0:15.1.0-19.module+el8.4.0+22650+01781d50.3"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python-wheel",
 				"purl": "pkg:rpm/redhat/python-wheel"
 			},
@@ -2167,18 +2167,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:0.31.1-3.module+el8.5.0+12207+5c5719bc"
+							"fixed": "1:0.31.1-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-PyMySQL",
 				"purl": "pkg:rpm/redhat/python3-PyMySQL"
 			},
@@ -2196,12 +2196,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-bson",
 				"purl": "pkg:rpm/redhat/python3-bson"
 			},
@@ -2219,12 +2219,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-bson-debuginfo",
 				"purl": "pkg:rpm/redhat/python3-bson-debuginfo"
 			},
@@ -2242,12 +2242,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-distro",
 				"purl": "pkg:rpm/redhat/python3-distro"
 			},
@@ -2265,12 +2265,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-docs",
 				"purl": "pkg:rpm/redhat/python3-docs"
 			},
@@ -2288,12 +2288,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-docutils",
 				"purl": "pkg:rpm/redhat/python3-docutils"
 			},
@@ -2311,12 +2311,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-nose",
 				"purl": "pkg:rpm/redhat/python3-nose"
 			},
@@ -2328,18 +2328,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.7-31.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:1.3.7-30.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-pygments",
 				"purl": "pkg:rpm/redhat/python3-pygments"
 			},
@@ -2351,18 +2351,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:2.2.0-22.module+el8.5.0+10789+e4939b94"
+							"fixed": "0:2.2.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-pymongo",
 				"purl": "pkg:rpm/redhat/python3-pymongo"
 			},
@@ -2380,12 +2380,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-pymongo-debuginfo",
 				"purl": "pkg:rpm/redhat/python3-pymongo-debuginfo"
 			},
@@ -2403,12 +2403,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-pymongo-gridfs",
 				"purl": "pkg:rpm/redhat/python3-pymongo-gridfs"
 			},
@@ -2426,12 +2426,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-scipy",
 				"purl": "pkg:rpm/redhat/python3-scipy"
 			},
@@ -2443,18 +2443,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.0.0-21.module+el8.5.0+10916+41bd434d"
+							"fixed": "0:1.0.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-scipy-debuginfo",
 				"purl": "pkg:rpm/redhat/python3-scipy-debuginfo"
 			},
@@ -2466,18 +2466,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.0.0-21.module+el8.5.0+10916+41bd434d"
+							"fixed": "0:1.0.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-sqlalchemy",
 				"purl": "pkg:rpm/redhat/python3-sqlalchemy"
 			},
@@ -2489,18 +2489,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.3.2-2.module+el8.6.0+20978+2ad18ee0.1"
+							"fixed": "0:1.3.2-2.module+el8.4.0+20979+8ba06d83.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-virtualenv",
 				"purl": "pkg:rpm/redhat/python3-virtualenv"
 			},
@@ -2512,18 +2512,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:15.1.0-21.module+el8.6.0+22648+901a012d.2"
+							"fixed": "0:15.1.0-19.module+el8.4.0+22650+01781d50.3"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-wheel",
 				"purl": "pkg:rpm/redhat/python3-wheel"
 			},
@@ -2535,18 +2535,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:0.31.1-3.module+el8.5.0+12207+5c5719bc"
+							"fixed": "1:0.31.1-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python3-wheel-wheel",
 				"purl": "pkg:rpm/redhat/python3-wheel-wheel"
 			},
@@ -2558,18 +2558,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:0.31.1-3.module+el8.5.0+12207+5c5719bc"
+							"fixed": "1:0.31.1-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python36",
 				"purl": "pkg:rpm/redhat/python36"
 			},
@@ -2581,18 +2581,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:3.6.8-38.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:3.6.8-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python36-debug",
 				"purl": "pkg:rpm/redhat/python36-debug"
 			},
@@ -2604,18 +2604,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:3.6.8-38.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:3.6.8-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python36-devel",
 				"purl": "pkg:rpm/redhat/python36-devel"
 			},
@@ -2627,18 +2627,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:3.6.8-38.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:3.6.8-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "python36-rpm-macros",
 				"purl": "pkg:rpm/redhat/python36-rpm-macros"
 			},
@@ -2650,18 +2650,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:3.6.8-38.module+el8.5.0+12207+5c5719bc"
+							"fixed": "0:3.6.8-2.module+el8.4.0+15040+36b018e7.1"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "scipy",
 				"purl": "pkg:rpm/redhat/scipy"
 			},
@@ -2673,18 +2673,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.0.0-21.module+el8.5.0+10916+41bd434d"
+							"fixed": "0:1.0.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:rhel_tus:8.6::appstream",
+				"ecosystem": "Red Hat:rhel_tus:8.4::appstream",
 				"name": "scipy-debugsource",
 				"purl": "pkg:rpm/redhat/scipy-debugsource"
 			},
@@ -2696,20 +2696,20 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:1.0.0-21.module+el8.5.0+10916+41bd434d"
+							"fixed": "0:1.0.0-20.module+el8.1.0+3334+5cb623d7"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2024:11094.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0002.json"
 			}
 		}
 	],
 	"references": [
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/errata/RHSA-2024:11094"
+			"url": "https://access.redhat.com/errata/RHSA-2025:0002"
 		},
 		{
 			"type": "ARTICLE",
@@ -2721,7 +2721,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_11094.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2025/rhsa-2025_0002.json"
 		},
 		{
 			"type": "REPORT",
