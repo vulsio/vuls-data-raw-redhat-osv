@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2015:0086",
-	"modified": "2024-09-13T10:10:41Z",
+	"modified": "2025-01-06T10:01:42Z",
 	"published": "2024-09-13T10:10:41Z",
 	"related": [
 		"CVE-2014-3566",
@@ -511,7 +511,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhsa-2015_0086.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhsa-2015_0086.json"
 		},
 		{
 			"type": "REPORT",

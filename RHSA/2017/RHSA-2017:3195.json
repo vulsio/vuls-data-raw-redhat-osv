@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:3195",
-	"modified": "2024-09-13T16:49:37Z",
+	"modified": "2025-01-06T10:02:25Z",
 	"published": "2024-09-13T16:49:37Z",
 	"related": [
 		"CVE-2017-3167",
@@ -326,7 +326,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_3195.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_3195.json"
 		},
 		{
 			"type": "REPORT",

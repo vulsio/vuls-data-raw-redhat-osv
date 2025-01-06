@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2024:1127",
-	"modified": "2024-12-31T10:05:51Z",
+	"modified": "2025-01-06T10:07:08Z",
 	"published": "2024-10-01T23:18:57Z",
 	"related": [
 		"CVE-2023-48795"

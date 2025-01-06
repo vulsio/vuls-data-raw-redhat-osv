@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:1118",
-	"modified": "2024-09-13T11:58:38Z",
+	"modified": "2025-01-06T10:02:16Z",
 	"published": "2024-09-13T11:58:38Z",
 	"related": [
 		"CVE-2017-3509",
@@ -339,7 +339,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_1118.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_1118.json"
 		},
 		{
 			"type": "REPORT",

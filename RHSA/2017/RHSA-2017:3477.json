@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:3477",
-	"modified": "2024-09-16T00:33:04Z",
+	"modified": "2025-01-06T10:02:26Z",
 	"published": "2024-09-16T00:33:04Z",
 	"related": [
 		"CVE-2017-12613",
@@ -403,7 +403,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_3477.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_3477.json"
 		},
 		{
 			"type": "REPORT",
