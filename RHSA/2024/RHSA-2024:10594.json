@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:10594",
-	"modified": "2024-12-02T10:11:25Z",
+	"modified": "2025-01-07T10:06:25Z",
 	"published": "2024-12-02T10:11:25Z",
 	"related": [
+		"CVE-2023-2295",
 		"CVE-2023-23009",
 		"CVE-2023-38710",
 		"CVE-2023-38711",
@@ -14,7 +15,7 @@
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H"
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
 		}
 	],
 	"affected": [
@@ -120,6 +121,22 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2024/rhsa-2024_10594.json"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2023-2295"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2189777"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2023-2295"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-2295"
 		},
 		{
 			"type": "REPORT",
