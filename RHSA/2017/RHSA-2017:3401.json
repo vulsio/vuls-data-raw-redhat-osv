@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:3401",
-	"modified": "2024-09-13T13:40:06Z",
+	"modified": "2025-01-09T10:01:57Z",
 	"published": "2024-09-13T13:40:06Z",
 	"related": [
 		"CVE-2017-15407",
@@ -170,7 +170,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_3401.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_3401.json"
 		},
 		{
 			"type": "REPORT",

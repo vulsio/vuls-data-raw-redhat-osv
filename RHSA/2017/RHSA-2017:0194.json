@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:0194",
-	"modified": "2024-09-15T23:27:31Z",
+	"modified": "2025-01-09T10:01:38Z",
 	"published": "2024-09-15T23:27:31Z",
 	"related": [
 		"CVE-2016-2108",
@@ -906,7 +906,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_0194.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_0194.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:4846",
-	"modified": "2024-09-13T15:14:10Z",
+	"modified": "2025-01-09T10:02:44Z",
 	"published": "2024-09-13T15:14:10Z",
 	"related": [
 		"CVE-2018-20843"
@@ -149,7 +149,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_4846.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_4846.json"
 		},
 		{
 			"type": "REPORT",

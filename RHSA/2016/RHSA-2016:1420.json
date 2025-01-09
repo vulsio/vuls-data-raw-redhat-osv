@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2016:1420",
-	"modified": "2024-09-13T11:04:45Z",
+	"modified": "2025-01-09T10:01:27Z",
 	"published": "2024-09-13T11:04:45Z",
 	"related": [
 		"CVE-2016-4979",
@@ -457,7 +457,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2016/rhsa-2016_1420.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2016/rhsa-2016_1420.json"
 		},
 		{
 			"type": "REPORT",

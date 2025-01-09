@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:2713",
-	"modified": "2024-09-13T16:53:23Z",
+	"modified": "2025-01-09T10:02:04Z",
 	"published": "2024-09-13T16:53:23Z",
 	"related": [
 		"CVE-2016-0705",
@@ -116,7 +116,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhsa-2018_2713.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhsa-2018_2713.json"
 		},
 		{
 			"type": "REPORT",

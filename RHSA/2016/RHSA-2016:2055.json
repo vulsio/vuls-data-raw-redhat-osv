@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2016:2055",
-	"modified": "2024-09-15T23:27:37Z",
+	"modified": "2025-01-09T10:01:33Z",
 	"published": "2024-09-15T23:27:37Z",
 	"related": [
 		"CVE-2015-3183",
@@ -666,7 +666,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2016/rhsa-2016_2055.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2016/rhsa-2016_2055.json"
 		},
 		{
 			"type": "REPORT",

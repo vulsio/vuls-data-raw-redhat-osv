@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2016:1649",
-	"modified": "2024-09-15T23:25:07Z",
+	"modified": "2025-01-09T10:01:30Z",
 	"published": "2024-09-15T23:25:07Z",
 	"related": [
 		"CVE-2016-2105",
@@ -656,7 +656,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2016/rhsa-2016_1649.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2016/rhsa-2016_1649.json"
 		},
 		{
 			"type": "REPORT",

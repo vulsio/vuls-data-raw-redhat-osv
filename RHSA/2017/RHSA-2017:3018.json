@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2017:3018",
-	"modified": "2024-09-13T16:49:11Z",
+	"modified": "2025-01-09T10:01:52Z",
 	"published": "2024-09-13T16:49:11Z",
 	"related": [
 		"CVE-2017-9798"
@@ -852,7 +852,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2017/rhsa-2017_3018.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2017/rhsa-2017_3018.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:1121",
-	"modified": "2024-09-13T16:58:11Z",
+	"modified": "2025-01-09T10:02:30Z",
 	"published": "2024-09-13T16:58:11Z",
 	"related": [
 		"CVE-2017-15710",
@@ -896,7 +896,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_1121.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_1121.json"
 		},
 		{
 			"type": "REPORT",

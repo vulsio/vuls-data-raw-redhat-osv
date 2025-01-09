@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2016:2802",
-	"modified": "2024-09-13T11:06:19Z",
+	"modified": "2025-01-09T10:01:35Z",
 	"published": "2024-09-13T11:06:19Z",
 	"related": [
 		"CVE-2016-6304"
@@ -954,7 +954,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2016/rhsa-2016_2802.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2016/rhsa-2016_2802.json"
 		},
 		{
 			"type": "REPORT",
