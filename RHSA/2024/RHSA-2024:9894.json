@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:9894",
-	"modified": "2024-12-24T10:10:38Z",
+	"modified": "2025-01-11T10:03:12Z",
 	"published": "2024-11-25T09:52:41Z",
 	"related": [
 		"CVE-2024-8775",
@@ -186,6 +186,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-8775"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-jpxc-vmjf-9fcj"
 		},
 		{
 			"type": "REPORT",
