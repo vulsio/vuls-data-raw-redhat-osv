@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2015:1021",
-	"modified": "2024-12-02T10:02:54Z",
+	"modified": "2025-01-13T10:01:44Z",
 	"published": "2024-09-22T16:26:21Z",
 	"related": [
 		"CVE-2005-1080",

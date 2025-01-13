@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2015:1488",
-	"modified": "2024-09-13T10:37:10Z",
+	"modified": "2025-01-13T10:01:50Z",
 	"published": "2024-09-13T10:37:10Z",
 	"related": [
 		"CVE-2015-1931",
@@ -409,7 +409,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2015/rhsa-2015_1488.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2015/rhsa-2015_1488.json"
 		},
 		{
 			"type": "REPORT",
