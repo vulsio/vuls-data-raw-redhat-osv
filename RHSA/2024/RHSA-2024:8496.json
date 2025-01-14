@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:8496",
-	"modified": "2024-12-21T10:02:31Z",
+	"modified": "2025-01-14T10:09:27Z",
 	"published": "2024-10-30T08:12:27Z",
 	"related": [
 		"CVE-2022-32885",
@@ -18,7 +18,8 @@
 		"CVE-2024-40780",
 		"CVE-2024-40782",
 		"CVE-2024-40789",
-		"CVE-2024-4558"
+		"CVE-2024-4558",
+		"CVE-2024-54534"
 	],
 	"summary": "Red Hat Security Advisory: webkit2gtk3 security update",
 	"severity": [
@@ -540,6 +541,46 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://webkitgtk.org/security/WSA-2024-0004.html#CVE-2024-40789"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2024-54534"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2333846"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2024-54534"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-54534"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://support.apple.com/en-us/121837"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://support.apple.com/en-us/121839"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://support.apple.com/en-us/121843"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://support.apple.com/en-us/121844"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://support.apple.com/en-us/121845"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://support.apple.com/en-us/121846"
 		}
 	]
 }

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:4622",
-	"modified": "2025-01-10T10:01:46Z",
+	"modified": "2025-01-14T10:07:49Z",
 	"published": "2024-09-16T20:34:48Z",
 	"related": [
 		"CVE-2024-5564"
@@ -92,10 +92,6 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://access.redhat.com/security/updates/classification/#important"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7-ELS/html/7-ELS_release_notes/index"
 		},
 		{
 			"type": "REPORT",

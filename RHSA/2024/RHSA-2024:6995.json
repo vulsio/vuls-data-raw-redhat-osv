@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:6995",
-	"modified": "2025-01-10T10:01:57Z",
+	"modified": "2025-01-14T10:08:42Z",
 	"published": "2024-10-01T05:15:32Z",
 	"related": [
 		"CVE-2024-2201",
@@ -277,10 +277,6 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://access.redhat.com/security/updates/classification/#important"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7-ELS/html/7-ELS_release_notes/index"
 		},
 		{
 			"type": "REPORT",

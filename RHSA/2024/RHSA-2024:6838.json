@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:6838",
-	"modified": "2025-01-10T10:01:52Z",
+	"modified": "2025-01-14T10:08:35Z",
 	"published": "2024-09-19T19:46:13Z",
 	"related": [
 		"CVE-2024-7652",
@@ -78,8 +78,40 @@
 			"url": "https://access.redhat.com/security/updates/classification/#important"
 		},
 		{
-			"type": "ARTICLE",
-			"url": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7-ELS/html/7-ELS_release_notes/index"
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2307328"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2309427"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2309428"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2309429"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2309430"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2309431"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2309432"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2309433"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2310490"
 		},
 		{
 			"type": "ADVISORY",
@@ -88,10 +120,6 @@
 		{
 			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2024-7652"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2310490"
 		},
 		{
 			"type": "ADVISORY",
@@ -130,10 +158,6 @@
 			"url": "https://access.redhat.com/security/cve/CVE-2024-8381"
 		},
 		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2309427"
-		},
-		{
 			"type": "ADVISORY",
 			"url": "https://www.cve.org/CVERecord?id=CVE-2024-8381"
 		},
@@ -162,10 +186,6 @@
 			"url": "https://access.redhat.com/security/cve/CVE-2024-8382"
 		},
 		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2309428"
-		},
-		{
 			"type": "ADVISORY",
 			"url": "https://www.cve.org/CVERecord?id=CVE-2024-8382"
 		},
@@ -180,10 +200,6 @@
 		{
 			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2024-8383"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2309429"
 		},
 		{
 			"type": "ADVISORY",
@@ -202,10 +218,6 @@
 			"url": "https://access.redhat.com/security/cve/CVE-2024-8384"
 		},
 		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2309430"
-		},
-		{
 			"type": "ADVISORY",
 			"url": "https://www.cve.org/CVERecord?id=CVE-2024-8384"
 		},
@@ -222,10 +234,6 @@
 			"url": "https://access.redhat.com/security/cve/CVE-2024-8385"
 		},
 		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2309431"
-		},
-		{
 			"type": "ADVISORY",
 			"url": "https://www.cve.org/CVERecord?id=CVE-2024-8385"
 		},
@@ -240,10 +248,6 @@
 		{
 			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2024-8386"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2309432"
 		},
 		{
 			"type": "ADVISORY",
@@ -268,10 +272,6 @@
 		{
 			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2024-8387"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2309433"
 		},
 		{
 			"type": "ADVISORY",
