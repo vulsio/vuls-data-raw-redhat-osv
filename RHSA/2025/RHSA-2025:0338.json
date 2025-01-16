@@ -1,8 +1,8 @@
 {
 	"schema_version": "1.6.0",
-	"id": "RHSA-2025:0308",
-	"modified": "2025-01-16T10:02:19Z",
-	"published": "2025-01-15T10:02:39Z",
+	"id": "RHSA-2025:0338",
+	"modified": "2025-01-16T10:02:23Z",
+	"published": "2025-01-16T10:02:23Z",
 	"related": [
 		"CVE-2024-56201",
 		"CVE-2024-56326"
@@ -17,7 +17,7 @@
 	"affected": [
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents",
 				"purl": "pkg:rpm/redhat/fence-agents"
 			},
@@ -29,18 +29,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-aliyun",
 				"purl": "pkg:rpm/redhat/fence-agents-aliyun"
 			},
@@ -52,18 +52,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-all",
 				"purl": "pkg:rpm/redhat/fence-agents-all"
 			},
@@ -75,18 +75,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-amt-ws",
 				"purl": "pkg:rpm/redhat/fence-agents-amt-ws"
 			},
@@ -98,18 +98,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-apc",
 				"purl": "pkg:rpm/redhat/fence-agents-apc"
 			},
@@ -121,18 +121,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-apc-snmp",
 				"purl": "pkg:rpm/redhat/fence-agents-apc-snmp"
 			},
@@ -144,18 +144,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-aws",
 				"purl": "pkg:rpm/redhat/fence-agents-aws"
 			},
@@ -167,18 +167,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-azure-arm",
 				"purl": "pkg:rpm/redhat/fence-agents-azure-arm"
 			},
@@ -190,18 +190,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-bladecenter",
 				"purl": "pkg:rpm/redhat/fence-agents-bladecenter"
 			},
@@ -213,18 +213,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-brocade",
 				"purl": "pkg:rpm/redhat/fence-agents-brocade"
 			},
@@ -236,18 +236,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-cisco-mds",
 				"purl": "pkg:rpm/redhat/fence-agents-cisco-mds"
 			},
@@ -259,18 +259,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-cisco-ucs",
 				"purl": "pkg:rpm/redhat/fence-agents-cisco-ucs"
 			},
@@ -282,18 +282,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-common",
 				"purl": "pkg:rpm/redhat/fence-agents-common"
 			},
@@ -305,18 +305,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-compute",
 				"purl": "pkg:rpm/redhat/fence-agents-compute"
 			},
@@ -328,18 +328,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-agents-debuginfo"
 			},
@@ -351,18 +351,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-debugsource",
 				"purl": "pkg:rpm/redhat/fence-agents-debugsource"
 			},
@@ -374,18 +374,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-drac5",
 				"purl": "pkg:rpm/redhat/fence-agents-drac5"
 			},
@@ -397,18 +397,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-eaton-snmp",
 				"purl": "pkg:rpm/redhat/fence-agents-eaton-snmp"
 			},
@@ -420,18 +420,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-emerson",
 				"purl": "pkg:rpm/redhat/fence-agents-emerson"
 			},
@@ -443,18 +443,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-eps",
 				"purl": "pkg:rpm/redhat/fence-agents-eps"
 			},
@@ -466,18 +466,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-gce",
 				"purl": "pkg:rpm/redhat/fence-agents-gce"
 			},
@@ -489,18 +489,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-heuristics-ping",
 				"purl": "pkg:rpm/redhat/fence-agents-heuristics-ping"
 			},
@@ -512,18 +512,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-hpblade",
 				"purl": "pkg:rpm/redhat/fence-agents-hpblade"
 			},
@@ -535,18 +535,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-ibm-powervs",
 				"purl": "pkg:rpm/redhat/fence-agents-ibm-powervs"
 			},
@@ -558,18 +558,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-ibm-vpc",
 				"purl": "pkg:rpm/redhat/fence-agents-ibm-vpc"
 			},
@@ -581,18 +581,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-ibmblade",
 				"purl": "pkg:rpm/redhat/fence-agents-ibmblade"
 			},
@@ -604,18 +604,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-ifmib",
 				"purl": "pkg:rpm/redhat/fence-agents-ifmib"
 			},
@@ -627,18 +627,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-ilo-moonshot",
 				"purl": "pkg:rpm/redhat/fence-agents-ilo-moonshot"
 			},
@@ -650,18 +650,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-ilo-mp",
 				"purl": "pkg:rpm/redhat/fence-agents-ilo-mp"
 			},
@@ -673,18 +673,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-ilo-ssh",
 				"purl": "pkg:rpm/redhat/fence-agents-ilo-ssh"
 			},
@@ -696,18 +696,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-ilo2",
 				"purl": "pkg:rpm/redhat/fence-agents-ilo2"
 			},
@@ -719,18 +719,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-intelmodular",
 				"purl": "pkg:rpm/redhat/fence-agents-intelmodular"
 			},
@@ -742,18 +742,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-ipdu",
 				"purl": "pkg:rpm/redhat/fence-agents-ipdu"
 			},
@@ -765,18 +765,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-ipmilan",
 				"purl": "pkg:rpm/redhat/fence-agents-ipmilan"
 			},
@@ -788,18 +788,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-kdump",
 				"purl": "pkg:rpm/redhat/fence-agents-kdump"
 			},
@@ -811,18 +811,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-kdump-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-agents-kdump-debuginfo"
 			},
@@ -834,18 +834,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-kubevirt",
 				"purl": "pkg:rpm/redhat/fence-agents-kubevirt"
 			},
@@ -857,18 +857,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-kubevirt-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-agents-kubevirt-debuginfo"
 			},
@@ -880,18 +880,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-lpar",
 				"purl": "pkg:rpm/redhat/fence-agents-lpar"
 			},
@@ -903,18 +903,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-mpath",
 				"purl": "pkg:rpm/redhat/fence-agents-mpath"
 			},
@@ -926,18 +926,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-openstack",
 				"purl": "pkg:rpm/redhat/fence-agents-openstack"
 			},
@@ -949,18 +949,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-redfish",
 				"purl": "pkg:rpm/redhat/fence-agents-redfish"
 			},
@@ -972,18 +972,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-rhevm",
 				"purl": "pkg:rpm/redhat/fence-agents-rhevm"
 			},
@@ -995,18 +995,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-rsa",
 				"purl": "pkg:rpm/redhat/fence-agents-rsa"
 			},
@@ -1018,18 +1018,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-rsb",
 				"purl": "pkg:rpm/redhat/fence-agents-rsb"
 			},
@@ -1041,18 +1041,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-sbd",
 				"purl": "pkg:rpm/redhat/fence-agents-sbd"
 			},
@@ -1064,18 +1064,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-scsi",
 				"purl": "pkg:rpm/redhat/fence-agents-scsi"
 			},
@@ -1087,18 +1087,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-virsh",
 				"purl": "pkg:rpm/redhat/fence-agents-virsh"
 			},
@@ -1110,18 +1110,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-vmware-rest",
 				"purl": "pkg:rpm/redhat/fence-agents-vmware-rest"
 			},
@@ -1133,18 +1133,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-vmware-soap",
 				"purl": "pkg:rpm/redhat/fence-agents-vmware-soap"
 			},
@@ -1156,18 +1156,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-wti",
 				"purl": "pkg:rpm/redhat/fence-agents-wti"
 			},
@@ -1179,18 +1179,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-agents-zvm",
 				"purl": "pkg:rpm/redhat/fence-agents-zvm"
 			},
@@ -1202,18 +1202,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-virt",
 				"purl": "pkg:rpm/redhat/fence-virt"
 			},
@@ -1225,18 +1225,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-virt-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virt-debuginfo"
 			},
@@ -1248,18 +1248,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-virtd",
 				"purl": "pkg:rpm/redhat/fence-virtd"
 			},
@@ -1271,18 +1271,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-virtd-cpg",
 				"purl": "pkg:rpm/redhat/fence-virtd-cpg"
 			},
@@ -1294,18 +1294,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-virtd-cpg-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-cpg-debuginfo"
 			},
@@ -1317,18 +1317,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-virtd-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-debuginfo"
 			},
@@ -1340,18 +1340,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-virtd-libvirt",
 				"purl": "pkg:rpm/redhat/fence-virtd-libvirt"
 			},
@@ -1363,18 +1363,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-virtd-libvirt-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-libvirt-debuginfo"
 			},
@@ -1386,18 +1386,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-virtd-multicast",
 				"purl": "pkg:rpm/redhat/fence-virtd-multicast"
 			},
@@ -1409,18 +1409,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-virtd-multicast-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-multicast-debuginfo"
 			},
@@ -1432,18 +1432,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-virtd-serial",
 				"purl": "pkg:rpm/redhat/fence-virtd-serial"
 			},
@@ -1455,18 +1455,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-virtd-serial-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-serial-debuginfo"
 			},
@@ -1478,18 +1478,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-virtd-tcp",
 				"purl": "pkg:rpm/redhat/fence-virtd-tcp"
 			},
@@ -1501,18 +1501,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "fence-virtd-tcp-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-tcp-debuginfo"
 			},
@@ -1524,18 +1524,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "ha-cloud-support",
 				"purl": "pkg:rpm/redhat/ha-cloud-support"
 			},
@@ -1547,18 +1547,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "ha-cloud-support-debuginfo",
 				"purl": "pkg:rpm/redhat/ha-cloud-support-debuginfo"
 			},
@@ -1570,18 +1570,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents",
 				"purl": "pkg:rpm/redhat/fence-agents"
 			},
@@ -1593,18 +1593,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-aliyun",
 				"purl": "pkg:rpm/redhat/fence-agents-aliyun"
 			},
@@ -1616,18 +1616,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-all",
 				"purl": "pkg:rpm/redhat/fence-agents-all"
 			},
@@ -1639,18 +1639,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-amt-ws",
 				"purl": "pkg:rpm/redhat/fence-agents-amt-ws"
 			},
@@ -1662,18 +1662,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-apc",
 				"purl": "pkg:rpm/redhat/fence-agents-apc"
 			},
@@ -1685,18 +1685,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-apc-snmp",
 				"purl": "pkg:rpm/redhat/fence-agents-apc-snmp"
 			},
@@ -1708,18 +1708,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-aws",
 				"purl": "pkg:rpm/redhat/fence-agents-aws"
 			},
@@ -1731,18 +1731,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-azure-arm",
 				"purl": "pkg:rpm/redhat/fence-agents-azure-arm"
 			},
@@ -1754,18 +1754,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-bladecenter",
 				"purl": "pkg:rpm/redhat/fence-agents-bladecenter"
 			},
@@ -1777,18 +1777,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-brocade",
 				"purl": "pkg:rpm/redhat/fence-agents-brocade"
 			},
@@ -1800,18 +1800,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-cisco-mds",
 				"purl": "pkg:rpm/redhat/fence-agents-cisco-mds"
 			},
@@ -1823,18 +1823,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-cisco-ucs",
 				"purl": "pkg:rpm/redhat/fence-agents-cisco-ucs"
 			},
@@ -1846,18 +1846,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-common",
 				"purl": "pkg:rpm/redhat/fence-agents-common"
 			},
@@ -1869,18 +1869,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-compute",
 				"purl": "pkg:rpm/redhat/fence-agents-compute"
 			},
@@ -1892,18 +1892,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-agents-debuginfo"
 			},
@@ -1915,18 +1915,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-debugsource",
 				"purl": "pkg:rpm/redhat/fence-agents-debugsource"
 			},
@@ -1938,18 +1938,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-drac5",
 				"purl": "pkg:rpm/redhat/fence-agents-drac5"
 			},
@@ -1961,18 +1961,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-eaton-snmp",
 				"purl": "pkg:rpm/redhat/fence-agents-eaton-snmp"
 			},
@@ -1984,18 +1984,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-emerson",
 				"purl": "pkg:rpm/redhat/fence-agents-emerson"
 			},
@@ -2007,18 +2007,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-eps",
 				"purl": "pkg:rpm/redhat/fence-agents-eps"
 			},
@@ -2030,18 +2030,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-gce",
 				"purl": "pkg:rpm/redhat/fence-agents-gce"
 			},
@@ -2053,18 +2053,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-heuristics-ping",
 				"purl": "pkg:rpm/redhat/fence-agents-heuristics-ping"
 			},
@@ -2076,18 +2076,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-hpblade",
 				"purl": "pkg:rpm/redhat/fence-agents-hpblade"
 			},
@@ -2099,18 +2099,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-ibm-powervs",
 				"purl": "pkg:rpm/redhat/fence-agents-ibm-powervs"
 			},
@@ -2122,18 +2122,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-ibm-vpc",
 				"purl": "pkg:rpm/redhat/fence-agents-ibm-vpc"
 			},
@@ -2145,18 +2145,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-ibmblade",
 				"purl": "pkg:rpm/redhat/fence-agents-ibmblade"
 			},
@@ -2168,18 +2168,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-ifmib",
 				"purl": "pkg:rpm/redhat/fence-agents-ifmib"
 			},
@@ -2191,18 +2191,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-ilo-moonshot",
 				"purl": "pkg:rpm/redhat/fence-agents-ilo-moonshot"
 			},
@@ -2214,18 +2214,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-ilo-mp",
 				"purl": "pkg:rpm/redhat/fence-agents-ilo-mp"
 			},
@@ -2237,18 +2237,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-ilo-ssh",
 				"purl": "pkg:rpm/redhat/fence-agents-ilo-ssh"
 			},
@@ -2260,18 +2260,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-ilo2",
 				"purl": "pkg:rpm/redhat/fence-agents-ilo2"
 			},
@@ -2283,18 +2283,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-intelmodular",
 				"purl": "pkg:rpm/redhat/fence-agents-intelmodular"
 			},
@@ -2306,18 +2306,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-ipdu",
 				"purl": "pkg:rpm/redhat/fence-agents-ipdu"
 			},
@@ -2329,18 +2329,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-ipmilan",
 				"purl": "pkg:rpm/redhat/fence-agents-ipmilan"
 			},
@@ -2352,18 +2352,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-kdump",
 				"purl": "pkg:rpm/redhat/fence-agents-kdump"
 			},
@@ -2375,18 +2375,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-kdump-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-agents-kdump-debuginfo"
 			},
@@ -2398,18 +2398,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-kubevirt",
 				"purl": "pkg:rpm/redhat/fence-agents-kubevirt"
 			},
@@ -2421,18 +2421,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-kubevirt-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-agents-kubevirt-debuginfo"
 			},
@@ -2444,18 +2444,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-lpar",
 				"purl": "pkg:rpm/redhat/fence-agents-lpar"
 			},
@@ -2467,18 +2467,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-mpath",
 				"purl": "pkg:rpm/redhat/fence-agents-mpath"
 			},
@@ -2490,18 +2490,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-openstack",
 				"purl": "pkg:rpm/redhat/fence-agents-openstack"
 			},
@@ -2513,18 +2513,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-redfish",
 				"purl": "pkg:rpm/redhat/fence-agents-redfish"
 			},
@@ -2536,18 +2536,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-rhevm",
 				"purl": "pkg:rpm/redhat/fence-agents-rhevm"
 			},
@@ -2559,18 +2559,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-rsa",
 				"purl": "pkg:rpm/redhat/fence-agents-rsa"
 			},
@@ -2582,18 +2582,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-rsb",
 				"purl": "pkg:rpm/redhat/fence-agents-rsb"
 			},
@@ -2605,18 +2605,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-sbd",
 				"purl": "pkg:rpm/redhat/fence-agents-sbd"
 			},
@@ -2628,18 +2628,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-scsi",
 				"purl": "pkg:rpm/redhat/fence-agents-scsi"
 			},
@@ -2651,18 +2651,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-virsh",
 				"purl": "pkg:rpm/redhat/fence-agents-virsh"
 			},
@@ -2674,18 +2674,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-vmware-rest",
 				"purl": "pkg:rpm/redhat/fence-agents-vmware-rest"
 			},
@@ -2697,18 +2697,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-vmware-soap",
 				"purl": "pkg:rpm/redhat/fence-agents-vmware-soap"
 			},
@@ -2720,18 +2720,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-wti",
 				"purl": "pkg:rpm/redhat/fence-agents-wti"
 			},
@@ -2743,18 +2743,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-agents-zvm",
 				"purl": "pkg:rpm/redhat/fence-agents-zvm"
 			},
@@ -2766,18 +2766,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-virt",
 				"purl": "pkg:rpm/redhat/fence-virt"
 			},
@@ -2789,18 +2789,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-virt-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virt-debuginfo"
 			},
@@ -2812,18 +2812,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-virtd",
 				"purl": "pkg:rpm/redhat/fence-virtd"
 			},
@@ -2835,18 +2835,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-virtd-cpg",
 				"purl": "pkg:rpm/redhat/fence-virtd-cpg"
 			},
@@ -2858,18 +2858,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-virtd-cpg-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-cpg-debuginfo"
 			},
@@ -2881,18 +2881,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-virtd-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-debuginfo"
 			},
@@ -2904,18 +2904,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-virtd-libvirt",
 				"purl": "pkg:rpm/redhat/fence-virtd-libvirt"
 			},
@@ -2927,18 +2927,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-virtd-libvirt-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-libvirt-debuginfo"
 			},
@@ -2950,18 +2950,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-virtd-multicast",
 				"purl": "pkg:rpm/redhat/fence-virtd-multicast"
 			},
@@ -2973,18 +2973,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-virtd-multicast-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-multicast-debuginfo"
 			},
@@ -2996,18 +2996,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-virtd-serial",
 				"purl": "pkg:rpm/redhat/fence-virtd-serial"
 			},
@@ -3019,18 +3019,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-virtd-serial-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-serial-debuginfo"
 			},
@@ -3042,18 +3042,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-virtd-tcp",
 				"purl": "pkg:rpm/redhat/fence-virtd-tcp"
 			},
@@ -3065,18 +3065,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "fence-virtd-tcp-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-tcp-debuginfo"
 			},
@@ -3088,18 +3088,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "ha-cloud-support",
 				"purl": "pkg:rpm/redhat/ha-cloud-support"
 			},
@@ -3111,18 +3111,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::highavailability",
+				"ecosystem": "Red Hat:rhel_eus:9.4::highavailability",
 				"name": "ha-cloud-support-debuginfo",
 				"purl": "pkg:rpm/redhat/ha-cloud-support-debuginfo"
 			},
@@ -3134,18 +3134,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents",
 				"purl": "pkg:rpm/redhat/fence-agents"
 			},
@@ -3157,18 +3157,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-aliyun",
 				"purl": "pkg:rpm/redhat/fence-agents-aliyun"
 			},
@@ -3180,18 +3180,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-all",
 				"purl": "pkg:rpm/redhat/fence-agents-all"
 			},
@@ -3203,18 +3203,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-amt-ws",
 				"purl": "pkg:rpm/redhat/fence-agents-amt-ws"
 			},
@@ -3226,18 +3226,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-apc",
 				"purl": "pkg:rpm/redhat/fence-agents-apc"
 			},
@@ -3249,18 +3249,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-apc-snmp",
 				"purl": "pkg:rpm/redhat/fence-agents-apc-snmp"
 			},
@@ -3272,18 +3272,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-aws",
 				"purl": "pkg:rpm/redhat/fence-agents-aws"
 			},
@@ -3295,18 +3295,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-azure-arm",
 				"purl": "pkg:rpm/redhat/fence-agents-azure-arm"
 			},
@@ -3318,18 +3318,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-bladecenter",
 				"purl": "pkg:rpm/redhat/fence-agents-bladecenter"
 			},
@@ -3341,18 +3341,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-brocade",
 				"purl": "pkg:rpm/redhat/fence-agents-brocade"
 			},
@@ -3364,18 +3364,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-cisco-mds",
 				"purl": "pkg:rpm/redhat/fence-agents-cisco-mds"
 			},
@@ -3387,18 +3387,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-cisco-ucs",
 				"purl": "pkg:rpm/redhat/fence-agents-cisco-ucs"
 			},
@@ -3410,18 +3410,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-common",
 				"purl": "pkg:rpm/redhat/fence-agents-common"
 			},
@@ -3433,18 +3433,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-compute",
 				"purl": "pkg:rpm/redhat/fence-agents-compute"
 			},
@@ -3456,18 +3456,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-agents-debuginfo"
 			},
@@ -3479,18 +3479,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-debugsource",
 				"purl": "pkg:rpm/redhat/fence-agents-debugsource"
 			},
@@ -3502,18 +3502,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-drac5",
 				"purl": "pkg:rpm/redhat/fence-agents-drac5"
 			},
@@ -3525,18 +3525,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-eaton-snmp",
 				"purl": "pkg:rpm/redhat/fence-agents-eaton-snmp"
 			},
@@ -3548,18 +3548,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-emerson",
 				"purl": "pkg:rpm/redhat/fence-agents-emerson"
 			},
@@ -3571,18 +3571,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-eps",
 				"purl": "pkg:rpm/redhat/fence-agents-eps"
 			},
@@ -3594,18 +3594,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-gce",
 				"purl": "pkg:rpm/redhat/fence-agents-gce"
 			},
@@ -3617,18 +3617,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-heuristics-ping",
 				"purl": "pkg:rpm/redhat/fence-agents-heuristics-ping"
 			},
@@ -3640,18 +3640,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-hpblade",
 				"purl": "pkg:rpm/redhat/fence-agents-hpblade"
 			},
@@ -3663,18 +3663,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-ibm-powervs",
 				"purl": "pkg:rpm/redhat/fence-agents-ibm-powervs"
 			},
@@ -3686,18 +3686,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-ibm-vpc",
 				"purl": "pkg:rpm/redhat/fence-agents-ibm-vpc"
 			},
@@ -3709,18 +3709,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-ibmblade",
 				"purl": "pkg:rpm/redhat/fence-agents-ibmblade"
 			},
@@ -3732,18 +3732,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-ifmib",
 				"purl": "pkg:rpm/redhat/fence-agents-ifmib"
 			},
@@ -3755,18 +3755,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-ilo-moonshot",
 				"purl": "pkg:rpm/redhat/fence-agents-ilo-moonshot"
 			},
@@ -3778,18 +3778,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-ilo-mp",
 				"purl": "pkg:rpm/redhat/fence-agents-ilo-mp"
 			},
@@ -3801,18 +3801,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-ilo-ssh",
 				"purl": "pkg:rpm/redhat/fence-agents-ilo-ssh"
 			},
@@ -3824,18 +3824,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-ilo2",
 				"purl": "pkg:rpm/redhat/fence-agents-ilo2"
 			},
@@ -3847,18 +3847,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-intelmodular",
 				"purl": "pkg:rpm/redhat/fence-agents-intelmodular"
 			},
@@ -3870,18 +3870,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-ipdu",
 				"purl": "pkg:rpm/redhat/fence-agents-ipdu"
 			},
@@ -3893,18 +3893,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-ipmilan",
 				"purl": "pkg:rpm/redhat/fence-agents-ipmilan"
 			},
@@ -3916,18 +3916,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-kdump",
 				"purl": "pkg:rpm/redhat/fence-agents-kdump"
 			},
@@ -3939,18 +3939,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-kdump-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-agents-kdump-debuginfo"
 			},
@@ -3962,18 +3962,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-kubevirt",
 				"purl": "pkg:rpm/redhat/fence-agents-kubevirt"
 			},
@@ -3985,18 +3985,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-kubevirt-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-agents-kubevirt-debuginfo"
 			},
@@ -4008,18 +4008,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-lpar",
 				"purl": "pkg:rpm/redhat/fence-agents-lpar"
 			},
@@ -4031,18 +4031,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-mpath",
 				"purl": "pkg:rpm/redhat/fence-agents-mpath"
 			},
@@ -4054,18 +4054,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-openstack",
 				"purl": "pkg:rpm/redhat/fence-agents-openstack"
 			},
@@ -4077,18 +4077,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-redfish",
 				"purl": "pkg:rpm/redhat/fence-agents-redfish"
 			},
@@ -4100,18 +4100,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-rhevm",
 				"purl": "pkg:rpm/redhat/fence-agents-rhevm"
 			},
@@ -4123,18 +4123,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-rsa",
 				"purl": "pkg:rpm/redhat/fence-agents-rsa"
 			},
@@ -4146,18 +4146,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-rsb",
 				"purl": "pkg:rpm/redhat/fence-agents-rsb"
 			},
@@ -4169,18 +4169,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-sbd",
 				"purl": "pkg:rpm/redhat/fence-agents-sbd"
 			},
@@ -4192,18 +4192,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-scsi",
 				"purl": "pkg:rpm/redhat/fence-agents-scsi"
 			},
@@ -4215,18 +4215,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-virsh",
 				"purl": "pkg:rpm/redhat/fence-agents-virsh"
 			},
@@ -4238,18 +4238,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-vmware-rest",
 				"purl": "pkg:rpm/redhat/fence-agents-vmware-rest"
 			},
@@ -4261,18 +4261,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-vmware-soap",
 				"purl": "pkg:rpm/redhat/fence-agents-vmware-soap"
 			},
@@ -4284,18 +4284,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-wti",
 				"purl": "pkg:rpm/redhat/fence-agents-wti"
 			},
@@ -4307,18 +4307,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-agents-zvm",
 				"purl": "pkg:rpm/redhat/fence-agents-zvm"
 			},
@@ -4330,18 +4330,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-virt",
 				"purl": "pkg:rpm/redhat/fence-virt"
 			},
@@ -4353,18 +4353,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-virt-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virt-debuginfo"
 			},
@@ -4376,18 +4376,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-virtd",
 				"purl": "pkg:rpm/redhat/fence-virtd"
 			},
@@ -4399,18 +4399,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-virtd-cpg",
 				"purl": "pkg:rpm/redhat/fence-virtd-cpg"
 			},
@@ -4422,18 +4422,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-virtd-cpg-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-cpg-debuginfo"
 			},
@@ -4445,18 +4445,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-virtd-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-debuginfo"
 			},
@@ -4468,18 +4468,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-virtd-libvirt",
 				"purl": "pkg:rpm/redhat/fence-virtd-libvirt"
 			},
@@ -4491,18 +4491,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-virtd-libvirt-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-libvirt-debuginfo"
 			},
@@ -4514,18 +4514,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-virtd-multicast",
 				"purl": "pkg:rpm/redhat/fence-virtd-multicast"
 			},
@@ -4537,18 +4537,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-virtd-multicast-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-multicast-debuginfo"
 			},
@@ -4560,18 +4560,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-virtd-serial",
 				"purl": "pkg:rpm/redhat/fence-virtd-serial"
 			},
@@ -4583,18 +4583,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-virtd-serial-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-serial-debuginfo"
 			},
@@ -4606,18 +4606,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-virtd-tcp",
 				"purl": "pkg:rpm/redhat/fence-virtd-tcp"
 			},
@@ -4629,18 +4629,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "fence-virtd-tcp-debuginfo",
 				"purl": "pkg:rpm/redhat/fence-virtd-tcp-debuginfo"
 			},
@@ -4652,18 +4652,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "ha-cloud-support",
 				"purl": "pkg:rpm/redhat/ha-cloud-support"
 			},
@@ -4675,18 +4675,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::resilientstorage",
+				"ecosystem": "Red Hat:rhel_eus:9.4::resilientstorage",
 				"name": "ha-cloud-support-debuginfo",
 				"purl": "pkg:rpm/redhat/ha-cloud-support-debuginfo"
 			},
@@ -4698,36 +4698,40 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "0:4.10.0-76.el9_5.4"
+							"fixed": "0:4.10.0-62.el9_4.10"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0308.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:0338.json"
 			}
 		}
 	],
 	"references": [
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/errata/RHSA-2025:0308"
+			"url": "https://access.redhat.com/errata/RHSA-2025:0338"
 		},
 		{
 			"type": "ARTICLE",
 			"url": "https://access.redhat.com/security/updates/classification/#important"
 		},
 		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2333854"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2333856"
+		},
+		{
 			"type": "ADVISORY",
-			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2025/rhsa-2025_0308.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2025/rhsa-2025_0338.json"
 		},
 		{
 			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2024-56201"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2333854"
 		},
 		{
 			"type": "ADVISORY",
@@ -4756,10 +4760,6 @@
 		{
 			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2024-56326"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2333856"
 		},
 		{
 			"type": "ADVISORY",
