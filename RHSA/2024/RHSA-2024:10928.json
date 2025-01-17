@@ -1,18 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:10928",
-	"modified": "2024-12-24T10:06:16Z",
+	"modified": "2025-01-17T10:01:56Z",
 	"published": "2024-12-18T10:05:42Z",
 	"related": [
 		"CVE-2024-4109"
 	],
 	"summary": "Red Hat Security Advisory: Red Hat JBoss Enterprise Application Platform 7.4.20 Security update",
-	"severity": [
-		{
-			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
-		}
-	],
 	"affected": [
 		{
 			"package": {
@@ -1460,6 +1454,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4109"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://github.com/undertow-io/undertow/pull/1668#"
 		}
 	]
 }
