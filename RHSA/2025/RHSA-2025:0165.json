@@ -1,9 +1,14 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2025:0165",
-	"modified": "2025-01-14T10:10:15Z",
+	"modified": "2025-01-21T10:09:52Z",
 	"published": "2025-01-10T10:02:55Z",
 	"related": [
+		"CVE-2025-0237",
+		"CVE-2025-0238",
+		"CVE-2025-0239",
+		"CVE-2025-0240",
+		"CVE-2025-0241",
 		"CVE-2025-0242",
 		"CVE-2025-0243"
 	],
@@ -108,6 +113,118 @@
 		},
 		{
 			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2025-0237"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2336182"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2025-0237"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2025-0237"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1915257"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.mozilla.org/security/advisories/mfsa2025-01/"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.mozilla.org/security/advisories/mfsa2025-02/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2025-0238"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2336165"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2025-0238"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2025-0238"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1915535"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.mozilla.org/security/advisories/mfsa2025-03/"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2025-0239"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2336170"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2025-0239"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2025-0239"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1929156"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2025-0240"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2336188"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2025-0240"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2025-0240"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1929623"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2025-0241"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2336168"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2025-0241"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2025-0241"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1933023"
+		},
+		{
+			"type": "REPORT",
 			"url": "https://access.redhat.com/security/cve/CVE-2025-0242"
 		},
 		{
@@ -121,18 +238,6 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://bugzilla.mozilla.org/buglist.cgi?bug_id=1874523%2C1926454%2C1931873%2C1932169"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://www.mozilla.org/security/advisories/mfsa2025-01/"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://www.mozilla.org/security/advisories/mfsa2025-02/"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://www.mozilla.org/security/advisories/mfsa2025-03/"
 		},
 		{
 			"type": "REPORT",
