@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2025:0423",
-	"modified": "2025-01-22T10:02:13Z",
+	"modified": "2025-01-23T10:02:36Z",
 	"published": "2025-01-22T10:02:13Z",
 	"related": [
 		"CVE-2025-21502"
@@ -1998,6 +1998,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2025-21502"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.oracle.com/security-alerts/cpujan2025.html#AppendixJAVA"
 		}
 	]
 }
