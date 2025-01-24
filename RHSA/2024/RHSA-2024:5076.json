@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:5076",
-	"modified": "2025-01-23T10:02:08Z",
+	"modified": "2025-01-24T10:02:09Z",
 	"published": "2024-09-30T20:23:34Z",
 	"related": [
 		"CVE-2024-37370",
@@ -271,6 +271,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-37371"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.oracle.com/security-alerts/cpujan2025.html#AppendixMSQL"
 		}
 	]
 }

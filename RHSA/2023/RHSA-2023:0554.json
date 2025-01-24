@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:0554",
-	"modified": "2025-01-21T10:02:19Z",
+	"modified": "2025-01-24T10:01:17Z",
 	"published": "2024-09-27T15:16:26Z",
 	"related": [
 		"CVE-2015-9251",
@@ -1422,6 +1422,10 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://blog.jquery.com/2020/04/10/jquery-3-5-0-released/"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
 		},
 		{
 			"type": "REPORT",
