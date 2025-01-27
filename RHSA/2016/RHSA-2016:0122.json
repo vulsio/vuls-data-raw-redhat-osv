@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2016:0122",
-	"modified": "2025-01-06T10:02:06Z",
+	"modified": "2025-01-27T10:01:54Z",
 	"published": "2024-09-15T23:28:02Z",
 	"related": [
 		"CVE-2015-0254"

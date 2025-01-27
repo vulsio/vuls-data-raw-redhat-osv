@@ -1,12 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:2951",
-	"modified": "2025-01-11T10:01:23Z",
+	"modified": "2025-01-27T10:05:42Z",
 	"published": "2024-09-13T23:27:04Z",
 	"related": [
 		"CVE-2021-26341",
 		"CVE-2021-33655",
 		"CVE-2021-33656",
+		"CVE-2021-47221",
 		"CVE-2021-47592",
 		"CVE-2022-1462",
 		"CVE-2022-1679",
@@ -1993,6 +1994,26 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/stable-queue.git/tree/releases/5.10.127/vt-drop-old-font-ioctls.patch"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2021-47221"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2282597"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2021-47221"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-47221"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://lore.kernel.org/linux-cve-announce/2024052135-CVE-2021-47221-4e17@gregkh/T"
 		},
 		{
 			"type": "REPORT",

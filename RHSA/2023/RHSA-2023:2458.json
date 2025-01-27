@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:2458",
-	"modified": "2025-01-11T10:01:22Z",
+	"modified": "2025-01-27T10:05:34Z",
 	"published": "2024-09-16T09:02:33Z",
 	"related": [
 		"CVE-2021-26341",
@@ -66,7 +66,8 @@
 		"CVE-2023-2177",
 		"CVE-2023-22998",
 		"CVE-2023-2513",
-		"CVE-2023-52340"
+		"CVE-2023-52340",
+		"CVE-2023-52905"
 	],
 	"summary": "Red Hat Security Advisory: kernel security, bug fix, and enhancement update",
 	"severity": [
@@ -5654,6 +5655,26 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit?id=af6d10345ca76670c1b7c37799f0d5576ccef277"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2023-52905"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2306433"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2023-52905"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-52905"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://lore.kernel.org/linux-cve-announce/2024082113-CVE-2023-52905-53fd@gregkh/T"
 		}
 	]
 }
