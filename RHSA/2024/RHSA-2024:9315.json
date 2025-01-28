@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:9315",
-	"modified": "2025-01-21T10:09:29Z",
+	"modified": "2025-01-28T10:09:38Z",
 	"published": "2024-11-15T21:33:20Z",
 	"related": [
 		"CVE-2019-25162",
@@ -35,6 +35,7 @@
 		"CVE-2023-52475",
 		"CVE-2023-52477",
 		"CVE-2023-52482",
+		"CVE-2023-52486",
 		"CVE-2023-52492",
 		"CVE-2023-52498",
 		"CVE-2023-52501",
@@ -12244,6 +12245,26 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://lore.kernel.org/linux-cve-announce/2024022922-CVE-2023-52482-9375@gregkh/T/#u"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://access.redhat.com/security/cve/CVE-2023-52486"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2269070"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://www.cve.org/CVERecord?id=CVE-2023-52486"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-52486"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://lore.kernel.org/linux-cve-announce/20240229155245.1571576-27-lee@kernel.org/T/#u"
 		},
 		{
 			"type": "REPORT",
