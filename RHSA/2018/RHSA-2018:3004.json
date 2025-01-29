@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:3004",
-	"modified": "2024-09-13T15:09:00Z",
+	"modified": "2025-01-29T10:01:27Z",
 	"published": "2024-09-13T15:09:00Z",
 	"related": [
 		"CVE-2018-16435",
@@ -156,7 +156,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2018/rhsa-2018_3004.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2018/rhsa-2018_3004.json"
 		},
 		{
 			"type": "REPORT",
