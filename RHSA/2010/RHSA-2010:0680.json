@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2010:0680",
-	"modified": "2024-11-22T03:40:34Z",
+	"modified": "2025-02-03T10:01:25Z",
 	"published": "2024-09-29T16:29:06Z",
 	"related": [
 		"CVE-2010-2760",
