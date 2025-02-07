@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2022:7343",
-	"modified": "2025-02-04T10:02:34Z",
+	"modified": "2025-02-07T10:05:49Z",
 	"published": "2024-09-18T04:28:41Z",
 	"related": [
 		"CVE-2019-11358",

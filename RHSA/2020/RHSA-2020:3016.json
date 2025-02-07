@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:3016",
-	"modified": "2024-09-13T22:05:57Z",
+	"modified": "2025-02-07T10:01:46Z",
 	"published": "2024-09-13T22:05:57Z",
 	"related": [
 		"CVE-2019-19807",
@@ -760,7 +760,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_3016.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_3016.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2022:5892",
-	"modified": "2025-02-03T10:04:38Z",
+	"modified": "2025-02-07T10:05:15Z",
 	"published": "2024-09-29T19:20:17Z",
 	"related": [
 		"CVE-2021-44906",
@@ -713,18 +713,6 @@
 			"url": "https://access.redhat.com/errata/RHSA-2022:5892"
 		},
 		{
-			"type": "ARTICLE",
-			"url": "https://access.redhat.com/security/updates/classification/#moderate"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.4/"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.4/html-single/installation_guide/"
-		},
-		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2066009"
 		},
@@ -735,6 +723,18 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2087186"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#moderate"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.4/"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.4/html-single/installation_guide/"
 		},
 		{
 			"type": "ARTICLE",

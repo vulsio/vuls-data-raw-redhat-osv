@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2022:5729",
-	"modified": "2025-02-05T10:01:07Z",
+	"modified": "2025-02-07T10:05:10Z",
 	"published": "2024-09-30T14:22:28Z",
 	"related": [
 		"CVE-2022-23773",
@@ -463,16 +463,16 @@
 			"url": "https://access.redhat.com/errata/RHSA-2022:5729"
 		},
 		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2077688"
+		},
+		{
 			"type": "ARTICLE",
 			"url": "https://access.redhat.com/security/updates/classification/#moderate"
 		},
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2064857"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2077688"
 		},
 		{
 			"type": "ADVISORY",

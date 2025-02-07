@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2022:4914",
-	"modified": "2025-02-04T10:02:14Z",
+	"modified": "2025-02-07T10:04:53Z",
 	"published": "2024-09-30T14:21:49Z",
 	"related": [
 		"CVE-2021-22959",
@@ -145,6 +145,10 @@
 			"url": "https://access.redhat.com/errata/RHSA-2022:4914"
 		},
 		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2066009"
+		},
+		{
 			"type": "ARTICLE",
 			"url": "https://access.redhat.com/security/updates/classification/#moderate"
 		},
@@ -183,10 +187,6 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2040862"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2066009"
 		},
 		{
 			"type": "ADVISORY",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:2169",
-	"modified": "2024-09-13T20:25:47Z",
+	"modified": "2025-02-07T10:02:50Z",
 	"published": "2024-09-13T20:25:47Z",
 	"related": [
 		"CVE-2021-3501",
@@ -725,7 +725,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_2169.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_2169.json"
 		},
 		{
 			"type": "REPORT",

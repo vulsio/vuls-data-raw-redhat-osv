@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:2394",
-	"modified": "2025-01-20T10:08:04Z",
+	"modified": "2025-02-07T10:13:44Z",
 	"published": "2024-09-24T08:51:43Z",
 	"related": [
 		"CVE-2020-26555",
@@ -9361,6 +9361,10 @@
 		},
 		{
 			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2231410"
+		},
+		{
+			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2239845"
 		},
 		{
@@ -9578,10 +9582,6 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://issues.redhat.com/browse/RHEL-7936"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2231410"
 		},
 		{
 			"type": "ARTICLE",

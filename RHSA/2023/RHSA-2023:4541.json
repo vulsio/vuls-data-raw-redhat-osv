@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:4541",
-	"modified": "2024-09-25T17:36:19Z",
+	"modified": "2025-02-07T10:08:40Z",
 	"published": "2024-09-25T17:36:19Z",
 	"related": [
 		"CVE-2022-42896",
@@ -745,7 +745,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_4541.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_4541.json"
 		},
 		{
 			"type": "REPORT",

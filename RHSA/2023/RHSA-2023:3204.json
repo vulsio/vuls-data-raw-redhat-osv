@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:3204",
-	"modified": "2025-02-04T10:03:42Z",
+	"modified": "2025-02-07T10:07:50Z",
 	"published": "2024-09-30T14:45:44Z",
 	"related": [
 		"CVE-2022-27664",
@@ -242,10 +242,6 @@
 		},
 		{
 			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2124668"
-		},
-		{
-			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2124669"
 		},
 		{
@@ -255,6 +251,10 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2134010"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2124668"
 		},
 		{
 			"type": "REPORT",

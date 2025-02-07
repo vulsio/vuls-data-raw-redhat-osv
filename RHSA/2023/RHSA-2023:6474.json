@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:6474",
-	"modified": "2025-02-05T10:01:53Z",
+	"modified": "2025-02-07T10:10:07Z",
 	"published": "2024-10-02T00:18:24Z",
 	"related": [
 		"CVE-2022-41723",
@@ -327,10 +327,6 @@
 		},
 		{
 			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2182485"
-		},
-		{
-			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2182896"
 		},
 		{
@@ -412,6 +408,10 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://issues.redhat.com/browse/RHEL-3132"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2182485"
 		},
 		{
 			"type": "ARTICLE",

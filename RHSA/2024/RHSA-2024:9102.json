@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:9102",
-	"modified": "2025-02-04T10:10:31Z",
+	"modified": "2025-02-07T10:18:50Z",
 	"published": "2024-11-15T20:28:15Z",
 	"related": [
 		"CVE-2022-4122",
@@ -232,6 +232,26 @@
 		},
 		{
 			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/RHEL-40811"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/RHEL-45979"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/RHEL-48760"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/RHEL-48917"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/RHEL-54361"
+		},
+		{
+			"type": "ARTICLE",
 			"url": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/9.5_release_notes/index"
 		},
 		{
@@ -280,31 +300,11 @@
 		},
 		{
 			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/RHEL-3092"
-		},
-		{
-			"type": "ARTICLE",
 			"url": "https://issues.redhat.com/browse/RHEL-32599"
 		},
 		{
 			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/RHEL-40811"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/RHEL-45979"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/RHEL-48760"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/RHEL-48917"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/RHEL-54361"
+			"url": "https://issues.redhat.com/browse/RHEL-3092"
 		},
 		{
 			"type": "ADVISORY",

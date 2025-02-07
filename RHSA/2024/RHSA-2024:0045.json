@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:0045",
-	"modified": "2025-02-04T10:05:35Z",
+	"modified": "2025-02-07T10:11:04Z",
 	"published": "2024-10-02T11:03:00Z",
 	"related": [
 		"CVE-2023-29483",
@@ -1803,30 +1803,6 @@
 			"url": "https://access.redhat.com/errata/RHSA-2024:0045"
 		},
 		{
-			"type": "ARTICLE",
-			"url": "https://access.redhat.com/security/updates/classification/#important"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://docs.openshift.com/container-platform/4.16/release_notes/ocp-4-16-release-notes.html"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2262921"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2268017"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2268018"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2268019"
-		},
-		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2268021"
 		},
@@ -1849,6 +1825,30 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2274767"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#important"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://docs.openshift.com/container-platform/4.16/release_notes/ocp-4-16-release-notes.html"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2262921"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2268017"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2268018"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2268019"
 		},
 		{
 			"type": "ADVISORY",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:6194",
-	"modified": "2025-02-04T10:08:54Z",
+	"modified": "2025-02-07T10:16:53Z",
 	"published": "2024-10-01T11:05:12Z",
 	"related": [
 		"CVE-2024-24783",
@@ -231,12 +231,12 @@
 			"url": "https://access.redhat.com/errata/RHSA-2024:6194"
 		},
 		{
-			"type": "ARTICLE",
-			"url": "https://access.redhat.com/security/updates/classification/#important"
-		},
-		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2268019"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#important"
 		},
 		{
 			"type": "REPORT",

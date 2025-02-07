@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:7551",
-	"modified": "2024-09-13T21:17:38Z",
+	"modified": "2025-02-07T10:10:39Z",
 	"published": "2024-09-13T21:17:38Z",
 	"related": [
 		"CVE-2023-20593",
@@ -725,7 +725,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_7551.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_7551.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:5085",
-	"modified": "2025-02-03T10:03:51Z",
+	"modified": "2025-02-07T10:03:44Z",
 	"published": "2024-09-29T18:30:20Z",
 	"related": [
 		"CVE-2020-8565",
@@ -69,11 +69,11 @@
 		},
 		{
 			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1989575"
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1996033"
 		},
 		{
 			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1996033"
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1989575"
 		},
 		{
 			"type": "REPORT",

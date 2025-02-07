@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:2715",
-	"modified": "2024-09-13T20:28:00Z",
+	"modified": "2025-02-07T10:02:56Z",
 	"published": "2024-09-13T20:28:00Z",
 	"related": [
 		"CVE-2021-32399",
@@ -729,7 +729,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_2715.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_2715.json"
 		},
 		{
 			"type": "REPORT",

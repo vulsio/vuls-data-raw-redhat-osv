@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:7200",
-	"modified": "2025-02-05T10:02:03Z",
+	"modified": "2025-02-07T10:11:03Z",
 	"published": "2024-10-01T23:30:12Z",
 	"related": [
 		"CVE-2023-39325",
@@ -165,6 +165,34 @@
 		},
 		{
 			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/OCPBUGS-22858"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/OCPBUGS-22936"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/OCPBUGS-25689"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/OCPBUGS-25851"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/OCPBUGS-25904"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/OCPBUGS-27398"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/OCPBUGS-27855"
+		},
+		{
+			"type": "ARTICLE",
 			"url": "https://access.redhat.com/security/updates/classification/#important"
 		},
 		{
@@ -174,10 +202,6 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2243296"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2253193"
 		},
 		{
 			"type": "REPORT",
@@ -252,36 +276,12 @@
 			"url": "https://issues.redhat.com/browse/OCPBUGS-22809"
 		},
 		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2253193"
+		},
+		{
 			"type": "ARTICLE",
 			"url": "https://issues.redhat.com/browse/OCPBUGS-22854"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/OCPBUGS-22858"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/OCPBUGS-22936"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/OCPBUGS-25689"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/OCPBUGS-25851"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/OCPBUGS-25904"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/OCPBUGS-27398"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/OCPBUGS-27855"
 		},
 		{
 			"type": "ADVISORY",

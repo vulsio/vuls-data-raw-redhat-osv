@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2018:2908",
-	"modified": "2025-02-03T10:02:58Z",
+	"modified": "2025-02-07T10:00:58Z",
 	"published": "2024-09-29T17:23:21Z",
 	"related": [
 		"CVE-2018-1002105",
@@ -349,10 +349,6 @@
 		},
 		{
 			"type": "ARTICLE",
-			"url": "https://access.redhat.com/security/vulnerabilities/3716411"
-		},
-		{
-			"type": "ARTICLE",
 			"url": "https://docs.openshift.com/container-platform/3.9/release_notes/ocp_3_9_release_notes.html"
 		},
 		{
@@ -390,6 +386,10 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1633767"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/vulnerabilities/3716411"
 		},
 		{
 			"type": "REPORT",

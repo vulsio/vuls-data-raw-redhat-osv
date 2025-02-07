@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2019:3833",
-	"modified": "2024-09-13T19:55:20Z",
+	"modified": "2025-02-07T10:01:21Z",
 	"published": "2024-09-13T19:55:20Z",
 	"related": [
 		"CVE-2018-12207",
@@ -834,7 +834,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2019/rhsa-2019_3833.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2019/rhsa-2019_3833.json"
 		},
 		{
 			"type": "REPORT",

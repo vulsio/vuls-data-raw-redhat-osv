@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:1739",
-	"modified": "2024-10-01T18:19:42Z",
+	"modified": "2025-02-07T10:02:45Z",
 	"published": "2024-10-01T18:19:42Z",
 	"related": [
 		"CVE-2019-19523",
@@ -846,7 +846,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_1739.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_1739.json"
 		},
 		{
 			"type": "REPORT",

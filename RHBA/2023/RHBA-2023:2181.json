@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHBA-2023:2181",
-	"modified": "2025-02-05T10:01:16Z",
+	"modified": "2025-02-07T10:06:22Z",
 	"published": "2024-10-02T00:14:10Z",
 	"related": [
 		"CVE-2022-41723",
@@ -196,10 +196,6 @@
 		},
 		{
 			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2133019"
-		},
-		{
-			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2137763"
 		},
 		{
@@ -209,6 +205,10 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2157587"
+		},
+		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2133019"
 		},
 		{
 			"type": "ADVISORY",

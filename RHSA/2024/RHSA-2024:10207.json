@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:10207",
-	"modified": "2025-02-04T10:06:04Z",
+	"modified": "2025-02-07T10:11:59Z",
 	"published": "2024-11-26T07:31:41Z",
 	"related": [
 		"CVE-2021-3859",
@@ -1152,6 +1152,10 @@
 		},
 		{
 			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2316116"
+		},
+		{
+			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2136141"
 		},
 		{
@@ -1177,10 +1181,6 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2270732"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2316116"
 		},
 		{
 			"type": "ARTICLE",

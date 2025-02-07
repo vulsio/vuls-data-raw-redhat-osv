@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:6274",
-	"modified": "2024-09-13T19:00:56Z",
+	"modified": "2025-02-07T10:10:02Z",
 	"published": "2024-09-13T19:00:56Z",
 	"related": [
 		"CVE-2023-3153"
@@ -237,7 +237,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_6274.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_6274.json"
 		},
 		{
 			"type": "REPORT",

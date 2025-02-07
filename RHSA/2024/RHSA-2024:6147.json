@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:6147",
-	"modified": "2025-02-04T10:08:50Z",
+	"modified": "2025-02-07T10:16:47Z",
 	"published": "2024-10-22T02:24:21Z",
 	"related": [
 		"CVE-2024-22020",
@@ -252,16 +252,16 @@
 			"url": "https://access.redhat.com/errata/RHSA-2024:6147"
 		},
 		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2296417"
+		},
+		{
 			"type": "ARTICLE",
 			"url": "https://access.redhat.com/security/updates/classification/#moderate"
 		},
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2293200"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2296417"
 		},
 		{
 			"type": "ADVISORY",

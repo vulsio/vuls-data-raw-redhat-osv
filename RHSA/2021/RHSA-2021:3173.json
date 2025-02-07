@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2021:3173",
-	"modified": "2024-09-13T20:29:24Z",
+	"modified": "2025-02-07T10:03:07Z",
 	"published": "2024-09-13T20:29:24Z",
 	"related": [
 		"CVE-2021-22543",
@@ -1650,7 +1650,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2021/rhsa-2021_3173.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2021/rhsa-2021_3173.json"
 		},
 		{
 			"type": "REPORT",

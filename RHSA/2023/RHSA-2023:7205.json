@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:7205",
-	"modified": "2025-02-04T10:05:13Z",
+	"modified": "2025-02-07T10:10:20Z",
 	"published": "2024-10-22T01:55:14Z",
 	"related": [
 		"CVE-2023-38552",
@@ -257,16 +257,16 @@
 			"url": "https://access.redhat.com/errata/RHSA-2023:7205"
 		},
 		{
+			"type": "REPORT",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2242803"
+		},
+		{
 			"type": "ARTICLE",
 			"url": "https://access.redhat.com/security/updates/classification/#important"
 		},
 		{
 			"type": "ARTICLE",
 			"url": "https://access.redhat.com/security/vulnerabilities/RHSB-2023-003"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2242803"
 		},
 		{
 			"type": "REPORT",

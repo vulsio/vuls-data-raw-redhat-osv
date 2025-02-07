@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:1676",
-	"modified": "2025-02-04T10:06:41Z",
+	"modified": "2025-02-07T10:13:13Z",
 	"published": "2024-10-01T23:40:16Z",
 	"related": [
 		"CVE-2023-1973",
@@ -1521,6 +1521,10 @@
 		},
 		{
 			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/JBEAP-26280"
+		},
+		{
+			"type": "ARTICLE",
 			"url": "https://access.redhat.com/security/updates/classification/#important"
 		},
 		{
@@ -1550,14 +1554,6 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://issues.redhat.com/browse/JBEAP-19969"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/JBEAP-26168"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/JBEAP-26280"
 		},
 		{
 			"type": "ARTICLE",
@@ -1606,6 +1602,10 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://issues.redhat.com/browse/JBEAP-26636"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/JBEAP-26168"
 		},
 		{
 			"type": "ARTICLE",

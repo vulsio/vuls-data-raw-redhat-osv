@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:1966",
-	"modified": "2024-09-13T16:18:34Z",
+	"modified": "2025-02-07T10:01:35Z",
 	"published": "2024-09-13T16:18:34Z",
 	"related": [
 		"CVE-2019-19768"
@@ -651,7 +651,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_1966.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_1966.json"
 		},
 		{
 			"type": "REPORT",

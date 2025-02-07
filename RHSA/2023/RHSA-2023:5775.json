@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:5775",
-	"modified": "2024-09-13T18:57:43Z",
+	"modified": "2025-02-07T10:09:28Z",
 	"published": "2024-09-13T18:57:43Z",
 	"related": [
 		"CVE-2023-3609",
@@ -454,7 +454,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2023/rhsa-2023_5775.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2023/rhsa-2023_5775.json"
 		},
 		{
 			"type": "REPORT",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2020:3228",
-	"modified": "2024-09-13T18:10:02Z",
+	"modified": "2025-02-07T10:01:50Z",
 	"published": "2024-09-13T18:10:02Z",
 	"related": [
 		"CVE-2019-20908",
@@ -660,7 +660,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/security/data/csaf/v2/advisories/2020/rhsa-2020_3228.json"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2020/rhsa-2020_3228.json"
 		},
 		{
 			"type": "REPORT",
