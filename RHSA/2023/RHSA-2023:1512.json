@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2023:1512",
-	"modified": "2025-02-04T10:03:15Z",
+	"modified": "2025-02-10T10:01:07Z",
 	"published": "2024-09-30T16:31:03Z",
 	"related": [
 		"CVE-2022-1471",
@@ -2562,10 +2562,6 @@
 		},
 		{
 			"type": "ARTICLE",
-			"url": "https://issues.redhat.com/browse/JBEAP-23572"
-		},
-		{
-			"type": "ARTICLE",
 			"url": "https://issues.redhat.com/browse/JBEAP-24120"
 		},
 		{
@@ -2643,6 +2639,10 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://issues.redhat.com/browse/JBEAP-24605"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://issues.redhat.com/browse/JBEAP-23572"
 		},
 		{
 			"type": "ARTICLE",
