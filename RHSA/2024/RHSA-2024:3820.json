@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:3820",
-	"modified": "2025-02-04T10:07:41Z",
+	"modified": "2025-02-12T10:02:36Z",
 	"published": "2024-09-30T15:19:26Z",
 	"related": [
 		"CVE-2024-34064"
@@ -4713,12 +4713,12 @@
 			"url": "https://access.redhat.com/errata/RHSA-2024:3820"
 		},
 		{
-			"type": "ARTICLE",
-			"url": "https://access.redhat.com/security/updates/classification/#moderate"
-		},
-		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2279476"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#moderate"
 		},
 		{
 			"type": "ARTICLE",
