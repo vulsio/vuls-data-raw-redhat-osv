@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2025:1270",
-	"modified": "2025-02-12T10:03:58Z",
+	"modified": "2025-02-13T10:04:37Z",
 	"published": "2025-02-11T10:06:02Z",
 	"related": [
 		"CVE-2024-53104"
@@ -9128,6 +9128,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-53104"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/articles/7107058"
 		},
 		{
 			"type": "ARTICLE",
