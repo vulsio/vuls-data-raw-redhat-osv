@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2024:9331",
-	"modified": "2024-11-24T15:40:37Z",
+	"modified": "2025-02-15T10:02:41Z",
 	"published": "2024-11-12T17:56:50Z",
 	"related": [
 		"CVE-2024-26458",
@@ -759,20 +759,20 @@
 			"url": "https://access.redhat.com/errata/RHSA-2024:9331"
 		},
 		{
-			"type": "ARTICLE",
-			"url": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/9.5_release_notes/index"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://access.redhat.com/security/updates/classification/#moderate"
-		},
-		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2266731"
 		},
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2266740"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/9.5_release_notes/index"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/security/updates/classification/#moderate"
 		},
 		{
 			"type": "REPORT",

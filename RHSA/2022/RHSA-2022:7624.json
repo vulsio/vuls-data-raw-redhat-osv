@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "RHSA-2022:7624",
-	"modified": "2024-11-22T19:48:55Z",
+	"modified": "2025-02-15T10:01:29Z",
 	"published": "2024-09-16T08:35:57Z",
 	"related": [
 		"CVE-2021-21708",
@@ -1659,10 +1659,6 @@
 			"url": "https://access.redhat.com/security/updates/classification/#moderate"
 		},
 		{
-			"type": "ARTICLE",
-			"url": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/8.7_release_notes/index"
-		},
-		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2055879"
 		},
@@ -1677,6 +1673,10 @@
 		{
 			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2112814"
+		},
+		{
+			"type": "ARTICLE",
+			"url": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/8.7_release_notes/index"
 		},
 		{
 			"type": "ADVISORY",
