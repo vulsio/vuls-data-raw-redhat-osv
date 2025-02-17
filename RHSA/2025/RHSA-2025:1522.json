@@ -1,12 +1,10 @@
 {
 	"schema_version": "1.6.0",
-	"id": "RHSA-2025:1443",
-	"modified": "2025-02-17T10:02:09Z",
-	"published": "2025-02-14T10:03:23Z",
+	"id": "RHSA-2025:1522",
+	"modified": "2025-02-17T10:02:12Z",
+	"published": "2025-02-17T10:02:12Z",
 	"related": [
-		"CVE-2025-22150",
-		"CVE-2025-23083",
-		"CVE-2025-23085"
+		"CVE-2025-23083"
 	],
 	"summary": "Red Hat Security Advisory: nodejs:20 security update",
 	"severity": [
@@ -18,7 +16,7 @@
 	"affected": [
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "nodejs",
 				"purl": "pkg:rpm/redhat/nodejs"
 			},
@@ -30,18 +28,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:20.18.2-1.module+el9.5.0+22758+4ad2c198"
+							"fixed": "1:20.18.2-1.module+el9.4.0+22789+7c201776"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1443.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1522.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "nodejs-debuginfo",
 				"purl": "pkg:rpm/redhat/nodejs-debuginfo"
 			},
@@ -53,18 +51,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:20.18.2-1.module+el9.5.0+22758+4ad2c198"
+							"fixed": "1:20.18.2-1.module+el9.4.0+22789+7c201776"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1443.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1522.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "nodejs-debugsource",
 				"purl": "pkg:rpm/redhat/nodejs-debugsource"
 			},
@@ -76,18 +74,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:20.18.2-1.module+el9.5.0+22758+4ad2c198"
+							"fixed": "1:20.18.2-1.module+el9.4.0+22789+7c201776"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1443.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1522.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "nodejs-devel",
 				"purl": "pkg:rpm/redhat/nodejs-devel"
 			},
@@ -99,18 +97,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:20.18.2-1.module+el9.5.0+22758+4ad2c198"
+							"fixed": "1:20.18.2-1.module+el9.4.0+22789+7c201776"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1443.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1522.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "nodejs-docs",
 				"purl": "pkg:rpm/redhat/nodejs-docs"
 			},
@@ -122,18 +120,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:20.18.2-1.module+el9.5.0+22758+4ad2c198"
+							"fixed": "1:20.18.2-1.module+el9.4.0+22789+7c201776"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1443.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1522.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "nodejs-full-i18n",
 				"purl": "pkg:rpm/redhat/nodejs-full-i18n"
 			},
@@ -145,18 +143,18 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:20.18.2-1.module+el9.5.0+22758+4ad2c198"
+							"fixed": "1:20.18.2-1.module+el9.4.0+22789+7c201776"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1443.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1522.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "nodejs-nodemon",
 				"purl": "pkg:rpm/redhat/nodejs-nodemon"
 			},
@@ -174,12 +172,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1443.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1522.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "nodejs-packaging",
 				"purl": "pkg:rpm/redhat/nodejs-packaging"
 			},
@@ -197,12 +195,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1443.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1522.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "nodejs-packaging-bundler",
 				"purl": "pkg:rpm/redhat/nodejs-packaging-bundler"
 			},
@@ -220,12 +218,12 @@
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1443.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1522.json"
 			}
 		},
 		{
 			"package": {
-				"ecosystem": "Red Hat:enterprise_linux:9::appstream",
+				"ecosystem": "Red Hat:rhel_eus:9.4::appstream",
 				"name": "npm",
 				"purl": "pkg:rpm/redhat/npm"
 			},
@@ -237,20 +235,20 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1:10.8.2-1.20.18.2.1.module+el9.5.0+22758+4ad2c198"
+							"fixed": "1:10.8.2-1.20.18.2.1.module+el9.4.0+22789+7c201776"
 						}
 					]
 				}
 			],
 			"database_specific": {
-				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1443.json"
+				"source": "https://security.access.redhat.com/data/osv/RHSA-2025:1522.json"
 			}
 		}
 	],
 	"references": [
 		{
 			"type": "ADVISORY",
-			"url": "https://access.redhat.com/errata/RHSA-2025:1443"
+			"url": "https://access.redhat.com/errata/RHSA-2025:1522"
 		},
 		{
 			"type": "ARTICLE",
@@ -258,59 +256,11 @@
 		},
 		{
 			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2339176"
-		},
-		{
-			"type": "REPORT",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2339392"
 		},
 		{
-			"type": "REPORT",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2342618"
-		},
-		{
 			"type": "ADVISORY",
-			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2025/rhsa-2025_1443.json"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://access.redhat.com/security/cve/CVE-2025-22150"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://www.cve.org/CVERecord?id=CVE-2025-22150"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://nvd.nist.gov/vuln/detail/CVE-2025-22150"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://blog.securityevaluators.com/hacking-the-javascript-lottery-80cc437e3b7f"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://github.com/nodejs/undici/blob/8b06b8250907d92fead664b3368f1d2aa27c1f35/lib/web/fetch/body.js#L113"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://github.com/nodejs/undici/commit/711e20772764c29f6622ddc937c63b6eefdf07d0"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://github.com/nodejs/undici/commit/c2d78cd19fe4f4c621424491e26ce299e65e934a"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://github.com/nodejs/undici/commit/c3acc6050b781b827d80c86cbbab34f14458d385"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://github.com/nodejs/undici/security/advisories/GHSA-c76h-2ccp-4975"
-		},
-		{
-			"type": "ARTICLE",
-			"url": "https://hackerone.com/reports/2913312"
+			"url": "https://security.access.redhat.com/data/csaf/v2/advisories/2025/rhsa-2025_1522.json"
 		},
 		{
 			"type": "REPORT",
@@ -327,18 +277,6 @@
 		{
 			"type": "ARTICLE",
 			"url": "https://nodejs.org/en/blog/vulnerability/january-2025-security-releases"
-		},
-		{
-			"type": "REPORT",
-			"url": "https://access.redhat.com/security/cve/CVE-2025-23085"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://www.cve.org/CVERecord?id=CVE-2025-23085"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://nvd.nist.gov/vuln/detail/CVE-2025-23085"
 		}
 	]
 }
